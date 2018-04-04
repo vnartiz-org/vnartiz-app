@@ -1,0 +1,1085 @@
+﻿msgid "Real estate"
+msgstr "Недвижимость"
+
+msgid "Recruitment"
+msgstr "Набор персонала"
+
+msgid "Photo"
+msgstr "Фото"
+
+msgid "Our services"
+msgstr "Наши услуги"
+
+msgid "About us"
+msgstr "О нас"
+
+msgid "WRE briefly"
+msgstr "WRE - Мировая недвижимость - это поставщик решений для технологических решений для брокера по недвижимости, а также легкий доступ к клиентам и модернизация бизнеса. Он также позволяет управлять бизнесом, активами и сотрудниками ..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment решение прикладных информационных технологий в области найма для работодателей, ищущих работу, наймодателя, брокера по найму. Это решение также имеет другое название Recruitment Network of Vietnamese."
+
+msgid "iphoto briefly"
+msgstr "iPhoto является домом для хранения воспоминаний, счастливых и печальных моментов жизни. Пожалуйста, поделитесь своими мыслями, чувствами и своей страстью ..."
+
+msgid "Movie"
+msgstr "Кино"
+
+msgid "Music"
+msgstr "Музыка"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "Соискатель"
+
+msgid "Employer"
+msgstr "работодатель"
+
+msgid "Multimedia"
+msgstr "мультимедиа"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "Создать личную учетную запись"
+
+msgid "Create an enterprise account"
+msgstr "Создание учетной записи предприятия"
+
+msgid "One account for all application"
+msgstr "Одна учетная запись для всех приложений"
+
+msgid "One application for all devices"
+msgstr "Одно приложение для всех устройств"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "Мы обязуемся, чтобы у нас был наилучший способ использования нашего приложения"
+
+msgid "All features security in all our application"
+msgstr "Все функции безопасности во всем нашем приложении"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "Мы фиксируем вашу учетную запись всегда на уровне самого высокого уровня безопасности"
+
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "Менее 250 долларов США"
+
+msgid "From 250 to 500 USD"
+msgstr "От 250 до 500 долларов США"
+
+msgid "From 500 to 1000 USD"
+msgstr "От 500 до 1000 долларов США"
+
+msgid "From 1000 to 2000 USD"
+msgstr "От 1000 до 2000 долларов США"
+
+msgid "From 2000 to 4000 USD"
+msgstr "От 2000 до 4000 долларов США"
+
+msgid "Over 4000 USD"
+msgstr "Более 4000 долларов США"
+
+msgid "Negotiable"
+msgstr "оборотный"
+
+# Rate
+msgid "Less than 20"
+msgstr "Менее 20"
+
+msgid "From 20 to 50"
+msgstr "От 20 до 50"
+
+msgid "From 50 to 100"
+msgstr "От 50 до 100"
+
+msgid "From 100 to 200"
+msgstr "От 100 до 200"
+
+msgid "From 200 to 500"
+msgstr "От 200 до 500"
+
+msgid "From 500 to 1000"
+msgstr "От 500 до 1000"
+
+msgid "Greater than 1000"
+msgstr "Более 1000"
+
+# Grade
+msgid "Student"
+msgstr "Студент"
+
+msgid "Junior"
+msgstr "юниор"
+
+msgid "Senior"
+msgstr "Старшая"
+
+msgid "Expert"
+msgstr "эксперт"
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "Еще не эксперимент"
+
+msgid "One year"
+msgstr "Один год"
+
+msgid "Two years"
+msgstr "Два года"
+
+msgid "Three years"
+msgstr "Три года"
+
+msgid "Five years"
+msgstr "Пять лет"
+
+msgid "Ten years"
+msgstr "Десять лет"
+
+msgid "Over ten years"
+msgstr "Более десяти лет"
+
+# Level
+msgid "Begin"
+msgstr "Начать"
+
+msgid "Medium"
+msgstr "средний"
+
+msgid "Good"
+msgstr "Хорошо"
+
+msgid "Very Good"
+msgstr "Отлично"
+
+msgid "Expert"
+msgstr "эксперт"
+
+# Duration
+msgid "One week"
+msgstr "Одна неделя"
+
+msgid "Two weeks"
+msgstr "Две недели"
+
+msgid "Three weeks"
+msgstr "Три недели"
+
+msgid "One month"
+msgstr "Один месяц"
+
+msgid "Two months"
+msgstr "Два месяца"
+
+msgid "Three months"
+msgstr "Три месяца"
+
+# General
+msgid "Currency"
+msgstr "валюта"
+
+msgid "Amount"
+msgstr "Количество"
+
+msgid "Expire year"
+msgstr "Срок действия"
+
+msgid "Expire month"
+msgstr "Срок действия"
+
+msgid "Please check your network connection!"
+msgstr "Проверьте подключение к сети!"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "Обработка пожертвований не удалась! Пожалуйста, попробуйте еще раз."
+
+msgid "Payment servers are down! Please try again."
+msgstr "Платежные серверы не работают! Пожалуйста, попробуйте еще раз."
+
+msgid "Your card number is incorrect."
+msgstr "Номер вашей карты неверен."
+
+msgid "The card was declined."
+msgstr "Карта была отклонена."
+
+msgid "Your card's expiration year is invalid."
+msgstr "Срок годности вашей карты недействителен."
+
+msgid "Your card's expiration month is invalid."
+msgstr "Недопустимый месяц истечения срока действия вашей карты."
+
+msgid "Preview Account"
+msgstr "Предварительный просмотр учетной записи"
+
+msgid "Preview account"
+msgstr "Предварительный просмотр учетной записи"
+
+msgid "You signed in success. Please check your email."
+msgstr "Вы подписались успешно. Проверьте свою электронную почту."
+
+msgid "You signed in fail! Please try again."
+msgstr "Вы вошли в систему с ошибкой! Пожалуйста, попробуйте еще раз."
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "Вы вошли в систему и добились успеха в работе. Проверьте свою электронную почту."
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "Вы входите в систему и делаете резюме неудачными! Пожалуйста, попробуйте еще раз."
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "Вы вошли в систему и создали успешный профиль. Проверьте свою электронную почту."
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "Вы входите в систему и создаете провал профиля! Пожалуйста, попробуйте еще раз."
+
+msgid "View all"
+msgstr "Посмотреть все"
+
+msgid "Consultant"
+msgstr "консультант"
+
+msgid "Consultant List"
+msgstr "Список консультантов"
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "Вы не можете изменять продолжительность или карту после начала или пожертвования."
+
+msgid "Post to offer"
+msgstr "Опубликовать объявление"
+
+msgid "Create now"
+msgstr "Создать сейчас"
+
+msgid "Yes"
+msgstr "да"
+
+msgid "No"
+msgstr "нет"
+
+msgid "Recruit"
+msgstr "Нанимать на работу"
+
+msgid "Recruit now"
+msgstr "Набирай сейчас"
+
+msgid "Recruit Master"
+msgstr "Мастер вербовки"
+
+msgid "Add Recruit"
+msgstr "Добавить рекрут"
+
+msgid "Edit Recruit"
+msgstr "Редактировать"
+
+msgid "Recruit list"
+msgstr "Список рекрутов"
+
+msgid "Recruiter was not available."
+msgstr "Рекрутер не был доступен."
+
+msgid "Applicant"
+msgstr "заявитель"
+
+msgid "Applicant list"
+msgstr "Список претендентов"
+
+msgid "Apply letter"
+msgstr "Применить письмо"
+
+msgid "Apply date time"
+msgstr "Применить дату"
+
+msgid "Match"
+msgstr "Совпадение"
+
+msgid "Not set"
+msgstr "Не задано"
+
+msgid "Not match"
+msgstr "Не соответствует"
+
+msgid "Matched"
+msgstr "Подобранная"
+
+msgid "Confirm"
+msgstr "подтвердить"
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr "Управляйте своим аккаунтом, контактной информацией и информацией о компании."
+
+msgid "Account has edited success."
+msgstr "Учетная запись отредактировала успех."
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "Создатель профиля - это компонент, который позволяет вам лучше всего представить свою компанию для сотрудника и партнера. <br/> Он также отображается в вашей компании в списке компаний."
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "Пожертвуйте, чтобы продвигать презентацию вашей компании в списке спонсоров и просматривать сначала сотрудника и партнера."
+
+msgid "Candidate"
+msgstr "кандидат"
+
+msgid "Candidate List"
+msgstr "Список кандидатов"
+
+msgid "Preview Candidate"
+msgstr "Предварительный просмотр кандидата"
+
+msgid "Candidate was not available."
+msgstr "Кандидат не был доступен."
+
+msgid "Square logo"
+msgstr "Квадратный логотип"
+
+msgid "Rectangle logo"
+msgstr "прямоугольный логотип"
+
+msgid "Allowance No."
+msgstr "Лицензия №."
+
+msgid "of this candidate."
+msgstr "этого кандидата."
+
+msgid "Gender"
+msgstr "Пол"
+
+msgid "Male"
+msgstr "мужчина"
+
+msgid "Female"
+msgstr "женский"
+
+msgid "Birthday"
+msgstr "день рождения"
+
+msgid "Please"
+msgstr "пожалуйста"
+
+msgid "to"
+msgstr "в"
+
+msgid "Apply"
+msgstr "Подать заявление"
+
+msgid "Application"
+msgstr "заявка"
+
+msgid "Letter"
+msgstr "Письмо"
+
+msgid "Application has sent success."
+msgstr "Приложение пришло к успеху."
+
+msgid "You applied this job already."
+msgstr "Вы уже применили эту работу."
+
+msgid "Logo"
+msgstr "логотип"
+
+msgid "Top Companies"
+msgstr "Лучшие компании"
+
+msgid "Latest join"
+msgstr "Последнее соединение"
+
+msgid "Joined on"
+msgstr "Присоединился"
+
+msgid "Preview Company"
+msgstr "Предварительный просмотр компании"
+
+msgid "Job was not available."
+msgstr "Работа была недоступна."
+
+msgid "First"
+msgstr "Первый"
+
+msgid "Last"
+msgstr "Последний"
+
+msgid "Job list"
+msgstr "Список вакансий"
+
+msgid "Share"
+msgstr "Поделиться"
+
+msgid "Like"
+msgstr "подобно"
+
+msgid "this job."
+msgstr "эта работа."
+
+msgid "Apply now"
+msgstr "Применить сейчас"
+
+msgid "Add"
+msgstr "Добавить"
+
+msgid "Edit"
+msgstr "редактировать"
+
+msgid "Delete"
+msgstr "Удалить"
+
+msgid "Add skill"
+msgstr "Добавить навык"
+
+msgid "Add group"
+msgstr "Добавить группу"
+
+msgid "Remove"
+msgstr "Удалить"
+
+msgid "Remove skill"
+msgstr "Удалить навык"
+
+msgid "Remove group"
+msgstr "Удалить группу"
+
+msgid "Back"
+msgstr "назад"
+
+msgid "Make it now"
+msgstr "Сделайте это сейчас"
+
+msgid "Create it now"
+msgstr "Создайте его сейчас"
+
+msgid "Promotion now"
+msgstr "Продвижение сейчас"
+
+msgid "Search Job"
+msgstr "Поиск работы"
+
+msgid "No result find out."
+msgstr "Никакого результата не найдено."
+
+msgid "Preview Job"
+msgstr "Предварительный просмотр задания"
+
+msgid "Job"
+msgstr "работа"
+
+msgid "Result"
+msgstr "результат"
+
+msgid "Rate"
+msgstr "Ставка"
+
+msgid "Mission"
+msgstr "миссия"
+
+msgid "Introduction"
+msgstr "Введение"
+
+msgid "Quantity"
+msgstr "Количество"
+
+msgid "Input your quantity"
+msgstr "Введите количество"
+
+msgid "Grade"
+msgstr "класс"
+
+msgid "Salary"
+msgstr "Зарплата"
+
+msgid "Requirement"
+msgstr "требование"
+
+msgid "Input your requirement"
+msgstr "Введите свое требование"
+
+msgid "Please select"
+msgstr "Пожалуйста выберите"
+
+msgid "Sign in now"
+msgstr "Войдите сейчас"
+
+msgid "Edit now"
+msgstr ""
+
+msgid "If you have account already please login first."
+msgstr "Если у вас уже есть учетная запись, сначала войдите в систему."
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "Резюме Maker - это компонент, позволяющий вам создавать свое резюме. <br/> Он также позволяет печатать на любом принтере и форматировать его в Excel или CSV-файле."
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "Создатель профиля - это компонент, который позволяет вам лучше всего вносить свои навыки. <br/> Он также позволяет печатать на любом принтере и форматировать его в Excel или CSV-файле."
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "Центр поощрения - это компонент, который позволяет вам лучше всего представить себя работодателю и рекрутеру. <br/> Также вы находитесь в списке спонсоров и представляете свои знания, навыки и эксперименты."
+
+msgid "Resume"
+msgstr "Продолжить"
+
+msgid "Resume list"
+msgstr "Список резюме"
+
+msgid "Add Resume"
+msgstr "Добавить резюме"
+
+msgid "Edit Resume"
+msgstr "Изменить резюме"
+
+msgid "Resume was not available."
+msgstr "Резюме не было доступно."
+
+msgid "Profile"
+msgstr "Профиль"
+
+msgid "Profile list"
+msgstr "Список профилей"
+
+msgid "Add Profile"
+msgstr "Добавить профиль"
+
+msgid "Edit Profile"
+msgstr "Редактировать профиль"
+
+msgid "Profile was not available."
+msgstr "Профиль недоступен"
+
+msgid "Promotion was not available."
+msgstr "Продвижение было недоступно."
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "Резюме не было доступно. Создайте минимум для продвижения."
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "Профиль недоступен. Создайте минимум для продвижения."
+
+msgid "Promotion list"
+msgstr "Промо-список"
+
+msgid "Add Promotion"
+msgstr "Добавить рекламу"
+
+msgid "Edit Promotion"
+msgstr "Изменить продвижение"
+
+msgid "Input your skill group name"
+msgstr "Введите название группы навыков"
+
+msgid "Level"
+msgstr "уровень"
+
+msgid "Skill"
+msgstr "Умение"
+
+msgid "Skill name"
+msgstr "Название навыка"
+
+msgid "Duration"
+msgstr "продолжительность"
+
+msgid "Card"
+msgstr "Карта"
+
+msgid "Card type"
+msgstr "Тип карты"
+
+msgid "Other card"
+msgstr "Другая карточка"
+
+msgid "Input your other card name"
+msgstr "Введите другое имя карты"
+
+msgid "Card No."
+msgstr "Номер карты"
+
+msgid "Input your card number"
+msgstr "Введите номер своей карты"
+
+msgid "Title"
+msgstr "заглавие"
+
+msgid "Input your title"
+msgstr "Введите свой заголовок"
+
+msgid "Description"
+msgstr "Описание"
+
+msgid "Input your description"
+msgstr "Введите описание"
+
+msgid "Input your mission"
+msgstr "Введите свою миссию"
+
+msgid "Input your introduction"
+msgstr "Введите свое введение"
+
+msgid "Education"
+msgstr "образование"
+
+msgid "Experiment"
+msgstr "эксперимент"
+
+msgid "School"
+msgstr "Школа"
+
+msgid "Input your school name"
+msgstr "Введите название своей школы"
+
+msgid "Start"
+msgstr "Начало"
+
+msgid "End"
+msgstr "Конец"
+
+msgid "Major"
+msgstr "Главный"
+
+msgid "Company"
+msgstr "Компания"
+
+msgid "Input your company name"
+msgstr "Введите название своей компании"
+
+msgid "Identify No."
+msgstr "Определить №."
+
+msgid "Input your identify number"
+msgstr "Введите свой идентификационный номер"
+
+msgid "Tax code"
+msgstr "Налоговый кодекс"
+
+msgid "Input your tax code"
+msgstr "Введите свой налоговый код"
+
+msgid "Name"
+msgstr "имя"
+
+msgid "Input your name"
+msgstr "Введите свое имя"
+
+msgid "Username"
+msgstr "имя пользователя"
+
+msgid "Input your username"
+msgstr "Введите свое имя пользователя"
+
+msgid "Password"
+msgstr "пароль"
+
+msgid "Input your password"
+msgstr "Введите пароль"
+
+msgid "First name"
+msgstr "Имя"
+
+msgid "Input your first name"
+msgstr "Введите свое имя"
+
+msgid "Last name"
+msgstr "Фамилия"
+
+msgid "Input your last name"
+msgstr "Введите свою фамилию"
+
+msgid "Email"
+msgstr "Эл. адрес"
+
+msgid "account@domain"
+msgstr "Счет@домен"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Input your phone"
+msgstr "Введите свой телефон"
+
+msgid "Address"
+msgstr "Адрес"
+
+msgid "Input your address"
+msgstr "Введите адрес"
+
+msgid "Title"
+msgstr "заглавие"
+
+msgid "Input your title"
+msgstr "Введите свой заголовок"
+
+msgid "Content"
+msgstr "содержание"
+
+msgid "Input your content"
+msgstr "Введите свой контент"
+
+msgid "Position"
+msgstr "Должность"
+
+msgid "Input your position"
+msgstr "Введите свою позицию"
+
+msgid "Major/Field"
+msgstr "Основное поле"
+
+msgid "Country"
+msgstr "Страна"
+
+msgid "Location"
+msgstr "Место нахождения"
+
+msgid "Expire date"
+msgstr "Годен до"
+
+msgid "Expire on"
+msgstr "Срок действия"
+
+msgid "Action"
+msgstr "действие"
+
+msgid "View detail"
+msgstr "Просмотреть детали"
+
+# Template
+msgid "EMPLOYER"
+msgstr "РАБОТОДАТЕЛЬ"
+
+msgid "EMPLOYEE"
+msgstr "НАЕМНЫЙ РАБОЧИЙ"
+
+msgid "Search Jobs"
+msgstr "Поиск вакансий"
+
+msgid "Companies List"
+msgstr "Список компаний"
+
+msgid "Keyword"
+msgstr "Ключевое слово"
+
+msgid "All majors"
+msgstr "Все майоры"
+
+msgid "All countries"
+msgstr "Все страны"
+
+msgid "All locations"
+msgstr "Все места"
+
+msgid "Search now"
+msgstr "Ищи сейчас"
+
+msgid "Login"
+msgstr "Авторизоваться"
+
+msgid "You were login success."
+msgstr "Вы были успешным при входе в систему."
+
+msgid "This account was not available!"
+msgstr "Эта учетная запись недоступна!"
+
+msgid "Login now"
+msgstr "Вход в систему"
+
+msgid "Create an account"
+msgstr "Завести аккаунт"
+
+msgid "Forgot password"
+msgstr "Забыли пароль"
+
+msgid "Account"
+msgstr "Счет"
+
+msgid "Hello"
+msgstr "Здравствуйте"
+
+msgid "Logout"
+msgstr "Выйти"
+
+msgid "Edit account"
+msgstr "Редактировать аккаунт"
+
+msgid "Edit Account"
+msgstr "Редактировать аккаунт"
+
+msgid "Manage your Account information and Contact information."
+msgstr "Управляйте своей учетной записью и контактной информацией."
+
+msgid "Sponsor"
+msgstr "спонсор"
+
+msgid "Subscribe"
+msgstr "Подписывайся"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "Подпишитесь, чтобы получать последнюю информацию и новые оповещения о прибытии."
+
+msgid "Subscribe success."
+msgstr "Подписывайте успех."
+
+msgid "Subscribe fail."
+msgstr "Подписание неудачи."
+
+msgid "Subscribe now"
+msgstr "Подпишись сейчас"
+
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+msgid "Contact us now to get more information."
+msgstr "Свяжитесь с нами сейчас, чтобы получить дополнительную информацию."
+
+msgid "Contact now"
+msgstr "связаться сейчас"
+
+msgid "Registry to get more features"
+msgstr "Реестр, чтобы получить больше возможностей"
+
+msgid "Contact us success."
+msgstr "Свяжитесь с нами."
+
+msgid "Contact us fail!"
+msgstr "Свяжитесь с нами с ошибкой!"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "О нас"
+
+msgid "Support"
+msgstr "Поддержка"
+
+msgid "FAQ"
+msgstr "Вопросы-Ответы"
+
+msgid "Component"
+msgstr "Компонент"
+
+msgid "Resume Maker"
+msgstr "Резюме"
+
+msgid "Profile Creator"
+msgstr "Создатель профиля"
+
+msgid "Promotion Center"
+msgstr "Центр продвижения"
+
+msgid "Follow us"
+msgstr "Подписывайтесь на нас"
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr "предпочитать"
+
+msgid "or"
+msgstr "или"
+
+msgid "All right reserved."
+msgstr "Все права защищены."
+
+msgid "Powered by"
+msgstr "Питаться от"
+
+# Top
+msgid "Top Job"
+msgstr "Высшая должность"
+
+msgid "Jobs Ofference"
+msgstr "Вакансии" 
+
+msgid "Latest post"
+msgstr "Последний пост"
+
+msgid "Posted on"
+msgstr "опубликовано"
+
+msgid "We proud to"
+msgstr "Мы гордимся"
+
+msgid "More than 10 years of IT services"
+msgstr "Более 10 лет ИТ-услуг"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "Мы понимаем вашу миссию, ваше видение глубоко. <br/> Мы владели новейшими технологиями. <br/> У нас есть энтузиазм, страсть и надежность."
+
+msgid "Provide the best solution"
+msgstr ""
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr ""
+
+msgid "We offer to"
+msgstr "Мы предлагаем"
+
+msgid "Find candidate matched to your jobs"
+msgstr "Найти кандидата в соответствии с вашими заданиями"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "Мы обещаем, что ваши рабочие места будут присутствовать лучшим кандидатом. <br/> Быстро и точно, чтобы получить список кандидатов-кандидатов."
+
+msgid "Make yours highlight"
+msgstr "Сделайте свой выбор"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "Ваша работа всегда находится в верхней части списка рабочих мест. <br/> Сделать срочные задания проще."
+
+# Sign in
+msgid "Sign in"
+msgstr "войти в систему"
+
+msgid "Sign in to used full our feature and component."
+msgstr "Войдите в систему, чтобы использовать полную нашу функцию и компонент."
+
+msgid "Contact"
+msgstr "контакт"
+
+msgid "Avatar"
+msgstr "Аватар"
+
+msgid "Why choose our service?"
+msgstr "Зачем выбирать наш сервис?"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 class = "m0"> Мы строим ИТ-услуги: </ h4> С более чем 10 экспериментальными годами. <br/> С пониманием и пониманием бизнес-решения. <br/> <h4 class = "m0"> Мы предоставляем лучшие ИТ-решения. </ H4> С дизайнером команды и разработчиком работают в богатом эксперименте, страсти и ответственности."
+
+msgid "Contact us to get more information"
+msgstr "Свяжитесь с нами, чтобы получить дополнительную информацию"
+
+# Major
+msgid "Accounting"
+msgstr "бухгалтерский учет"
+
+msgid "Administrative"
+msgstr "административный"
+
+msgid "Advertising"
+msgstr "реклама"
+
+msgid "Agriculture"
+msgstr "сельское хозяйство"
+
+msgid "Airline"
+msgstr "авиакомпания"
+
+msgid "Architecture"
+msgstr "Архитектура"
+
+msgid "Art Design"
+msgstr "Арт Дизайн"
+
+msgid "Banking"
+msgstr "Банковское дело"
+
+msgid "Chemical"
+msgstr "химикат"
+
+msgid "Construction"
+msgstr "строительство"
+
+msgid "Consulting"
+msgstr "консалтинг"
+
+msgid "Education"
+msgstr "образование"
+
+msgid "Electrical/Electronic"
+msgstr "Электрические / Электронные"
+
+msgid "Environment"
+msgstr "Окружающая среда"
+
+msgid "Export/Import"
+msgstr "Вывоз ввоз"
+
+msgid "Fashion"
+msgstr "мода"
+
+msgid "Finance"
+msgstr "финансов"
+
+msgid "Food"
+msgstr "питание"
+
+msgid "Health Care"
+msgstr ""
+
+msgid "Human Resource"
+msgstr "Человеческие ресурсы"
+
+msgid "Insurance"
+msgstr "страхование"
+
+msgid "Internet Media"
+msgstr "Интернет-СМИ"
+
+msgid "IT - Hardware/Networking"
+msgstr "ИТ - Оборудование / Сеть"
+
+msgid "IT - Software"
+msgstr "IT - Программное обеспечение"
+
+msgid "Interpreter/Translator"
+msgstr "Переводчик / Переводчик"
+
+msgid "Marketing"
+msgstr "маркетинг"
+
+msgid "Mechanical"
+msgstr "механический"
+
+msgid "Oil/Gas"
+msgstr "Нефтяной газ"
+
+msgid "Overseas Jobs"
+msgstr "Зарубежные рабочие места"
+
+msgid "Pharmaceutical"
+msgstr "фармацевтическая"
+
+msgid "QA/QC"
+msgstr ""
+
+msgid "Real Estate"
+msgstr "едвижимость"
+
+msgid "Sales"
+msgstr "Продажи"
+
+msgid "Securities"
+msgstr "ценные бумаги"
+
+msgid "Telecommunication"
+msgstr "телекоммуникация"
+
+msgid "TV/Media/Newspaper"
+msgstr "ТВ / Медиа / Газета"
+
+msgid "Warehouse"
+msgstr "Склад"
+
+msgid "Staff"
+msgstr "Сотрудники"
+
+msgid "Marine"
+msgstr "морской"
+
+msgid "Logistics"
+msgstr "Логистика"
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "Прикладное задание"
+
+msgid "Applied list"
+msgstr "Прикладной список"
+
+msgid "Applied date"
+msgstr "Дата подачи заявки"
+
+msgid "Applies was not available."
+msgstr "Применения не были доступны."

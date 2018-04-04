@@ -1,0 +1,1085 @@
+﻿msgid "Real estate"
+msgstr "रियल एस्टेट"
+
+msgid "Recruitment"
+msgstr "भरती"
+
+msgid "Photo"
+msgstr "तस्वीर"
+
+msgid "Our services"
+msgstr "हमारी सेवाएं"
+
+msgid "About us"
+msgstr "हमारे बारे में"
+
+msgid "WRE briefly"
+msgstr "WRE विश्व अचल संपत्ति अचल संपत्ति दलाल के लिए एक तकनीकी अनुप्रयोग समाधान प्रदाता है और ग्राहकों तक आसानी से पहुंच और व्यवसाय को उन्नत करने के लिए यह प्रबंधन व्यवसाय, संपत्ति और कर्मचारियों को भी अनुमति देता है ..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment नियोक्ताओं के लिए भर्ती के क्षेत्र में सूचना प्रौद्योगिकी अनुप्रयोगों का समाधान, नौकरी चाहने वालों, भर्ती ब्रोकर इस समाधान में वियतनामी के भर्ती नेटवर्क का दूसरा नाम भी है।"
+
+msgid "iphoto briefly"
+msgstr "iPhoto जीवन की यादें, खुश और दुखद क्षणों को संग्रहीत करने का घर है। कृपया अपने विचारों, भावनाओं और जुनून को साझा करें ..."
+
+msgid "Movie"
+msgstr "चलचित्र"
+
+msgid "Music"
+msgstr "संगीत"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "नौकरी खोजने वाला"
+
+msgid "Employer"
+msgstr "नियोक्ता"
+
+msgid "Multimedia"
+msgstr "मल्टीमीडिया"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "व्यक्तिगत खाता बनाएं"
+
+msgid "Create an enterprise account"
+msgstr "एक एंटरप्राइज़ खाता बनाएं"
+
+msgid "One account for all application"
+msgstr "सभी एप्लिकेशन के लिए एक खाता"
+
+msgid "One application for all devices"
+msgstr "सभी उपकरणों के लिए एक आवेदन"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "हम आपको यह कहते हैं कि हमारे पास हमारे आवेदन का उपयोग करने का सबसे अच्छा तरीका है"
+
+msgid "All features security in all our application"
+msgstr "सभी विशेषताओं में सभी सुविधाओं की सुरक्षा"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "हम आपके खाते को हमेशा उच्चतम स्तर की सुरक्षा स्थिति में रखते हैं"
+
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "250 अमरीकी डालर से कम"
+
+msgid "From 250 to 500 USD"
+msgstr "250 से 500 अमरीकी डालर से"
+
+msgid "From 500 to 1000 USD"
+msgstr "500 से 1000 अमरीकी डालर से"
+
+msgid "From 1000 to 2000 USD"
+msgstr "1000 से 2000 अमरीकी डालर तक"
+
+msgid "From 2000 to 4000 USD"
+msgstr "2000 से 4000 अमरीकी डालर तक"
+
+msgid "Over 4000 USD"
+msgstr "4000 से अधिक अमरीकी डालर"
+
+msgid "Negotiable"
+msgstr "बातचीत योग्य"
+
+# Rate
+msgid "Less than 20"
+msgstr "20 से कम"
+
+msgid "From 20 to 50"
+msgstr "20 से 50 तक"
+
+msgid "From 50 to 100"
+msgstr "50 से 100 तक"
+
+msgid "From 100 to 200"
+msgstr "100 से 200 तक"
+
+msgid "From 200 to 500"
+msgstr "200 से 500 तक"
+
+msgid "From 500 to 1000"
+msgstr "500 से 1000 तक"
+
+msgid "Greater than 1000"
+msgstr "1000 से बड़ा"
+
+# Grade
+msgid "Student"
+msgstr "छात्र"
+
+msgid "Junior"
+msgstr "कनिष्ठ"
+
+msgid "Senior"
+msgstr "वरिष्ठ"
+
+msgid "Expert"
+msgstr "विशेषज्ञ"
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "अभी तक प्रयोग न करें"
+
+msgid "One year"
+msgstr "एक साल"
+
+msgid "Two years"
+msgstr ""
+
+msgid "Three years"
+msgstr "तीन वर्ष"
+
+msgid "Five years"
+msgstr "पांच साल"
+
+msgid "Ten years"
+msgstr "दस साल"
+
+msgid "Over ten years"
+msgstr "दस साल से अधिक"
+
+# Level
+msgid "Begin"
+msgstr "शुरू"
+
+msgid "Medium"
+msgstr "मध्यम"
+
+msgid "Good"
+msgstr "अच्छा"
+
+msgid "Very Good"
+msgstr "बहुत अच्छा"
+
+msgid "Expert"
+msgstr "विशेषज्ञ"
+
+# Duration
+msgid "One week"
+msgstr "एक हफ्ता"
+
+msgid "Two weeks"
+msgstr "दो हफ्ते"
+
+msgid "Three weeks"
+msgstr "एक महीना"
+
+msgid "One month"
+msgstr ""
+
+msgid "Two months"
+msgstr "दो महीने"
+
+msgid "Three months"
+msgstr "तीन महीने"
+
+# General
+msgid "Currency"
+msgstr "मुद्रा"
+
+msgid "Amount"
+msgstr "रकम"
+
+msgid "Expire year"
+msgstr "वर्ष की समाप्ति"
+
+msgid "Expire month"
+msgstr "महीने की समाप्ति"
+
+msgid "Please check your network connection!"
+msgstr "कृपया अपने नेटवर्क कनेक्शन की जांच करें!"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "Donation processing has been failed! Please try again."
+
+msgid "Payment servers are down! Please try again."
+msgstr "भुगतान सर्वर नीचे हैं! कृपया पुन: प्रयास करें।"
+
+msgid "Your card number is incorrect."
+msgstr "आपका कार्ड नंबर गलत है"
+
+msgid "The card was declined."
+msgstr "कार्ड अस्वीकृत किया गया था।"
+
+msgid "Your card's expiration year is invalid."
+msgstr "आपके कार्ड की समाप्ति वर्ष अमान्य है।"
+
+msgid "Your card's expiration month is invalid."
+msgstr "आपके कार्ड की समाप्ति का महीना अमान्य है"
+
+msgid "Preview Account"
+msgstr "खाता का पूर्वावलोकन करें"
+
+msgid "Preview account"
+msgstr "खाते का पूर्वावलोकन करें"
+
+msgid "You signed in success. Please check your email."
+msgstr "आपने सफलता में हस्ताक्षर किए कृपया अपनी ईमेल देखें।"
+
+msgid "You signed in fail! Please try again."
+msgstr "आपने साइन इन किया असफल! कृपया पुन: प्रयास करें।"
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "आपने साइन इन किया है और सफलता फिर से शुरू कर दी है। कृपया अपनी ईमेल देखें।"
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "आप साइन इन करें और फिर से शुरू असफल बनाते हैं! कृपया पुन: प्रयास करें।"
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "आपने साइन इन किया और प्रोफ़ाइल की सफलता बनाई। कृपया अपनी ईमेल देखें।"
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "आप साइन इन करते हैं और प्रोफ़ाइल बनाते हैं। कृपया पुन: प्रयास करें।"
+
+msgid "View all"
+msgstr "सभी को देखें"
+
+msgid "Consultant"
+msgstr "सलाहकार"
+
+msgid "Consultant List"
+msgstr "सलाहकार सूची"
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "आप शुरू या दान के बाद की अवधि या कार्ड को संशोधित नहीं कर सकते।"
+
+msgid "Post to offer"
+msgstr "ऑफ़र करने के लिए पोस्ट करें"
+
+msgid "Create now"
+msgstr "अब बनाओ"
+
+msgid "Yes"
+msgstr "हाँ"
+
+msgid "No"
+msgstr "नहीं"
+
+msgid "Recruit"
+msgstr "रंगरूट"
+
+msgid "Recruit now"
+msgstr "भर्ती मास्टर"
+
+msgid "Recruit Master"
+msgstr "भर्ती मास्टर"
+
+msgid "Add Recruit"
+msgstr "भर्ती जोड़ें"
+
+msgid "Edit Recruit"
+msgstr "भर्ती संपादित करें"
+
+msgid "Recruit list"
+msgstr "भर्ती सूची"
+
+msgid "Recruiter was not available."
+msgstr "भर्ती उपलब्ध नहीं था"
+
+msgid "Applicant"
+msgstr "आवेदक"
+
+msgid "Applicant list"
+msgstr "आवेदक सूची"
+
+msgid "Apply letter"
+msgstr "पत्र लागू करें"
+
+msgid "Apply date time"
+msgstr "तिथि समय लागू करें"
+
+msgid "Match"
+msgstr "मैच"
+
+msgid "Not set"
+msgstr "सेट नहीं"
+
+msgid "Not match"
+msgstr "मेल नहीं करता"
+
+msgid "Matched"
+msgstr "मेल खाने वाले"
+
+msgid "Confirm"
+msgstr "की पुष्टि करें"
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr "अपना खाता, संपर्क जानकारी और कंपनी की जानकारी प्रबंधित करें"
+
+msgid "Account has edited success."
+msgstr "खाता सफलतापूर्वक संपादित किया गया है"
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "प्रोफाइल निर्माता एक घटक है जो आपको अपनी कंपनी के बारे में कर्मचारी और पार्टनर के लिए सबसे अच्छा परिचय देता है। <br/> यह आपकी कंपनी कंपनियों की सूची पर भी दिखाई देता है।"
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "प्रायोजक सूची में अपनी कंपनी प्रस्तुति को बढ़ावा देने के लिए दान करें और पहले कर्मचारी और पार्टनर द्वारा देखें।"
+
+msgid "Candidate"
+msgstr "उम्मीदवार"
+
+msgid "Candidate List"
+msgstr "उम्मीदवार सूची"
+
+msgid "Preview Candidate"
+msgstr "उम्मीदवार का पूर्वावलोकन करें"
+
+msgid "Candidate was not available."
+msgstr "उम्मीदवार उपलब्ध नहीं थे"
+
+msgid "Square logo"
+msgstr "स्क्वायर लोगो"
+
+msgid "Rectangle logo"
+msgstr "आयत लोगो"
+
+msgid "Allowance No."
+msgstr "लाइसेंस नंबर।"
+
+msgid "of this candidate."
+msgstr "इस उम्मीदवार का"
+
+msgid "Gender"
+msgstr "लिंग"
+
+msgid "Male"
+msgstr "नर"
+
+msgid "Female"
+msgstr "महिला"
+
+msgid "Birthday"
+msgstr "जन्मदिन"
+
+msgid "Please"
+msgstr "कृप्या"
+
+msgid "to"
+msgstr "सेवा मेरे"
+
+msgid "Apply"
+msgstr "लागू करें"
+
+msgid "Application"
+msgstr "आवेदन"
+
+msgid "Letter"
+msgstr "पत्र"
+
+msgid "Application has sent success."
+msgstr "आवेदन सफलतापूर्वक भेजा है"
+
+msgid "You applied this job already."
+msgstr "आपने पहले से ही इस नौकरी को लागू किया था"
+
+msgid "Logo"
+msgstr "प्रतीक चिन्ह"
+
+msgid "Top Companies"
+msgstr "शीर्ष कंपनियां"
+
+msgid "Latest join"
+msgstr "नवीनतम शामिल"
+
+msgid "Joined on"
+msgstr "पर शामिल हुए"
+
+msgid "Preview Company"
+msgstr "पूर्वावलोकन कंपनी"
+
+msgid "Job was not available."
+msgstr "नौकरी उपलब्ध नहीं थी"
+
+msgid "First"
+msgstr "प्रथम"
+
+msgid "Last"
+msgstr "अंतिम"
+
+msgid "Job list"
+msgstr "नौकरी सूची"
+
+msgid "Share"
+msgstr "शेयर"
+
+msgid "Like"
+msgstr "पसंद"
+
+msgid "this job."
+msgstr "इस नौकरी।"
+
+msgid "Apply now"
+msgstr "अभी अप्लाई करें"
+
+msgid "Add"
+msgstr "जोड़ना"
+
+msgid "Edit"
+msgstr "संपादित करें"
+
+msgid "Delete"
+msgstr "हटाना"
+
+msgid "Add skill"
+msgstr "कौशल जोड़ें"
+
+msgid "Add group"
+msgstr "समूह जोड़ें"
+
+msgid "Remove"
+msgstr "कौशल निकालें"
+
+msgid "Remove skill"
+msgstr ""
+
+msgid "Remove group"
+msgstr "समूह निकालें"
+
+msgid "Back"
+msgstr "वापस"
+
+msgid "Make it now"
+msgstr "इसे अब बनाओ"
+
+msgid "Create it now"
+msgstr "इसे अभी बनाएं"
+
+msgid "Promotion now"
+msgstr "संवर्धन अब"
+
+msgid "Search Job"
+msgstr "नौकरी खोजें"
+
+msgid "No result find out."
+msgstr "कोई परिणाम नहीं पता"
+
+msgid "Preview Job"
+msgstr "नौकरी का पूर्वावलोकन करें"
+
+msgid "Job"
+msgstr "काम"
+
+msgid "Result"
+msgstr "परिणाम"
+
+msgid "Rate"
+msgstr "मूल्यांकन करें"
+
+msgid "Mission"
+msgstr "मिशन"
+
+msgid "Introduction"
+msgstr "परिचय"
+
+msgid "Quantity"
+msgstr "मात्रा"
+
+msgid "Input your quantity"
+msgstr "अपने मात्रा में इनपुट करें"
+
+msgid "Grade"
+msgstr "ग्रेड"
+
+msgid "Salary"
+msgstr "वेतन"
+
+msgid "Requirement"
+msgstr "आवश्यकता"
+
+msgid "Input your requirement"
+msgstr "अपनी आवश्यकता इनपुट करें"
+
+msgid "Please select"
+msgstr "कृपया चुने"
+
+msgid "Sign in now"
+msgstr "अब साइन इन करो"
+
+msgid "Edit now"
+msgstr "अब संपादित करें"
+
+msgid "If you have account already please login first."
+msgstr "यदि आपके पास खाता है तो पहले प्रवेश करें पहले।"
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "फिर से शुरू निर्माता आप अपने सीवी बनाने की अनुमति घटक है। <br/> यह भी आप किसी भी प्रिंटर के साथ मुद्रित करने की अनुमति और Excel या CSV फ़ाइल में इसे प्रारूपित।"
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "प्रोफाइल निर्माता आप अपने कौशल से सबसे अच्छा परिचय बनाने की अनुमति घटक है। <br/> यह भी आप किसी भी प्रिंटर के साथ मुद्रित करने की अनुमति देते हैं और Excel या CSV फ़ाइल में इसे प्रारूपित करते हैं।"
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "संवर्धन केंद्र घटक है जो आपको अपने स्वयं के नियोक्ता और भर्ती के लिए सबसे अच्छा परिचय देता है। <br/> यह भी दिखाई देता है कि आप प्रायोजक सूची में हैं और आपके ज्ञान, कौशल और प्रयोग को प्रकट करते हैं।"
+
+msgid "Resume"
+msgstr "बायोडाटा"
+
+msgid "Resume list"
+msgstr "सूची फिर से शुरू करें"
+
+msgid "Add Resume"
+msgstr "फिर से शुरू जोड़ें"
+
+msgid "Edit Resume"
+msgstr "पुनः संपादित करें संपादित करें"
+
+msgid "Resume was not available."
+msgstr "पुनरारंभ उपलब्ध नहीं था।"
+
+msgid "Profile"
+msgstr "प्रोफाइल"
+
+msgid "Profile list"
+msgstr "प्रोफ़ाइल सूची"
+
+msgid "Add Profile"
+msgstr "प्रोफ़ाइल जोड़ें"
+
+msgid "Edit Profile"
+msgstr "प्रोफाइल एडिट करें"
+
+msgid "Profile was not available."
+msgstr "प्रोफ़ाइल उपलब्ध नहीं था"
+
+msgid "Promotion was not available."
+msgstr "संवर्धन उपलब्ध नहीं था"
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "पुनरारंभ उपलब्ध नहीं था। कृपया बढ़ावा देने के लिए कम से कम एक बनाएं।"
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "प्रोफ़ाइल उपलब्ध नहीं था कृपया बढ़ावा देने के लिए कम से कम एक बनाएं।"
+
+msgid "Promotion list"
+msgstr "पदोन्नति सूची"
+
+msgid "Add Promotion"
+msgstr "पदोन्नति जोड़ें"
+
+msgid "Edit Promotion"
+msgstr "पदोन्नति संपादित करें"
+
+msgid "Input your skill group name"
+msgstr "अपने कौशल समूह का नाम इनपुट करें"
+
+msgid "Level"
+msgstr "स्तर"
+
+msgid "Skill"
+msgstr "कौशल"
+
+msgid "Skill name"
+msgstr "कौशल का नाम"
+
+msgid "Duration"
+msgstr "अवधि"
+
+msgid "Card"
+msgstr "कार्ड"
+
+msgid "Card type"
+msgstr "कार्ड के प्रकार"
+
+msgid "Other card"
+msgstr "अन्य कार्ड"
+
+msgid "Input your other card name"
+msgstr "अपने अन्य कार्ड का नाम इनपुट करें"
+
+msgid "Card No."
+msgstr "कार्ड नंबर।"
+
+msgid "Input your card number"
+msgstr "अपना कार्ड नंबर इनपुट करें"
+
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "Input your title"
+msgstr "अपना शीर्षक इनपुट करें"
+
+msgid "Description"
+msgstr "विवरण"
+
+msgid "Input your description"
+msgstr "अपना विवरण इनपुट करें"
+
+msgid "Input your mission"
+msgstr "अपने मिशन को इनपुट करें"
+
+msgid "Input your introduction"
+msgstr "अपना परिचय इनपुट करें"
+
+msgid "Education"
+msgstr "शिक्षा"
+
+msgid "Experiment"
+msgstr "प्रयोग"
+
+msgid "School"
+msgstr "स्कूल"
+
+msgid "Input your school name"
+msgstr "अपने स्कूल का नाम इनपुट करें"
+
+msgid "Start"
+msgstr "प्रारंभ"
+
+msgid "End"
+msgstr "समाप्त"
+
+msgid "Major"
+msgstr "प्रमुख"
+
+msgid "Company"
+msgstr "कंपनी"
+
+msgid "Input your company name"
+msgstr "अपनी कंपनी का नाम इनपुट करें"
+
+msgid "Identify No."
+msgstr "नंबर की पहचान करें"
+
+msgid "Input your identify number"
+msgstr "अपनी पहचान संख्या इनपुट करें"
+
+msgid "Tax code"
+msgstr "कर कोड"
+
+msgid "Input your tax code"
+msgstr "अपना कर कोड इनपुट करें"
+
+msgid "Name"
+msgstr "नाम"
+
+msgid "Input your name"
+msgstr "अपना नाम इनपुट करें"
+
+msgid "Username"
+msgstr "उपयोगकर्ता नाम"
+
+msgid "Input your username"
+msgstr "अपना उपयोगकर्ता नाम इनपुट करें"
+
+msgid "Password"
+msgstr "पासवर्ड"
+
+msgid "Input your password"
+msgstr "अपना पासवर्ड इनपुट करें"
+
+msgid "First name"
+msgstr "पहला नाम"
+
+msgid "Input your first name"
+msgstr "अपना पहला नाम इनपुट करें"
+
+msgid "Last name"
+msgstr "अंतिम नाम"
+
+msgid "Input your last name"
+msgstr "अपना अंतिम नाम इनपुट करें"
+
+msgid "Email"
+msgstr "ईमेल"
+
+msgid "account@domain"
+msgstr "ेखा@डोमेन"
+
+msgid "Phone"
+msgstr "अपना फोन इनपुट करें"
+
+msgid "Input your phone"
+msgstr ""
+
+msgid "Address"
+msgstr "पता"
+
+msgid "Input your address"
+msgstr "अपना पता इनपुट करें"
+
+msgid "Title"
+msgstr "शीर्षक"
+
+msgid "Input your title"
+msgstr "अपना शीर्षक इनपुट करें"
+
+msgid "Content"
+msgstr "सामग्री"
+
+msgid "Input your content"
+msgstr "अपनी सामग्री को इनपुट करें"
+
+msgid "Position"
+msgstr "पद"
+
+msgid "Input your position"
+msgstr "अपनी स्थिति को इनपुट करें"
+
+msgid "Major/Field"
+msgstr "बड़ा क्षेत्र"
+
+msgid "Country"
+msgstr "देश"
+
+msgid "Location"
+msgstr "स्थान"
+
+msgid "Expire date"
+msgstr "समाप्त होने की तिथि"
+
+msgid "Expire on"
+msgstr "पर समाप्त होना"
+
+msgid "Action"
+msgstr "कार्य"
+
+msgid "View detail"
+msgstr "विस्तार से देखें"
+
+# Template
+msgid "EMPLOYER"
+msgstr "नियोक्ता"
+
+msgid "EMPLOYEE"
+msgstr "कर्मचारी"
+
+msgid "Search Jobs"
+msgstr "नौकरी खोजें"
+
+msgid "Companies List"
+msgstr "कंपनियों की सूची"
+
+msgid "Keyword"
+msgstr "कीवर्ड"
+
+msgid "All majors"
+msgstr "सभी बड़ी कंपनियों"
+
+msgid "All countries"
+msgstr "सभी देश"
+
+msgid "All locations"
+msgstr "सभी स्थान"
+
+msgid "Search now"
+msgstr "अभी खोजो"
+
+msgid "Login"
+msgstr "लॉग इन करें"
+
+msgid "You were login success."
+msgstr "आप सफलता में प्रवेश कर रहे थे।"
+
+msgid "This account was not available!"
+msgstr "यह खाता उपलब्ध नहीं था!"
+
+msgid "Login now"
+msgstr "अब प्रवेश करें"
+
+msgid "Create an account"
+msgstr "खाता बनाएं"
+
+msgid "Forgot password"
+msgstr "पासवर्ड भूल गए"
+
+msgid "Account"
+msgstr "लेखा"
+
+msgid "Hello"
+msgstr "नमस्ते"
+
+msgid "Logout"
+msgstr "लोग आउट"
+
+msgid "Edit account"
+msgstr "खाता संपादित करें"
+
+msgid "Edit Account"
+msgstr "खाता संपादित करें"
+
+msgid "Manage your Account information and Contact information."
+msgstr "अपनी खाता जानकारी और संपर्क जानकारी प्रबंधित करें"
+
+msgid "Sponsor"
+msgstr "प्रायोजक"
+
+msgid "Subscribe"
+msgstr "सदस्यता लें"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "नवीनतम जानकारी प्राप्त करने के लिए सदस्यता लें और नए आगमन की नौकरियां सचेत करें।"
+
+msgid "Subscribe success."
+msgstr "सफलता की सदस्यता लें"
+
+msgid "Subscribe fail."
+msgstr "सदस्यता लें असफल"
+
+msgid "Subscribe now"
+msgstr "अभी ग्राहक बनें"
+
+msgid "Contact us"
+msgstr "हमसे संपर्क करें"
+
+msgid "Contact us now to get more information."
+msgstr "अब अधिक जानकारी प्राप्त करने के लिए हमसे संपर्क करें"
+
+msgid "Contact now"
+msgstr "अभी संपर्क करो"
+
+msgid "Registry to get more features"
+msgstr "अधिक सुविधाओं को पाने के लिए रजिस्ट्री"
+
+msgid "Contact us success."
+msgstr "हमसे संपर्क करें सफलता"
+
+msgid "Contact us fail!"
+msgstr "हमें असफल संपर्क करें!"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "हमारे बारे में"
+
+msgid "Support"
+msgstr "समर्थन"
+
+msgid "FAQ"
+msgstr "सामान्य प्रश्न"
+
+msgid "Component"
+msgstr "अंग"
+
+msgid "Resume Maker"
+msgstr "निर्माता फिर से शुरू करें"
+
+msgid "Profile Creator"
+msgstr "प्रोफ़ाइल बनाने वाला"
+
+msgid "Promotion Center"
+msgstr "संवर्धन केंद्र"
+
+msgid "Follow us"
+msgstr "हमारा अनुसरण करो"
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr "पसंद करते हैं"
+
+msgid "or"
+msgstr "या"
+
+msgid "All right reserved."
+msgstr "सर्वाधिकार सुरक्षित।"
+
+msgid "Powered by"
+msgstr "द्वारा संचालित"
+
+# Top
+msgid "Top Job"
+msgstr "शीर्ष नौकरी"
+
+msgid "Jobs Ofference"
+msgstr "नौकरियां अवलोकन" 
+
+msgid "Latest post"
+msgstr "नवीनतम लेख"
+
+msgid "Posted on"
+msgstr "पर प्रविष्ट किया"
+
+msgid "We proud to"
+msgstr "हम पर गर्व है"
+
+msgid "More than 10 years of IT services"
+msgstr "10 से अधिक वर्षों की आईटी सेवाओं"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "हम आपके मिशन को गहन समझते हैं। <br/> हमारे पास नवीनतम तकनीक है। <br/> हमारे पास उत्साह, जुनून और विश्वसनीय है"
+
+msgid "Provide the best solution"
+msgstr "सबसे अच्छा समाधान प्रदान करें"
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr "भर्ती आपके व्यवसाय को अगले स्तर तक बनाने के लिए सबसे अच्छा समाधान है। <br/> हम जीवन को और अधिक आसान और अधिक खुशी बनाते हैं।"
+
+msgid "We offer to"
+msgstr "हम करने के लिए प्रस्ताव"
+
+msgid "Find candidate matched to your jobs"
+msgstr "अपनी नौकरी से मेल खाने वाले उम्मीदवार को खोजें"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "हम मानते हैं कि आपकी नौकरी सर्वश्रेष्ठ उम्मीदवार द्वारा भाग लेंगी। <br/> आवेदन करने वाले उम्मीदवार सूची को प्राप्त करने के लिए तेज़ और बिल्कुल ठीक।"
+
+msgid "Make yours highlight"
+msgstr "अपना हाइलाइट करें"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "अपनी नौकरियां हमेशा नौकरियों की सूची के शीर्ष पर रखती हैं। <br/> तत्काल कार्य को और आसान बनाओ"
+
+# Sign in
+msgid "Sign in"
+msgstr "साइन इन करें"
+
+msgid "Sign in to used full our feature and component."
+msgstr "हमारी सुविधा और घटक को पूर्ण करने के लिए साइन इन करें"
+
+msgid "Contact"
+msgstr "संपर्क करें"
+
+msgid "Avatar"
+msgstr "अवतार"
+
+msgid "Why choose our service?"
+msgstr "हमारी सेवा क्यों चुनें?"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 class = "m0"> हम आईटी सेवाओं का निर्माण करते हैं: </ h4> 10 से अधिक प्रयोग के वर्षों के साथ। <br/> व्यापार समाधान के बारे में ज्ञान और समझने के साथ। <br/> <h4 class = "m0"> हम सबसे अच्छा आईटी समाधान प्रदान करते हैं। </ H4> टीम डिजाइनर और डेवलपर के साथ प्रयोग, जुनून और जिम्मेदार समृद्ध में काम करते हैं।"
+
+msgid "Contact us to get more information"
+msgstr "अधिक जानकारी प्राप्त करने के लिए हमसे संपर्क करें"
+
+# Major
+msgid "Accounting"
+msgstr "लेखांकन"
+
+msgid "Administrative"
+msgstr "प्रशासनिक"
+
+msgid "Advertising"
+msgstr "विज्ञापन"
+
+msgid "Agriculture"
+msgstr "कृषि"
+
+msgid "Airline"
+msgstr "एयरलाइन"
+
+msgid "Architecture"
+msgstr "आर्किटेक्चर"
+
+msgid "Art Design"
+msgstr "कला डिजाइन"
+
+msgid "Banking"
+msgstr "बैंकिंग"
+
+msgid "Chemical"
+msgstr "रासायनिक"
+
+msgid "Construction"
+msgstr "निर्माण"
+
+msgid "Consulting"
+msgstr "परामर्श"
+
+msgid "Education"
+msgstr "शिक्षा"
+
+msgid "Electrical/Electronic"
+msgstr "इलेक्ट्रिकल / इलेक्ट्रॉनिक"
+
+msgid "Environment"
+msgstr "वातावरण"
+
+msgid "Export/Import"
+msgstr "निर्यात आयात"
+
+msgid "Fashion"
+msgstr "फैशन"
+
+msgid "Finance"
+msgstr "वित्त"
+
+msgid "Food"
+msgstr "भोजन"
+
+msgid "Health Care"
+msgstr "स्वास्थ्य देखभाल"
+
+msgid "Human Resource"
+msgstr "मानव संसाधन"
+
+msgid "Insurance"
+msgstr "बीमा"
+
+msgid "Internet Media"
+msgstr "इंटरनेट मीडिया"
+
+msgid "IT - Hardware/Networking"
+msgstr "आईटी - हार्डवेयर / नेटवर्किंग"
+
+msgid "IT - Software"
+msgstr "आईटी - सॉफ्टवेयर"
+
+msgid "Interpreter/Translator"
+msgstr "भाषांतरकार अनुवादक"
+
+msgid "Marketing"
+msgstr "विपणन"
+
+msgid "Mechanical"
+msgstr "यांत्रिक"
+
+msgid "Oil/Gas"
+msgstr "तेल गैस"
+
+msgid "Overseas Jobs"
+msgstr "विदेशी नौकरियां"
+
+msgid "Pharmaceutical"
+msgstr "फार्मास्युटिकल"
+
+msgid "QA/QC"
+msgstr "क्यूए / क्यूसी"
+
+msgid "Real Estate"
+msgstr "रियल एस्टेट"
+
+msgid "Sales"
+msgstr "बिक्री"
+
+msgid "Securities"
+msgstr "प्रतिभूति"
+
+msgid "Telecommunication"
+msgstr "दूरसंचार"
+
+msgid "TV/Media/Newspaper"
+msgstr "टीवी / मीडिया / समाचार पत्र"
+
+msgid "Warehouse"
+msgstr "गोदाम"
+
+msgid "Staff"
+msgstr "स्टाफ़"
+
+msgid "Marine"
+msgstr "समुद्री"
+
+msgid "Logistics"
+msgstr "रसद"
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "एप्लाइड जॉब"
+
+msgid "Applied list"
+msgstr "एप्लाइड तिथि"
+
+msgid "Applied date"
+msgstr ""
+
+msgid "Applies was not available."
+msgstr "लागू होता नहीं था।"

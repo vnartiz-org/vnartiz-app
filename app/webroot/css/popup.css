@@ -1,0 +1,67 @@
+/* popup box */
+.popup_bg {
+    width: 100%;
+
+    background: #333;
+    opacity: 0.5;
+    position: fixed;
+    top: 0;
+    z-index: 1011;
+}
+.popup_ct {
+    width: 600px;
+    padding: 1px;
+    margin: 0 auto;
+    background: white;
+    position: fixed;
+    top: 2000px;
+    z-index: 10120;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    box-shadow: 0 1px 20px #333;
+}
+.popup_ct > div {
+    display: table;
+    width: 100%;
+}
+.popup_ct .popup_hd {
+    line-height: 20px;
+    padding: 2%;
+    font-size: 14px;
+    font-weight: 700;
+    color: #333;
+    background: url(img/blue-block-header.jpg) repeat-x top left #0f2b3c;
+    border-radius: 4px;
+    border: 1px solid #b5ccd4;
+}
+.popup_bd {
+    padding: 2%;
+    color: black;
+    min-height: 50px;
+}
+.popup_ft {
+    padding: 2%;
+    color: black;
+    border-top: 1px solid #ccc;
+    text-align: right;
+    background: #eee;
+    box-shadow: 0 1px 30px rgba(50, 50, 50, 0.1) inset;
+}
+.popup_tl {
+    float: left;
+    width: 80%;
+    color: whiteSmoke;
+}
+.popup_quit {
+    float: right;
+    width: 18px;
+    height: 18px;
+    background: whiteSmoke;
+    opacity: 0.5;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+}
+.popup_quit:hover {
+    cursor: pointer;
+    opacity: 1;
+}

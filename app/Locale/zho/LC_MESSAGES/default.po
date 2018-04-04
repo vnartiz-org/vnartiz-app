@@ -1,0 +1,1085 @@
+﻿msgid "Real estate"
+msgstr "房地产"
+
+msgid "Recruitment"
+msgstr "招聘"
+
+msgid "Photo"
+msgstr "照片"
+
+msgid "Our services"
+msgstr "我们的服务"
+
+msgid "About us"
+msgstr "关于我们"
+
+msgid "WRE briefly"
+msgstr "WRE 世界房地产是房地产经纪人的技术应用解决方案提供商，可轻松访问客户并升级业务。 它还允许管理业务，资产和员工..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment解决信息技术应用在雇主招聘领域获胜，求职者，招聘经纪人。 该解决方案还有另一个名称越南人招聘网。"
+
+msgid "iphoto briefly"
+msgstr "iPhoto是存储回忆，幸福和悲伤的生活时刻的家园。 请分享您的想法，感受和激情..."
+
+msgid "Movie"
+msgstr "电影"
+
+msgid "Music"
+msgstr "音乐"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "求职者"
+
+msgid "Employer"
+msgstr "雇主"
+
+msgid "Multimedia"
+msgstr "多媒体"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "创建个人帐户"
+
+msgid "Create an enterprise account"
+msgstr "创建一个企业帐户"
+
+msgid "One account for all application"
+msgstr "一个帐户的所有应用程序"
+
+msgid "One application for all devices"
+msgstr "所有设备的一个应用程序"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "我们承诺，我们有最好的方式允许您使用我们的应用程序"
+
+msgid "All features security in all our application"
+msgstr "所有功能在我们的所有应用程序的安全"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "我们承诺您的帐户始终处于最高级别的安全状态"
+
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "少于250美元"
+
+msgid "From 250 to 500 USD"
+msgstr "从250美元到500美元"
+
+msgid "From 500 to 1000 USD"
+msgstr "从500美元到1000美元"
+
+msgid "From 1000 to 2000 USD"
+msgstr "从1000美元到2000美元"
+
+msgid "From 2000 to 4000 USD"
+msgstr "从2000美元到4000美元"
+
+msgid "Over 4000 USD"
+msgstr "超过4000美元"
+
+msgid "Negotiable"
+msgstr "面议"
+
+# Rate
+msgid "Less than 20"
+msgstr "小于20"
+
+msgid "From 20 to 50"
+msgstr "从20到50"
+
+msgid "From 50 to 100"
+msgstr "从50到100"
+
+msgid "From 100 to 200"
+msgstr "从100到200"
+
+msgid "From 200 to 500"
+msgstr "从200到500"
+
+msgid "From 500 to 1000"
+msgstr "从500到1000"
+
+msgid "Greater than 1000"
+msgstr "大于1000"
+
+# Grade
+msgid "Student"
+msgstr "学生"
+
+msgid "Junior"
+msgstr "初级"
+
+msgid "Senior"
+msgstr "前辈"
+
+msgid "Expert"
+msgstr "专家"
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "还没实验"
+
+msgid "One year"
+msgstr "一年"
+
+msgid "Two years"
+msgstr "两年"
+
+msgid "Three years"
+msgstr "三年"
+
+msgid "Five years"
+msgstr "5年"
+
+msgid "Ten years"
+msgstr "十年"
+
+msgid "Over ten years"
+msgstr "十多年"
+
+# Level
+msgid "Begin"
+msgstr "开始"
+
+msgid "Medium"
+msgstr "中"
+
+msgid "Good"
+msgstr "好"
+
+msgid "Very Good"
+msgstr "很好"
+
+msgid "Expert"
+msgstr "专家"
+
+# Duration
+msgid "One week"
+msgstr "一周"
+
+msgid "Two weeks"
+msgstr "两周"
+
+msgid "Three weeks"
+msgstr "三周"
+
+msgid "One month"
+msgstr "一个月"
+
+msgid "Two months"
+msgstr "两个月"
+
+msgid "Three months"
+msgstr "三个月"
+
+# General
+msgid "Currency"
+msgstr "货币"
+
+msgid "Amount"
+msgstr "量"
+
+msgid "Expire year"
+msgstr "到期年限"
+
+msgid "Expire month"
+msgstr "到期月"
+
+msgid "Please check your network connection!"
+msgstr "请检查您的网络连接！"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "捐款处理已经失败！ 请再试一次。"
+
+msgid "Payment servers are down! Please try again."
+msgstr "付款服务器已关闭！ 请再试一次。"
+
+msgid "Your card number is incorrect."
+msgstr "您的卡号不正确"
+
+msgid "The card was declined."
+msgstr "卡片被拒"
+
+msgid "Your card's expiration year is invalid."
+msgstr "您的信用卡的到期年份无效。"
+
+msgid "Your card's expiration month is invalid."
+msgstr "您的卡片的到期月份无效。"
+
+msgid "Preview Account"
+msgstr "预览帐户"
+
+msgid "Preview account"
+msgstr "预览帐号"
+
+msgid "You signed in success. Please check your email."
+msgstr "你成功登录 请查看你的邮箱。"
+
+msgid "You signed in fail! Please try again."
+msgstr "你登录失败！ 请再试一次。"
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "你登录并恢复成功。 请查看你的邮箱。"
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "你登录并使简历失败！ 请再试一次。"
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "您登录并创建了配置文件的成功。 请查看你的邮箱。"
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "您登录并创建个人资料失败！ 请再试一次。"
+
+msgid "View all"
+msgstr "查看全部"
+
+msgid "Consultant"
+msgstr "顾问"
+
+msgid "Consultant List"
+msgstr ""
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "启动或捐赠后不能修改持续时间或卡。"
+
+msgid "Post to offer"
+msgstr "发布提供"
+
+msgid "Create now"
+msgstr "立即创建"
+
+msgid "Yes"
+msgstr "是"
+
+msgid "No"
+msgstr "没有"
+
+msgid "Recruit"
+msgstr "招"
+
+msgid "Recruit now"
+msgstr "现在招聘"
+
+msgid "Recruit Master"
+msgstr "招聘硕士"
+
+msgid "Add Recruit"
+msgstr "加入招聘"
+
+msgid "Edit Recruit"
+msgstr "编辑招聘"
+
+msgid "Recruit list"
+msgstr "招聘名单"
+
+msgid "Recruiter was not available."
+msgstr "招聘人员不可用。"
+
+msgid "Applicant"
+msgstr "申请人"
+
+msgid "Applicant list"
+msgstr "申请人名单"
+
+msgid "Apply letter"
+msgstr "申请信"
+
+msgid "Apply date time"
+msgstr "申请日期时间"
+
+msgid "Match"
+msgstr "比赛"
+
+msgid "Not set"
+msgstr "没有设置"
+
+msgid "Not match"
+msgstr "不匹配"
+
+msgid "Matched"
+msgstr "匹配"
+
+msgid "Confirm"
+msgstr "确认"
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr "管理您的帐户，联系信息和公司信息。"
+
+msgid "Account has edited success."
+msgstr "帐户已经编辑成功。"
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "个人资料创建者是您可以将您公司的最佳介绍介绍给员工和合作伙伴。您也可以在公司名单上看到您的公司。"
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "捐赠宣传您的公司介绍赞助商名单，并由员工和合作伙伴首先查看。"
+
+msgid "Candidate"
+msgstr "候选人"
+
+msgid "Candidate List"
+msgstr "候选名单"
+
+msgid "Preview Candidate"
+msgstr "预览候选人"
+
+msgid "Candidate was not available."
+msgstr "候选人不可用"
+
+msgid "Square logo"
+msgstr "方形标志"
+
+msgid "Rectangle logo"
+msgstr "矩形标志"
+
+msgid "Allowance No."
+msgstr "许可证号"
+
+msgid "of this candidate."
+msgstr "的候选人。"
+
+msgid "Gender"
+msgstr "性别"
+
+msgid "Male"
+msgstr "男"
+
+msgid "Female"
+msgstr "女"
+
+msgid "Birthday"
+msgstr "生日"
+
+msgid "Please"
+msgstr "请"
+
+msgid "to"
+msgstr "至"
+
+msgid "Apply"
+msgstr "应用"
+
+msgid "Application"
+msgstr "应用"
+
+msgid "Letter"
+msgstr "信"
+
+msgid "Application has sent success."
+msgstr "申请已经取得成功。"
+
+msgid "You applied this job already."
+msgstr "你已经应用了这个工作。"
+
+msgid "Logo"
+msgstr "商标"
+
+msgid "Top Companies"
+msgstr "顶尖公司"
+
+msgid "Latest join"
+msgstr "最新加入"
+
+msgid "Joined on"
+msgstr "加入了"
+
+msgid "Preview Company"
+msgstr "预览公司"
+
+msgid "Job was not available."
+msgstr "工作不可用。"
+
+msgid "First"
+msgstr "第一"
+
+msgid "Last"
+msgstr "持续"
+
+msgid "Job list"
+msgstr "工作清单"
+
+msgid "Share"
+msgstr "分享"
+
+msgid "Like"
+msgstr "喜欢"
+
+msgid "this job."
+msgstr "这个工作。"
+
+msgid "Apply now"
+msgstr "现在申请"
+
+msgid "Add"
+msgstr "加"
+
+msgid "Edit"
+msgstr "编辑"
+
+msgid "Delete"
+msgstr "删除"
+
+msgid "Add skill"
+msgstr "添加技能"
+
+msgid "Add group"
+msgstr "添加组"
+
+msgid "Remove"
+msgstr "去掉"
+
+msgid "Remove skill"
+msgstr "删除技能"
+
+msgid "Remove group"
+msgstr "删除组"
+
+msgid "Back"
+msgstr "背部"
+
+msgid "Make it now"
+msgstr "现在做吧"
+
+msgid "Create it now"
+msgstr "立即创建"
+
+msgid "Promotion now"
+msgstr "现在推广"
+
+msgid "Search Job"
+msgstr "搜索工作"
+
+msgid "No result find out."
+msgstr "没有结果发现。"
+
+msgid "Preview Job"
+msgstr "预览作业"
+
+msgid "Job"
+msgstr "工作"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "Rate"
+msgstr "率"
+
+msgid "Mission"
+msgstr "任务"
+
+msgid "Introduction"
+msgstr "介绍"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Input your quantity"
+msgstr "输入您的数量"
+
+msgid "Grade"
+msgstr "年级"
+
+msgid "Salary"
+msgstr "薪水"
+
+msgid "Requirement"
+msgstr "需求"
+
+msgid "Input your requirement"
+msgstr "输入您的要求"
+
+msgid "Please select"
+msgstr "请选择"
+
+msgid "Sign in now"
+msgstr "现在登录"
+
+msgid "Edit now"
+msgstr "现在编辑"
+
+msgid "If you have account already please login first."
+msgstr "如果您已经有帐户，请先登录。"
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "简历制作器是允许您制作简历的组件。<br/>它还允许您使用任何打印机进行打印，并将其格式化为Excel或CSV文件。"
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "配置文件创建者是您通过技能进行最佳介绍的组件。它还允许您使用任何打印机进行打印，并以Excel或CSV文件格式化。"
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "促销中心是您自己为雇主和招聘人员做出最佳介绍的组成部分。您也可以在赞助商名单上显示您的知识，技能和实验。"
+
+msgid "Resume"
+msgstr "恢复"
+
+msgid "Resume list"
+msgstr "简历列表"
+
+msgid "Add Resume"
+msgstr "添加简历"
+
+msgid "Edit Resume"
+msgstr "编辑简历"
+
+msgid "Resume was not available."
+msgstr "简历不可用"
+
+msgid "Profile"
+msgstr "轮廓"
+
+msgid "Profile list"
+msgstr "资料列表"
+
+msgid "Add Profile"
+msgstr "添加个人资料"
+
+msgid "Edit Profile"
+msgstr "编辑个人资料"
+
+msgid "Profile was not available."
+msgstr "个人资料不可用。"
+
+msgid "Promotion was not available."
+msgstr "促销不可用。"
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "简历不可用 请创建一个促销。"
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "个人资料不可用。 请创建一个促销。"
+
+msgid "Promotion list"
+msgstr "促销名单"
+
+msgid "Add Promotion"
+msgstr "添加促销"
+
+msgid "Edit Promotion"
+msgstr "编辑推广"
+
+msgid "Input your skill group name"
+msgstr "输入您的技能组名称"
+
+msgid "Level"
+msgstr "水平"
+
+msgid "Skill"
+msgstr "技能"
+
+msgid "Skill name"
+msgstr "技能名称"
+
+msgid "Duration"
+msgstr "持续时间"
+
+msgid "Card"
+msgstr "卡"
+
+msgid "Card type"
+msgstr "卡的种类"
+
+msgid "Other card"
+msgstr "其他卡"
+
+msgid "Input your other card name"
+msgstr "输入您的其他卡名称"
+
+msgid "Card No."
+msgstr "卡号。"
+
+msgid "Input your card number"
+msgstr "输入您的卡号"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Input your title"
+msgstr "输入您的标题"
+
+msgid "Description"
+msgstr "描述"
+
+msgid "Input your description"
+msgstr "输入您的描述"
+
+msgid "Input your mission"
+msgstr "输入你的使命"
+
+msgid "Input your introduction"
+msgstr "输入您的介绍"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Experiment"
+msgstr "实验"
+
+msgid "School"
+msgstr "学校"
+
+msgid "Input your school name"
+msgstr "把你的学校名称"
+
+msgid "Start"
+msgstr "开始"
+
+msgid "End"
+msgstr "结束"
+
+msgid "Major"
+msgstr "重大的"
+
+msgid "Company"
+msgstr "公司"
+
+msgid "Input your company name"
+msgstr "输入您的公司名称"
+
+msgid "Identify No."
+msgstr "识别号"
+
+msgid "Input your identify number"
+msgstr "输入您的身份证号码"
+
+msgid "Tax code"
+msgstr "税法"
+
+msgid "Input your tax code"
+msgstr "输入您的税码"
+
+msgid "Name"
+msgstr "名称"
+
+msgid "Input your name"
+msgstr "输入您的姓名"
+
+msgid "Username"
+msgstr "用户名"
+
+msgid "Input your username"
+msgstr "输入您的用户名"
+
+msgid "Password"
+msgstr "密码"
+
+msgid "Input your password"
+msgstr "输入您的密码"
+
+msgid "First name"
+msgstr "名字"
+
+msgid "Input your first name"
+msgstr "输入你的名字"
+
+msgid "Last name"
+msgstr "姓"
+
+msgid "Input your last name"
+msgstr "输入你的姓氏"
+
+msgid "Email"
+msgstr "电子邮件"
+
+msgid "account@domain"
+msgstr "帐户@域"
+
+msgid "Phone"
+msgstr "电话"
+
+msgid "Input your phone"
+msgstr "输入您的手机"
+
+msgid "Address"
+msgstr "地址"
+
+msgid "Input your address"
+msgstr "输入你的地址"
+
+msgid "Title"
+msgstr "标题"
+
+msgid "Input your title"
+msgstr "输入您的标题"
+
+msgid "Content"
+msgstr "内容"
+
+msgid "Input your content"
+msgstr "输入您的内容"
+
+msgid "Position"
+msgstr "位置"
+
+msgid "Input your position"
+msgstr "输入你的位置"
+
+msgid "Major/Field"
+msgstr "主要/场"
+
+msgid "Country"
+msgstr "国家"
+
+msgid "Location"
+msgstr "位置"
+
+msgid "Expire date"
+msgstr "到期日期"
+
+msgid "Expire on"
+msgstr "过期"
+
+msgid "Action"
+msgstr "行动"
+
+msgid "View detail"
+msgstr "查看详情"
+
+# Template
+msgid "EMPLOYER"
+msgstr "雇主"
+
+msgid "EMPLOYEE"
+msgstr "雇员"
+
+msgid "Search Jobs"
+msgstr "搜索职位"
+
+msgid "Companies List"
+msgstr "公司名单"
+
+msgid "Keyword"
+msgstr "关键词"
+
+msgid "All majors"
+msgstr "所有专业"
+
+msgid "All countries"
+msgstr "所有国家"
+
+msgid "All locations"
+msgstr "所有地点"
+
+msgid "Search now"
+msgstr "立即搜索"
+
+msgid "Login"
+msgstr "登录"
+
+msgid "You were login success."
+msgstr "你登录成功了"
+
+msgid "This account was not available!"
+msgstr "此帐户不可用！"
+
+msgid "Login now"
+msgstr "现在登录"
+
+msgid "Create an account"
+msgstr "创建一个帐户"
+
+msgid "Forgot password"
+msgstr "忘记密码"
+
+msgid "Account"
+msgstr "帐户"
+
+msgid "Hello"
+msgstr "你好"
+
+msgid "Logout"
+msgstr "登出"
+
+msgid "Edit account"
+msgstr "编辑帐号"
+
+msgid "Edit Account"
+msgstr "编辑帐号"
+
+msgid "Manage your Account information and Contact information."
+msgstr "管理您的帐户信息和联系信息。"
+
+msgid "Sponsor"
+msgstr "赞助"
+
+msgid "Subscribe"
+msgstr "订阅"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "订阅获取最新信息和新到达工作警报。"
+
+msgid "Subscribe success."
+msgstr "订阅成功。"
+
+msgid "Subscribe fail."
+msgstr "订阅失败。"
+
+msgid "Subscribe now"
+msgstr "现在订阅"
+
+msgid "Contact us"
+msgstr "联系我们"
+
+msgid "Contact us now to get more information."
+msgstr "联系我们获取更多信息。"
+
+msgid "Contact now"
+msgstr "现在联系"
+
+msgid "Registry to get more features"
+msgstr "注册表获取更多功能"
+
+msgid "Contact us success."
+msgstr "联系我们成功。"
+
+msgid "Contact us fail!"
+msgstr "联系我们失败！"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "关于我们"
+
+msgid "Support"
+msgstr "支持"
+
+msgid "FAQ"
+msgstr "常问问题"
+
+msgid "Component"
+msgstr "零件"
+
+msgid "Resume Maker"
+msgstr "简历制作"
+
+msgid "Profile Creator"
+msgstr "个人资料创建者"
+
+msgid "Promotion Center"
+msgstr "促销中心"
+
+msgid "Follow us"
+msgstr "跟着我们"
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr "比较喜欢"
+
+msgid "or"
+msgstr "要么"
+
+msgid "All right reserved."
+msgstr "保留所有权利。"
+
+msgid "Powered by"
+msgstr "供电"
+
+# Top
+msgid "Top Job"
+msgstr "最高职位"
+
+msgid "Jobs Ofference"
+msgstr "工作离婚" 
+
+msgid "Latest post"
+msgstr "最新帖子"
+
+msgid "Posted on"
+msgstr "发表于"
+
+msgid "We proud to"
+msgstr "我们很自豪"
+
+msgid "More than 10 years of IT services"
+msgstr "十多年的IT服务"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "我们深刻理解您的使命，您的愿景。“我们拥有最新的技术。”我们有热情，热情和可靠。"
+
+msgid "Provide the best solution"
+msgstr "提供最好的解决方案"
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr "ViReruitment是我们最好的解决方案之一，使您的业务达到下一个级别。我们使生活更加容易，更幸福。"
+
+msgid "We offer to"
+msgstr "我们提供给"
+
+msgid "Find candidate matched to your jobs"
+msgstr "找到与您的工作匹配的候选人"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "我们承诺您的工作将由最佳候选人参加。<br/>快速准确地获得应用的候选人名单。"
+
+msgid "Make yours highlight"
+msgstr "使你的亮点"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "您的工作始终位于工作列表的顶部。<br>/使紧急工作更容易。"
+
+# Sign in
+msgid "Sign in"
+msgstr "签到"
+
+msgid "Sign in to used full our feature and component."
+msgstr "登录以使用我们的功能和组件。"
+
+msgid "Contact"
+msgstr "联系"
+
+msgid "Avatar"
+msgstr "阿凡达"
+
+msgid "Why choose our service?"
+msgstr "为什么选择我们的服务"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 class =“m0”>我们构建IT服务：</ h4>具有10多个实验年份。有关业务解决方案的知识和理解。<br/> <h4 class =“m0”> 我们提供最好的IT解决方案。</ h4>团队设计师和开发人员在丰富的实验，热情和负责任工作。"
+
+msgid "Contact us to get more information"
+msgstr "联系我们获取更多信息"
+
+# Major
+msgid "Accounting"
+msgstr "会计"
+
+msgid "Administrative"
+msgstr "行政的"
+
+msgid "Advertising"
+msgstr "广告"
+
+msgid "Agriculture"
+msgstr "农业"
+
+msgid "Airline"
+msgstr "航空公司"
+
+msgid "Architecture"
+msgstr "建筑"
+
+msgid "Art Design"
+msgstr "艺术设计"
+
+msgid "Banking"
+msgstr "银行业"
+
+msgid "Chemical"
+msgstr "化学"
+
+msgid "Construction"
+msgstr "施工"
+
+msgid "Consulting"
+msgstr "咨询"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Electrical/Electronic"
+msgstr "电气/电子"
+
+msgid "Environment"
+msgstr "环境"
+
+msgid "Export/Import"
+msgstr "出口进口"
+
+msgid "Fashion"
+msgstr "时尚"
+
+msgid "Finance"
+msgstr "金融"
+
+msgid "Food"
+msgstr "餐饮"
+
+msgid "Health Care"
+msgstr "卫生保健"
+
+msgid "Human Resource"
+msgstr "人力资源"
+
+msgid "Insurance"
+msgstr "保险"
+
+msgid "Internet Media"
+msgstr "互联网媒体"
+
+msgid "IT - Hardware/Networking"
+msgstr "IT - 硬件/网络"
+
+msgid "IT - Software"
+msgstr "IT - 软件"
+
+msgid "Interpreter/Translator"
+msgstr "口译/翻译"
+
+msgid "Marketing"
+msgstr "营销"
+
+msgid "Mechanical"
+msgstr "机械"
+
+msgid "Oil/Gas"
+msgstr "石油/天然气"
+
+msgid "Overseas Jobs"
+msgstr "海外工作"
+
+msgid "Pharmaceutical"
+msgstr "制药"
+
+msgid "QA/QC"
+msgstr ""
+
+msgid "Real Estate"
+msgstr "房地产"
+
+msgid "Sales"
+msgstr "销售"
+
+msgid "Securities"
+msgstr "证券"
+
+msgid "Telecommunication"
+msgstr "电信"
+
+msgid "TV/Media/Newspaper"
+msgstr "电视/媒体/报纸"
+
+msgid "Warehouse"
+msgstr "仓库"
+
+msgid "Staff"
+msgstr "员工"
+
+msgid "Marine"
+msgstr "海洋"
+
+msgid "Logistics"
+msgstr "后勤"
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "应聘工作"
+
+msgid "Applied list"
+msgstr "应用列表"
+
+msgid "Applied date"
+msgstr "申请日期"
+
+msgid "Applies was not available."
+msgstr "适用不可用。"

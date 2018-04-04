@@ -1,0 +1,281 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* icon */
+[class^="icon_"], [class*=" icon_"] {
+    background-image: url("img/icon/glyphicons-halflings-white.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    width: 20px;
+    vertical-align: bottom;
+}
+.icon_black {
+    background-image: url("img/icon/glyphicons-halflings.png");
+}
+.icon_red {
+    background-image: url("img/icon/glyphicons-halflings-red.png");
+}
+.icon_update {
+    background-position: -238px -22px;
+}
+.icon_display {
+    background-position: -262px -22px;
+}
+.icon_show {
+    background-position: -262px -22px;
+}
+.icon_add {
+    background-position: -404px -94px;
+}
+.icon_sub {
+    background-position: -429px -94px;
+}
+.icon_edit {
+    background-position: 3px -70px;
+}
+.icon_save {
+    background-position:  -379px -143px;
+}
+.icon_select {
+    background-position: -141px -70px;
+}
+.icon_confirm {
+    background-position: -287px 2px;
+}
+.icon_confirm_simple {
+    background-position: -70px -94px;
+}
+.icon_back {
+    background-position: -237px -94px;
+}
+.icon_next {
+    background-position: -260px -94px;
+}
+.icon_delete {
+    background-position: -310px 2px;
+}
+.icon_delete_simple {
+    background-position: -47px -94px;
+}
+.icon_error {
+    background-position: -21px -93px;
+}
+.icon_home {
+    background-position: 3px -21px;
+}
+.icon_print {
+    background-position: -93px -45px;
+}
+.icon_alert {
+    background-position: -119px -94px;
+}
+.icon_submit {
+    background-position: -333px -95px;
+}
+.icon_cancel {
+    background-position: -213px -94px;
+}
+.icon_login {
+    background-position: -284px -21px;
+}
+.icon_logout {
+    background-position: -381px 2px;
+}
+.icon_up {
+	background-position: -285px -117px;
+}
+.icon_down {
+	background-position: -143px -167px;
+}
+.icon_lock {
+	background-position: -355px -167px;
+}
+.icon_unlock {
+	background-position: -379px -167px;
+}
+.icon_property {
+	background-position: -406px -166px;
+}
+.icon_album {
+	background-position: -453px -46px;
+}
+.icon_member{
+	background-position: -165px 3px;
+}
+.icon_profile {
+	background-position: -187px -142px;
+}
+.icon_search {
+	background-position: -45px 3px;
+}
+.icon_phone {
+	background-position: -430px -167px;
+}
+.icon_mail {
+	background-position: -450px -167px;
+}
+.icon_address {
+	background-position: -21px -69px;
+}
+.icon_note {
+	background-position: 3px -117px;
+}
+.icon_success {
+	background-position: -69px -93px;
+}
+.icon_user_view {
+	background-position: -93px -117px;
+}
+.icon_like {
+	background-position: -93px 3px;
+}
+
+/* icon report */
+[class^="icon_report_"], [class*=" icon_report_"] {
+    background-image: url("img/icon/icon_report.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 20px;
+    line-height: 20px;
+    width: 20px;
+    vertical-align: bottom;
+	margin: 3px;
+}
+.icon_report_house {
+	background-position: 0 0;
+}
+.icon_report_villa {
+	background-position: -20px 0;
+}
+.icon_report_shop {
+	background-position: -40px 0;
+}
+.icon_report_office {
+	background-position: -60px 0;
+}
+.icon_report_building {
+	background-position: -80px 0;
+}
+.icon_report_land {
+	background-position: -100px 0;
+}
+.icon_report_apartment {
+	background-position: -120px 0;
+}
+.icon_report_personal {
+	background-position: 0 -20px;
+}
+.icon_report_buyer {
+	background-position: -20px -20px;
+}
+.icon_report_enterprise {
+	background-position: -40px -20px;
+}
+.icon_report_anonymous {
+	background-position: -60px -20px;
+} 
+.icon_report_bar_chart {
+	background-position: 0 -40px;
+}
+.icon_report_line_chart {
+	background-position: -20px -40px;
+}
+.icon_report_pie_chart {
+	background-position: -40px -40px;
+}
+.icon_report_font_family {
+	background-position: 0 -60px;
+}
+.icon_report_font_size{
+	background-position: -20px -60px;
+}
+.icon_report_font_color {
+	background-position: -40px -60px;
+}
+.icon_report_background_color {
+	background-position: -60px -60px;
+}
+.icon_report_printer {
+	background-position: 0 -80px;
+}
+.icon_report_excel {
+	background-position: -20px -80px;
+}
+.icon_report_pdf {
+	background-position: -40px -80px;
+}
+.icon_report_html {
+	background-position: -60px -80px;
+}
+/* icon emotion */
+[class^="icon_emotion_"], [class*=" icon_emotion_"] {
+	background-image: url("img/icon/emotion_icon.png");
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 40px;
+	line-height: 40px;
+	width: 40px;
+	vertical-align: bottom;
+}
+.icon_emotion_love {
+	background-position: 0px 0px;
+}
+.icon_emotion_love.icon_emotion_blue {
+	background-position: 0px -40px;
+}
+.icon_emotion_view {
+	background-position: -40px 0px;
+}
+.icon_emotion_view.icon_emotion_blue {
+	background-position: -40px -40px;
+}
+.icon_emotion_talk {
+	background-position: -80px 0px;
+}
+.icon_emotion_talk.icon_emotion_blue {
+	background-position: -80px -40px;
+}
+
+/* icon resource */
+[class^="icon_resource_"], [class*=" icon_resource_"] {
+	background-image: url("img/icon/resource_icon.png");
+	background-position: 0px 0px;
+	background-repeat: no-repeat;
+	display: inline-block;
+	height: 40px;
+	line-height: 40px;
+	width: 40px;
+	vertical-align: bottom;
+}
+.icon_resource_photo {
+	background-position: 0px 0px;
+}
+
+/* icon social */
+[class^="icon_social_"], [class*=" icon_social_"] {
+    background-image: url("img/icon/icon-social.png");
+    background-position: 14px 14px;
+    background-repeat: no-repeat;
+    display: inline-block;
+    height: 40px;
+    line-height: 40px;
+    width: 40px;
+    vertical-align: bottom;
+}
+.icon_social_facebook {
+	background-position: 0px 0px;
+}
+.icon_social_linkin {
+	background-position: -40px 0px;
+}
+.icon_social_twiter {
+	background-position: -80px 0px;
+}
+.icon_social_flickr{
+	background-position: -120px 0px;
+}

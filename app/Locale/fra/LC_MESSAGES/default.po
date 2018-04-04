@@ -1,0 +1,1085 @@
+﻿msgid "Real estate"
+msgstr "Immobilier"
+
+msgid "Recruitment"
+msgstr "Recrutement"
+
+msgid "Photo"
+msgstr ""
+
+msgid "Our services"
+msgstr "Nos services"
+
+msgid "About us"
+msgstr "À propos de nous"
+
+msgid "WRE briefly"
+msgstr "WRE - World Real Estate est un fournisseur de solutions d'applications technologiques pour le courtier immobilier et un accès facile aux clients et met à jour les entreprises. Cela permet également aux entreprises de gestion, aux actifs et aux employés ..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment une solution des applications de la technologie de l'information dans le domaine du recrutement pour les employeurs gagnants, les demandeurs d'emploi, le courtier de recrutement. Cette solution a également un autre nom Recruitment Network of Vietnamese."
+
+msgid "iphoto briefly"
+msgstr "Color4Life abrite des souvenirs de magasins, des moments heureux et tristes de la vie. Partagez vos pensées, vos sentiments et votre passion ..."
+
+msgid "Movie"
+msgstr "Film"
+
+msgid "Music"
+msgstr "La musique"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "Chercheur d'emploi"
+
+msgid "Employer"
+msgstr "Employeur"
+
+msgid "Multimedia"
+msgstr "Multimédia"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "Créer un compte personnel"
+
+msgid "Create an enterprise account"
+msgstr "Créer un compte d'entreprise"
+
+msgid "One account for all application"
+msgstr "Un compte pour toutes les applications"
+
+msgid "One application for all devices"
+msgstr "Une application pour tous les appareils"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "Nous vous engageons à avoir la meilleure façon de vous permettre d'utiliser notre application"
+
+msgid "All features security in all our application"
+msgstr "Toutes les fonctionnalités de sécurité dans toutes nos applications"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "Nous engageons votre compte toujours dans le niveau de sécurité le plus élevé"
+
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "Moins de 250 USD"
+
+msgid "From 250 to 500 USD"
+msgstr "De 250 à 500 USD"
+
+msgid "From 500 to 1000 USD"
+msgstr "De 500 à 1000 USD"
+
+msgid "From 1000 to 2000 USD"
+msgstr "De 1000 à 2000 USD"
+
+msgid "From 2000 to 4000 USD"
+msgstr "De 2000 à 4000 USD"
+
+msgid "Over 4000 USD"
+msgstr "Plus de 4000 USD"
+
+msgid "Negotiable"
+msgstr "Négociable"
+
+# Rate
+msgid "Less than 20"
+msgstr "Moins de 20"
+
+msgid "From 20 to 50"
+msgstr "De 20 à 50"
+
+msgid "From 50 to 100"
+msgstr "De 50 à 100"
+
+msgid "From 100 to 200"
+msgstr "De 100 à 200"
+
+msgid "From 200 to 500"
+msgstr "De 200 à 500"
+
+msgid "From 500 to 1000"
+msgstr "De 500 à 1000"
+
+msgid "Greater than 1000"
+msgstr "Plus de 1000"
+
+# Grade
+msgid "Student"
+msgstr "Étudiant"
+
+msgid "Junior"
+msgstr ""
+
+msgid "Senior"
+msgstr "Sénior"
+
+msgid "Expert"
+msgstr ""
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "Pas encore expérimenté"
+
+msgid "One year"
+msgstr "Un ans"
+
+msgid "Two years"
+msgstr "Deux ans"
+
+msgid "Three years"
+msgstr "Trois ans"
+
+msgid "Five years"
+msgstr "Cinq ans"
+
+msgid "Ten years"
+msgstr "Dix ans"
+
+msgid "Over ten years"
+msgstr "Plus de dix ans"
+
+# Level
+msgid "Begin"
+msgstr "Commencer"
+
+msgid "Medium"
+msgstr "Moyen"
+
+msgid "Good"
+msgstr "Bien"
+
+msgid "Very Good"
+msgstr "Très bon"
+
+msgid "Expert"
+msgstr ""
+
+# Duration
+msgid "One week"
+msgstr "Une semaine"
+
+msgid "Two weeks"
+msgstr "Deux semaines"
+
+msgid "Three weeks"
+msgstr "Trois semaines"
+
+msgid "One month"
+msgstr "Un mois"
+
+msgid "Two months"
+msgstr "Deux mois"
+
+msgid "Three months"
+msgstr "Trois mois"
+
+# General
+msgid "Currency"
+msgstr "Devise"
+
+msgid "Amount"
+msgstr "Montant"
+
+msgid "Expire year"
+msgstr "Annuler l'année"
+
+msgid "Expire month"
+msgstr "Période d'expiration"
+
+msgid "Please check your network connection!"
+msgstr "Vérifiez votre connexion réseau!"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "Le traitement des dons a échoué! Veuillez réessayer."
+
+msgid "Payment servers are down! Please try again."
+msgstr "Les serveurs de paiement sont en panne! Veuillez réessayer."
+
+msgid "Your card number is incorrect."
+msgstr "Votre numéro de carte est incorrect."
+
+msgid "The card was declined."
+msgstr "La carte a été refusée."
+
+msgid "Your card's expiration year is invalid."
+msgstr "L'année d'expiration de votre carte est invalide."
+
+msgid "Your card's expiration month is invalid."
+msgstr "Le mois d'expiration de votre carte est invalide."
+
+msgid "Preview Account"
+msgstr "Compte d'aperçu"
+
+msgid "Preview account"
+msgstr "Compte d'aperçu"
+
+msgid "You signed in success. Please check your email."
+msgstr "Vous avez signé un succès. Merci de consulter vos emails."
+
+msgid "You signed in fail! Please try again."
+msgstr "Vous avez signé un échec! Veuillez réessayer."
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "Vous vous êtes connecté et vous avez réussi à réussir. Merci de consulter vos emails."
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "Vous vous connectez et faites reprendre votre CV! Veuillez réessayer."
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "Vous avez signé et créé un succès de profil. Merci de consulter vos emails."
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "Vous vous connectez et créez un profil échoué! Veuillez réessayer."
+
+msgid "View all"
+msgstr "Voir tout"
+
+msgid "Consultant"
+msgstr ""
+
+msgid "Consultant List"
+msgstr "Liste des consultants"
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "Vous ne pouvez pas modifier la durée ou la carte après le démarrage ou le don."
+
+msgid "Post to offer"
+msgstr "Publier pour offrir"
+
+msgid "Create now"
+msgstr "Créer maintenant"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Recruit"
+msgstr "Recruter"
+
+msgid "Recruit now"
+msgstr "Recruter maintenant"
+
+msgid "Recruit Master"
+msgstr "Recruter le Master"
+
+msgid "Add Recruit"
+msgstr "Ajouter un recrutement"
+
+msgid "Edit Recruit"
+msgstr "Modifier le recrutement"
+
+msgid "Recruit list"
+msgstr "Liste de recrutement"
+
+msgid "Recruiter was not available."
+msgstr "Le recruteur n'était pas disponible."
+
+msgid "Applicant"
+msgstr "Demandeur"
+
+msgid "Applicant list"
+msgstr "Liste des candidats"
+
+msgid "Apply letter"
+msgstr "Poser une lettre"
+
+msgid "Apply date time"
+msgstr "Appliquer l'heure de la date"
+
+msgid "Match"
+msgstr "Rencontre"
+
+msgid "Not set"
+msgstr "Pas encore défini"
+
+msgid "Not match"
+msgstr "Ne correspond pas"
+
+msgid "Matched"
+msgstr "Correspondue"
+
+msgid "Confirm"
+msgstr "Confirmer"
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr "Gérez votre compte, vos coordonnées et les informations de votre société."
+
+msgid "Account has edited success."
+msgstr "Le compte a modifié son succès."
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "Profile Creator est la composante qui vous permet de faire la meilleure introduction à propos de votre entreprise aux employés et aux partenaires. <br/> Il apparaitre également votre société sur la liste des entreprises."
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "Faire un don pour promouvoir la présentation de votre entreprise sur la liste des sponsors et la vue par l'employé et le partenaire en premier."
+
+msgid "Candidate"
+msgstr "Candidat"
+
+msgid "Candidate List"
+msgstr "Liste des candidats"
+
+msgid "Preview Candidate"
+msgstr ""
+
+msgid "Candidate was not available."
+msgstr "Le candidat n'était pas disponible."
+
+msgid "Square logo"
+msgstr "Logo carré"
+
+msgid "Rectangle logo"
+msgstr "Logo rectangle"
+
+msgid "Allowance No."
+msgstr "Licence No."
+
+msgid "of this candidate."
+msgstr "de ce candidat."
+
+msgid "Gender"
+msgstr "Le genre"
+
+msgid "Male"
+msgstr "Mâle"
+
+msgid "Female"
+msgstr "Femelle"
+
+msgid "Birthday"
+msgstr "Anniversaire"
+
+msgid "Please"
+msgstr "S'il vous plaît"
+
+msgid "to"
+msgstr "à"
+
+msgid "Apply"
+msgstr "Appliquer"
+
+msgid "Application"
+msgstr ""
+
+msgid "Letter"
+msgstr "Lettre"
+
+msgid "Application has sent success."
+msgstr "L'application a envoyé du succès."
+
+msgid "You applied this job already."
+msgstr "Vous avez déjà appliqué ce travail."
+
+msgid "Logo"
+msgstr ""
+
+msgid "Top Companies"
+msgstr "Top entreprises"
+
+msgid "Latest join"
+msgstr "Dernière jointure"
+
+msgid "Joined on"
+msgstr "Inscrit le"
+
+msgid "Preview Company"
+msgstr "Aperçu de la société"
+
+msgid "Job was not available."
+msgstr "Job n'était pas disponible."
+
+msgid "First"
+msgstr "Premier"
+
+msgid "Last"
+msgstr "Dernier"
+
+msgid "Job list"
+msgstr "Liste des emplois"
+
+msgid "Share"
+msgstr "Partager"
+
+msgid "Like"
+msgstr "Comme"
+
+msgid "this job."
+msgstr "ce travail."
+
+msgid "Apply now"
+msgstr "Appliquer maintenant"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Add skill"
+msgstr "Ajouter une compétence"
+
+msgid "Add group"
+msgstr "Ajouter un groupe"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Remove skill"
+msgstr "Supprimer la compétence"
+
+msgid "Remove group"
+msgstr "Supprimer le groupe"
+
+msgid "Back"
+msgstr "Arrière"
+
+msgid "Make it now"
+msgstr "Faites-le maintenant"
+
+msgid "Create it now"
+msgstr "Créez-le maintenant"
+
+msgid "Promotion now"
+msgstr "Promotion maintenant"
+
+msgid "Search Job"
+msgstr "Rechercher un emploi"
+
+msgid "No result find out."
+msgstr "Aucun résultat trouvé."
+
+msgid "Preview Job"
+msgstr "Prévisualiser un emploi"
+
+msgid "Job"
+msgstr "Emploi"
+
+msgid "Result"
+msgstr "Résultat"
+
+msgid "Rate"
+msgstr "Taux"
+
+msgid "Mission"
+msgstr "Mission"
+
+msgid "Introduction"
+msgstr ""
+
+msgid "Quantity"
+msgstr "Quantité"
+
+msgid "Input your quantity"
+msgstr "Entrez votre quantité"
+
+msgid "Grade"
+msgstr "Qualité"
+
+msgid "Salary"
+msgstr "Un salaire"
+
+msgid "Requirement"
+msgstr "Exigence"
+
+msgid "Input your requirement"
+msgstr "Entrez vos besoins"
+
+msgid "Please select"
+msgstr "Sélectionnez"
+
+msgid "Sign in now"
+msgstr "Connectez vous maintenant"
+
+msgid "Edit now"
+msgstr "Modifier maintenant"
+
+msgid "If you have account already please login first."
+msgstr "Si vous avez déjà un compte, connectez-vous d'abord."
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "Resume Maker est le composant qui vous permet de créer votre CV. <br/> Il vous permet également d'imprimer avec n'importe quelle imprimante et de la formater dans un fichier Excel ou CSV."
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "Profile Creator est le composant qui vous permet de faire la meilleure introduction par vos compétences. <br/> Il vous permet également d'imprimer avec n'importe quelle imprimante et de la formater dans un fichier Excel ou CSV."
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "Le Centre de promotion est le composant qui vous permet de faire la meilleure introduction par vous-même à l'employeur et au recruteur. <br/> Il apparaît également que vous êtes sur la liste des sponsors et que vous avez vos connaissances, compétences et expériences."
+
+msgid "Resume"
+msgstr "CV"
+
+msgid "Resume list"
+msgstr "Liste de reprise"
+
+msgid "Add Resume"
+msgstr "Ajouter un CV"
+
+msgid "Edit Resume"
+msgstr "Modifier le CV"
+
+msgid "Resume was not available."
+msgstr "Le curriculum vitae n'était pas disponible."
+
+msgid "Profile"
+msgstr "Profil"
+
+msgid "Profile list"
+msgstr "Liste des profil"
+
+msgid "Add Profile"
+msgstr "Ajouter un profil"
+
+msgid "Edit Profile"
+msgstr "Editer le "
+
+msgid "Profile was not available."
+msgstr "Le profil n'était pas disponible."
+
+msgid "Promotion was not available."
+msgstr "La promotion n'était pas disponible."
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "Le curriculum vitae n'était pas disponible. Veuillez créer au moins un pour promouvoir."
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "Le profil n'était pas disponible. Veuillez créer au moins un pour promouvoir."
+
+msgid "Promotion list"
+msgstr "Liste promotionnelle"
+
+msgid "Add Promotion"
+msgstr "Ajouter une promotion"
+
+msgid "Edit Promotion"
+msgstr "Modifier la promotion"
+
+msgid "Input your skill group name"
+msgstr "Entrez votre nom de groupe de compétences"
+
+msgid "Level"
+msgstr "Niveau"
+
+msgid "Skill"
+msgstr "Compétence"
+
+msgid "Skill name"
+msgstr "Nom de compétence"
+
+msgid "Duration"
+msgstr "Durée"
+
+msgid "Card"
+msgstr "Carte"
+
+msgid "Card type"
+msgstr "Type de carte"
+
+msgid "Other card"
+msgstr "Autre carte"
+
+msgid "Input your other card name"
+msgstr "Entrez votre autre nom de carte"
+
+msgid "Card No."
+msgstr "Carte No."
+
+msgid "Input your card number"
+msgstr "Entrez votre numéro de carte"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Input your title"
+msgstr "Entrez votre titre"
+
+msgid "Description"
+msgstr "La description"
+
+msgid "Input your description"
+msgstr "Entrez votre description"
+
+msgid "Input your mission"
+msgstr "Entrez votre mission"
+
+msgid "Input your introduction"
+msgstr "Entrez votre introduction"
+
+msgid "Education"
+msgstr "Éducation"
+
+msgid "Experiment"
+msgstr "Expérience"
+
+msgid "School"
+msgstr "École"
+
+msgid "Input your school name"
+msgstr "Entrez le nom de votre école"
+
+msgid "Start"
+msgstr "Début"
+
+msgid "End"
+msgstr "Fin"
+
+msgid "Major"
+msgstr "Majeur"
+
+msgid "Company"
+msgstr "Compagnie"
+
+msgid "Input your company name"
+msgstr "Entrez le nom de votre entreprise"
+
+msgid "Identify No."
+msgstr "Identifier No."
+
+msgid "Input your identify number"
+msgstr "Entrez votre numéro d'identité"
+
+msgid "Tax code"
+msgstr "Code fiscal"
+
+msgid "Input your tax code"
+msgstr "Entrez votre code fiscal"
+
+msgid "Name"
+msgstr "Prénom"
+
+msgid "Input your name"
+msgstr "Entrez votre nom"
+
+msgid "Username"
+msgstr "Nom d'utilisateur"
+
+msgid "Input your username"
+msgstr "Entrez votre nom d'utilisateur"
+
+msgid "Password"
+msgstr "Mot de passe"
+
+msgid "Input your password"
+msgstr "Entrez votre mot de passe"
+
+msgid "First name"
+msgstr "Prénom"
+
+msgid "Input your first name"
+msgstr "Entrez votre prénom"
+
+msgid "Last name"
+msgstr "Nom de famille"
+
+msgid "Input your last name"
+msgstr "Entrez votre nom de famille"
+
+msgid "Email"
+msgstr ""
+
+msgid "account@domain"
+msgstr "compte@domaine"
+
+msgid "Phone"
+msgstr "Téléphone"
+
+msgid "Input your phone"
+msgstr "Entrez votre téléphone"
+
+msgid "Address"
+msgstr "Adresse"
+
+msgid "Input your address"
+msgstr "Entrez votre adresse"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Input your title"
+msgstr "Entrez votre titre"
+
+msgid "Content"
+msgstr "Contenu"
+
+msgid "Input your content"
+msgstr "Entrez votre contenu"
+
+msgid "Position"
+msgstr ""
+
+msgid "Input your position"
+msgstr "Entrez votre position"
+
+msgid "Major/Field"
+msgstr "Majeur/Champ"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "Location"
+msgstr "Emplacement"
+
+msgid "Expire date"
+msgstr "Date d'expiration"
+
+msgid "Expire on"
+msgstr "Expire le"
+
+msgid "Action"
+msgstr ""
+
+msgid "View detail"
+msgstr "Voir les détails"
+
+# Template
+msgid "EMPLOYER"
+msgstr ""
+
+msgid "EMPLOYEE"
+msgstr "EMPLOYEUR"
+
+msgid "Search Jobs"
+msgstr "Recherche de travail"
+
+msgid "Companies List"
+msgstr "Liste des entreprises"
+
+msgid "Keyword"
+msgstr "Mot-clé"
+
+msgid "All majors"
+msgstr "Tous les majors"
+
+msgid "All countries"
+msgstr "Tous les pays"
+
+msgid "All locations"
+msgstr "Tous les emplacements"
+
+msgid "Search now"
+msgstr "Rechercher maintenant"
+
+msgid "Login"
+msgstr "S'identifier"
+
+msgid "You were login success."
+msgstr "Vous avez réussi à vous connecter."
+
+msgid "This account was not available!"
+msgstr "Ce compte n'était pas disponible!"
+
+msgid "Login now"
+msgstr "Connecte-toi maintenant"
+
+msgid "Create an account"
+msgstr "Créer un compte"
+
+msgid "Forgot password"
+msgstr "Mot de passe oublié"
+
+msgid "Account"
+msgstr "Compte"
+
+msgid "Hello"
+msgstr "Bonjour"
+
+msgid "Logout"
+msgstr "Connectez - Out"
+
+msgid "Edit account"
+msgstr "Modifier le compte"
+
+msgid "Edit Account"
+msgstr "Modifier le compte"
+
+msgid "Manage your Account information and Contact information."
+msgstr "Gérer les informations de votre compte et vos coordonnées."
+
+msgid "Sponsor"
+msgstr "Parrainer"
+
+msgid "Subscribe"
+msgstr "Souscrire"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "Abonnez-vous pour recevoir les dernières informations et alertes sur les nouveaux arrivages."
+
+msgid "Subscribe success."
+msgstr "Abonnez-vous au succès."
+
+msgid "Subscribe fail."
+msgstr "Inscrivez-vous."
+
+msgid "Subscribe now"
+msgstr "Abonnez-vous maintenant"
+
+msgid "Contact us"
+msgstr "Contactez nous"
+
+msgid "Contact us now to get more information."
+msgstr "Contactez-nous maintenant pour obtenir plus d'informations."
+
+msgid "Contact now"
+msgstr "Contacter maintenant"
+
+msgid "Registry to get more features"
+msgstr "Registre pour obtenir plus de fonctionnalités"
+
+msgid "Contact us success."
+msgstr "Contactez-nous le succès."
+
+msgid "Contact us fail!"
+msgstr "Contactez-nous échouer!"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "À propos de nous"
+
+msgid "Support"
+msgstr "Soutien"
+
+msgid "FAQ"
+msgstr "Fréquence AQ"
+
+msgid "Component"
+msgstr "Composant"
+
+msgid "Resume Maker"
+msgstr "Fabricant de CV"
+
+msgid "Profile Creator"
+msgstr "Créateur de profil"
+
+msgid "Promotion Center"
+msgstr "Centre de promotion"
+
+msgid "Follow us"
+msgstr "Suivez nous"
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr "préférer"
+
+msgid "or"
+msgstr "ou"
+
+msgid "All right reserved."
+msgstr "Tous droits réservés."
+
+msgid "Powered by"
+msgstr "Alimenté par"
+
+# Top
+msgid "Top Job"
+msgstr "Le meilleur travail"
+
+msgid "Jobs Ofference"
+msgstr "Offre d'emploi" 
+
+msgid "Latest post"
+msgstr "Dernier message"
+
+msgid "Posted on"
+msgstr "Posté sur"
+
+msgid "We proud to"
+msgstr "Nous sommes fiers de"
+
+msgid "More than 10 years of IT services"
+msgstr "Plus de 10 ans de services informatiques"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "Nous comprenons votre mission, votre vision profondément. <br/> Nous possédons la dernière technologie. <br/> Nous avons l'enthousiasme, la passion et la fiabilité."
+
+msgid "Provide the best solution"
+msgstr "Fournir la meilleure solution"
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr "Le recrutement est l'un des meilleurs de notre solution pour faire de votre entreprise au prochain niveau. <br/> Nous rendons la vie plus facile et plus de bonheur."
+
+msgid "We offer to"
+msgstr "Nous offrons"
+
+msgid "Find candidate matched to your jobs"
+msgstr "Trouver un candidat adapté à vos emplois"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "Nous promettons que votre travail sera assuré par le meilleur candidat. <br/> Rapide et exactement pour obtenir la liste des candidats appliqués."
+
+msgid "Make yours highlight"
+msgstr "Faites de votre choix"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "Vos emplois sont toujours sur le dessus de la liste des emplois. <br/> Rendez les tâches urgentes plus faciles."
+
+# Sign in
+msgid "Sign in"
+msgstr "Se connecter"
+
+msgid "Sign in to used full our feature and component."
+msgstr "Connectez-vous à l'intégralité de notre fonctionnalité et de notre composant."
+
+msgid "Contact"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Why choose our service?"
+msgstr "Pourquoi choisir notre service?"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 class = "m0"> Nous créons les services informatiques: </ h4> Avec plus de 10 années d'expérience. <br/> Avec la connaissance et la compréhension de la solution commerciale. <br/> <h4 class = "m0"> Nous proposons le meilleur des solutions informatiques. </ H4> Avec le concepteur d'équipe et le développeur travaillent en riche expérience, passion et responsable."
+
+msgid "Contact us to get more information"
+msgstr "Contactez-nous pour obtenir plus d'informations"
+
+# Major
+msgid "Accounting"
+msgstr "Comptabilité"
+
+msgid "Administrative"
+msgstr "Administratif"
+
+msgid "Advertising"
+msgstr "La publicité"
+
+msgid "Agriculture"
+msgstr ""
+
+msgid "Airline"
+msgstr "Compagnie aérienne"
+
+msgid "Architecture"
+msgstr "Architecture"
+
+msgid "Art Design"
+msgstr "Conception d'art"
+
+msgid "Banking"
+msgstr "Bancaire"
+
+msgid "Chemical"
+msgstr "Chimique"
+
+msgid "Construction"
+msgstr "Construction"
+
+msgid "Consulting"
+msgstr "Consultant"
+
+msgid "Education"
+msgstr "Éducation"
+
+msgid "Electrical/Electronic"
+msgstr "Électrique / électronique"
+
+msgid "Environment"
+msgstr "Environnement"
+
+msgid "Export/Import"
+msgstr "Export / Import"
+
+msgid "Fashion"
+msgstr "Mode"
+
+msgid "Finance"
+msgstr "La finance"
+
+msgid "Food"
+msgstr "Aliments"
+
+msgid "Health Care"
+msgstr "Soins de santé"
+
+msgid "Human Resource"
+msgstr "Ressource humaine"
+
+msgid "Insurance"
+msgstr "Assurance"
+
+msgid "Internet Media"
+msgstr "Médias Internet"
+
+msgid "IT - Hardware/Networking"
+msgstr "IT - Matériel / Réseaux"
+
+msgid "IT - Software"
+msgstr "IT - Logiciel"
+
+msgid "Interpreter/Translator"
+msgstr "Traducteur interprète"
+
+msgid "Marketing"
+msgstr "Commercialisation"
+
+msgid "Mechanical"
+msgstr "Mécanique"
+
+msgid "Oil/Gas"
+msgstr "Gaz de pétrole"
+
+msgid "Overseas Jobs"
+msgstr "Emplois à l'étranger"
+
+msgid "Pharmaceutical"
+msgstr "Pharmaceutique"
+
+msgid "QA/QC"
+msgstr ""
+
+msgid "Real Estate"
+msgstr "Immobilier"
+
+msgid "Sales"
+msgstr "Ventes"
+
+msgid "Securities"
+msgstr "Titres"
+
+msgid "Telecommunication"
+msgstr "Télécommunication"
+
+msgid "TV/Media/Newspaper"
+msgstr "TV/Médias/Journal"
+
+msgid "Warehouse"
+msgstr "Entrepôt"
+
+msgid "Staff"
+msgstr "Personnel"
+
+msgid "Marine"
+msgstr "Marin"
+
+msgid "Logistics"
+msgstr "Logistique"
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "Emploi appliqué"
+
+msgid "Applied list"
+msgstr "Liste appliquée"
+
+msgid "Applied date"
+msgstr "Date appliquée"
+
+msgid "Applies was not available."
+msgstr "S'applique n'était pas disponible."

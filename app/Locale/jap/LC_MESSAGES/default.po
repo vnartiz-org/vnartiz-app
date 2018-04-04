@@ -1,0 +1,1086 @@
+msgid "Real estate"
+msgstr "不動産"
+
+msgid "Recruitment"
+msgstr "募集"
+
+msgid "Photo"
+msgstr "フォト"
+
+msgid "Our services"
+msgstr "サービス"
+
+msgid "About us"
+msgstr "私たちについて"
+
+msgid "WRE briefly"
+msgstr "WRE - 世界の不動産は、顧客への不動産仲介業者と簡単にアクセスするための技術のアプリケーション·ソリューション·プロバイダーであり、ビジネスをアップグレードします。また、管理業務、資産と従業員を可能にします。"
+
+msgid "Vi briefly"
+msgstr "雇用者は、求職者、募集ブローカーを獲得するための募集の分野における情報技術のアプリケーションのソリューションをViRecruitment。 このソリューションはまた、別の名前「ベトナムの募集ネットワーク」を有しています。"
+
+msgid "iphoto briefly"
+msgstr "iPhotoは思い出、人生の幸せと悲しい瞬間を格納するために家です。 あなたの思考、感情、あなたの情熱を共有してください。"
+
+msgid "Movie"
+msgstr "映画"
+
+msgid "Music"
+msgstr "音楽"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "求職者"
+
+msgid "Employer"
+msgstr "雇用者"
+
+msgid "Multimedia"
+msgstr "メディア"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "व्यक्तिगत खाता बनाएं"
+
+msgid "Create an enterprise account"
+msgstr "एक एंटरप्राइज़ खाता बनाएं"
+
+msgid "One account for all application"
+msgstr "すべてのアプリケーションに1つのアカウント"
+
+msgid "One application for all devices"
+msgstr "すべてのデバイス用に1つのアプリケーション"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "私たちは、あなたが私たちのアプリケーションを使用するための最善の方法を持っていることを約束します"
+
+msgid "All features security in all our application"
+msgstr "すべてのアプリケーションですべてのセキュリティ機能"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "あなたのアカウントを最高レベルのセキュリティステータスに委ねます"
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "未満25000円"
+
+msgid "From 250 to 500 USD"
+msgstr "25000円〜5万円"
+
+msgid "From 500 to 1000 USD"
+msgstr "5万〜10万円"
+
+msgid "From 1000 to 2000 USD"
+msgstr "20万~40万円"
+
+msgid "From 2000 to 4000 USD"
+msgstr "40万~80万円"
+
+msgid "Over 4000 USD"
+msgstr "80万円以上"
+
+msgid "Negotiable"
+msgstr "要相談"
+
+# Rate
+msgid "Less than 20"
+msgstr "20未満"
+
+msgid "From 20 to 50"
+msgstr "20~50"
+
+msgid "From 50 to 100"
+msgstr "50~100"
+
+msgid "From 100 to 200"
+msgstr "100~200"
+
+msgid "From 200 to 500"
+msgstr "200~500"
+
+msgid "From 500 to 1000"
+msgstr "500~1000"
+
+msgid "Greater than 1000"
+msgstr "1000より大きい"
+
+# Grade
+msgid "Student"
+msgstr "学生"
+
+msgid "Junior"
+msgstr "ジュニア"
+
+msgid "Senior"
+msgstr "シニア"
+
+msgid "Expert"
+msgstr "専門家"
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "まだ試していない"
+
+msgid "One year"
+msgstr "一年"
+
+msgid "Two years"
+msgstr "二年"
+
+msgid "Three year"
+msgstr "三年"
+
+msgid "Five years"
+msgstr "五年"
+
+msgid "Ten years"
+msgstr "十年"
+
+msgid "Over ten years"
+msgstr "余十年"
+
+# Level
+msgid "Begin"
+msgstr "ベギン"
+
+msgid "Medium"
+msgstr "メディア"
+
+msgid "Good"
+msgstr "グッド"
+
+msgid "Very Good"
+msgstr "とても良い"
+
+msgid "Expert"
+msgstr "専門家"
+
+# Duration
+msgid "One week"
+msgstr "一週間"
+
+msgid "Two weeks"
+msgstr "二週間"
+
+msgid "Three weeks"
+msgstr "三週間"
+
+msgid "One month"
+msgstr "一か月"
+
+msgid "Two months"
+msgstr "二か月"
+
+msgid "Three months"
+msgstr "三か月"
+
+# General
+msgid "Currency"
+msgstr "通貨"
+
+msgid "Amount"
+msgstr "金額"
+
+msgid "Expire year"
+msgstr "年期限切れ"
+
+msgid "Expire month"
+msgstr "月期限切れ"
+
+msgid "Please check your network connection!"
+msgstr "ネットワーク接続を確認してください！"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "寄付の処理が失敗した！もう一度やり直してください。"
+
+msgid "Payment servers are down! Please try again."
+msgstr "支払サーバがダウンしています！もう一度やり直してください。"
+
+msgid "Your card number is incorrect."
+msgstr "あなたのカード番号が正しくありません。"
+
+msgid "The card was declined."
+msgstr "カードが拒否されました。"
+
+msgid "Your card's expiration year is invalid."
+msgstr "あなたのカードの有効期限の年は無効です。"
+
+msgid "Your card's expiration month is invalid."
+msgstr "あなたのカードの有効期限の月が無効です"
+
+msgid "Preview Account"
+msgstr "プレビューアカウント"
+
+msgid "Preview account"
+msgstr "プレビューアカウント"
+
+msgid "You signed in success. Please check your email."
+msgstr "Bạn đã đăng ký thành công. Vui lòng kiểm tra thư."
+
+msgid "You signed in fail! Please try again."
+msgstr "Bạn đã đăng ký không thành công. Vui lòng thử lại."
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "Bạn đã đăng ký và tạo lý lịch thành công. Vui lòng kiểm tra thư."
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "Bạn đã đăng ký và tạo lý lịch không thành công. Vui lòng thử lại."
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "Bạn đã đăng ký và tạo hồ sơ thành công. Vui lòng kiểm tra thư."
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "Bạn đã đăng ký và tạo hồ sơ không thành công. Vui lòng thử lại."
+
+msgid "View all"
+msgstr "表示すべて"
+
+msgid "Consultant"
+msgstr "コンサルタント"
+
+msgid "Consultant List"
+msgstr "コンサルタント一覧"
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "あなたは、開始後に期間またはカードを変更したり、寄付することはできません。"
+
+msgid "Post to offer"
+msgstr "オファーに投稿"
+
+msgid "Create now"
+msgstr "今作成"
+
+msgid "Yes"
+msgstr "はい"
+
+msgid "No"
+msgstr "ノー"
+
+msgid "リクルート"
+msgstr ""
+
+msgid "Recruit now"
+msgstr "今リクルート"
+
+msgid "Recruit Master"
+msgstr "リクルートマスター"
+
+msgid "Add Recruit"
+msgstr "リクルートを追加"
+
+msgid "Edit Recruit"
+msgstr "編集リクルート"
+
+msgid "Recruit list"
+msgstr "リクルートリスト"
+
+msgid "Recruiter was not available."
+msgstr "採用担当者は利用できませんでした。"
+
+msgid "Applicant"
+msgstr "申請者"
+
+msgid "Applicant list"
+msgstr "応募者リスト"
+
+msgid "Apply letter"
+msgstr "手紙を適用します"
+
+msgid "Apply date time"
+msgstr "日付時刻を適用します"
+
+msgid "Match"
+msgstr "マッチ"
+
+msgid "Not set"
+msgstr "設定されない"
+
+msgid "Not match"
+msgstr "一致しない"
+
+msgid "Matched"
+msgstr "マッチド"
+
+msgid "Confirm"
+msgstr "確認する"
+
+msgid "あなたのアカウント、連絡先情報と会社情報を管理します。"
+msgstr ""
+
+msgid "Account has edited success."
+msgstr "アカウントが成功を編集しています。"
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "プロフィール作成者は、コンポーネントを使用すると、従業員やパートナーへのあなたの会社についての最もよい導入を行うことが可能である。また、企業のリストにあなたの会社を表示されます。"
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "最初の従業員やパートナーによるスポンサーリストとビュー上のあなたの会社の提示を促進するために寄付しています。"
+
+msgid "Candidate"
+msgstr "候補者"
+
+msgid "Candidate List"
+msgstr "候補リスト"
+
+msgid "Preview Candidate"
+msgstr "プレビュー候補"
+
+msgid "Candidate was not available."
+msgstr "候補者は使用できませんでした。"
+
+msgid "Square logo"
+msgstr "スクエアロゴ"
+
+msgid "Rectangle logo"
+msgstr "長方形のロゴ"
+
+msgid "Allowance No."
+msgstr "手当号"
+
+msgid "of this candidate."
+msgstr "この候補者の。"
+
+msgid "Gender"
+msgstr "性別"
+
+msgid "Male"
+msgstr "マレ"
+
+msgid "Female"
+msgstr "女性"
+
+msgid "Birthday"
+msgstr "誕生日"
+
+msgid "Please"
+msgstr "お願いします"
+
+msgid "to"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Application"
+msgstr "へ"
+
+msgid "Letter"
+msgstr "手紙"
+
+msgid "Application has sent success."
+msgstr ""
+
+msgid "You applied this job already."
+msgstr "アプリケーションが成功を送信しました。"
+
+msgid "Logo"
+msgstr "ロゴ"
+
+msgid "Top Companies"
+msgstr "トップ企業"
+
+msgid "Latest join"
+msgstr "最新の参加"
+
+msgid "Joined on"
+msgstr "参加"
+
+msgid "Preview Company"
+msgstr "プレビュー会社"
+
+msgid "Job was not available."
+msgstr "ジョブが使用できませんでした。"
+
+msgid "First"
+msgstr "最初"
+
+msgid "Last"
+msgstr "ラスト"
+
+msgid "Job list"
+msgstr "ジョブ一覧"
+
+msgid "Share"
+msgstr "シェア"
+
+msgid "Like"
+msgstr "のような"
+
+msgid "this job."
+msgstr "この仕事。"
+
+msgid "Apply now"
+msgstr "今すぐお申し込み"
+
+msgid "Add"
+msgstr "加える"
+
+msgid "Edit"
+msgstr "編集"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Add skill"
+msgstr "スキルを追加"
+
+msgid "Add group"
+msgstr "グループを追加"
+
+msgid "Remove"
+msgstr "削除する"
+
+msgid "Remove skill"
+msgstr "スキルを削除"
+
+msgid "Remove group"
+msgstr "グループを削除"
+
+msgid "Back"
+msgstr "バック"
+
+msgid "Make it now"
+msgstr ""
+
+msgid "Create it now"
+msgstr "今それを作る"
+
+msgid "Promotion now"
+msgstr "振興今"
+
+msgid "Search Job"
+msgstr "検索フェラ"
+
+msgid "Preview Job"
+msgstr "プレビュー求人"
+
+msgid "Job"
+msgstr "ヨブ"
+
+msgid "Result"
+msgstr "結果"
+
+msgid "Rate"
+msgstr "レート"
+
+msgid "Mission"
+msgstr "ミッション"
+
+msgid "Introduction"
+msgstr "はじめに"
+
+msgid "Quantity"
+msgstr "数量"
+
+msgid "Input your quantity"
+msgstr "入力あなたの量"
+
+msgid "Grade"
+msgstr "グレード"
+
+msgid "Salary"
+msgstr "給与"
+
+msgid "Requirement"
+msgstr "要件"
+
+msgid "Input your requirement"
+msgstr "入力あなたの条件"
+
+msgid "Please select"
+msgstr "選択してください"
+
+msgid "Sign in now"
+msgstr "今でサインイン"
+
+msgid "Edit now"
+msgstr "今の編集"
+
+msgid "If you have account already please login first."
+msgstr "アカウントをお持ちの場合はすでに最初のログインしてください。"
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "履歴書メーカーは、コンポーネントが、あなたの履歴書を作る許可です。また、あなたが任意のプリンタで印刷し、ExcelまたはCSVファイルにフォーマットすることができます。"
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "プロフィールCreatorは、コンポーネントが、あなたのスキルで最高の導入を行うことが可能である。また、あなたが任意のプリンタで印刷し、ExcelまたはCSVファイルにフォーマットすることができます。"
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "振興センターは、コンポーネントを使用すると、雇用者とリクルーターにあなたの自己で最高の紹介を行うことが可能である。また、あなたがスポンサーリスト上にあり、あなたの知識、技能及び実験現れ現れる。"
+
+msgid "Resume"
+msgstr "履歴書"
+
+msgid "Resume list"
+msgstr "履歴書リスト"
+
+msgid "Add Resume"
+msgstr "再開を追加"
+
+msgid "Edit Resume"
+msgstr "編集再開"
+
+msgid "Resume was not available."
+msgstr "履歴書には使用できませんでした。"
+
+msgid "Profile"
+msgstr "プロフィール"
+
+msgid "Profile list"
+msgstr "プロファイルリスト"
+
+msgid "Add Profile"
+msgstr "プロファイルを追加"
+
+msgid "Edit Profile"
+msgstr "プロファイル編集"
+
+msgid "Profile was not available."
+msgstr "プロファイルは使用できませんでした。"
+
+msgid "Promotion was not available."
+msgstr "プロモーションは使用できませんでした。"
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "履歴書には使用できませんでした。促進するための1以上作成してください。"
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "プロファイルは使用できませんでした。促進するための1以上作成してください。"
+
+msgid "Promotion list"
+msgstr "プロモーションリスト"
+
+
+msgid "Add Promotion"
+msgstr "プロモーションを追加"
+
+msgid "Edit Promotion"
+msgstr "編集プロモーション"
+
+msgid "Input your skill group name"
+msgstr "入力あなたのスキルグループ名"
+
+msgid "Level"
+msgstr "レベル"
+
+msgid "Skill"
+msgstr "スキル"
+
+msgid "Skill name"
+msgstr "スキル名"
+
+msgid "Duration"
+msgstr "デュレーション"
+
+msgid "Card"
+msgstr "カード"
+
+msgid "Card type"
+msgstr "カードタイプ"
+
+msgid "Other card"
+msgstr "その他のカード"
+
+msgid "Input your other card name"
+msgstr "入力あなたの他のカード"
+
+msgid "Card No."
+msgstr "カード番号"
+
+msgid "Input your card number"
+msgstr "入力あなたのカード番号"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Input your title"
+msgstr "入力あなたのタイトル"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "Input your description"
+msgstr "入力あなたの説明"
+
+msgid "Input your mission"
+msgstr "入力あなたの使命"
+
+msgid "Input your introduction"
+msgstr "入力ご紹介"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Experiment"
+msgstr "実験"
+
+msgid "School"
+msgstr "学校"
+
+msgid "Input your school name"
+msgstr "入力あなたの学校名"
+
+msgid "Start"
+msgstr "スタート"
+
+msgid "End"
+msgstr "終わり"
+
+msgid "Major"
+msgstr "メジャー"
+
+msgid "Company"
+msgstr "社"
+
+msgid "Input your company name"
+msgstr "入力あなたの会社名"
+
+msgid "Identify No."
+msgstr "いいえを特定"
+
+msgid "Input your identify number"
+msgstr "入力あなたは、番号を識別"
+
+msgid "Tax code"
+msgstr "税法"
+
+msgid "Input your tax code"
+msgstr "入力あなたの税法"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Input your name"
+msgstr "入力あなたの名前"
+
+msgid "Username"
+msgstr "ユーザー名"
+
+msgid "Input your username"
+msgstr "あなたのユーザ名を入力してください"
+
+msgid "Password"
+msgstr "パスワード"
+
+msgid "Input your password"
+msgstr "入力パスワード"
+
+msgid "First name"
+msgstr "ファーストネーム"
+
+msgid "Input your first name"
+msgstr "入力し、あなたの最初の名前"
+
+msgid "Last name"
+msgstr "苗字"
+
+msgid "Input your last name"
+msgstr "入力あなたの名字"
+
+msgid "Email"
+msgstr "メール"
+
+msgid "account@domain"
+msgstr "アカウント@ドメイン"
+
+msgid "Phone"
+msgstr "電話"
+
+msgid "Input your phone number"
+msgstr "入力お使いの携帯電話"
+
+msgid "Address"
+msgstr "アドレス"
+
+msgid "Input your address"
+msgstr "入力あなたのアドレス"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Input your title"
+msgstr "入力あなたのタイトル"
+
+msgid "Content"
+msgstr "コンテンツ"
+
+msgid "Input your content"
+msgstr "入力あなたのコンテンツ"
+
+msgid "Position"
+msgstr "ポジション"
+
+msgid "Input your position"
+msgstr "入力あなたの位置"
+
+msgid "Major/Field"
+msgstr "メジャー/フィールド"
+
+msgid "Country"
+msgstr "カントリー"
+
+msgid "Location"
+msgstr "場所"
+
+msgid "Expire date"
+msgstr "有効期限"
+
+msgid "Expire on"
+msgstr "日に失効"
+
+msgid "Action"
+msgstr "アクション"
+
+msgid "View detail"
+msgstr "詳細を表示"
+
+# Template
+msgid "EMPLOYER"
+msgstr "雇用主"
+
+msgid "EMPLOYEE"
+msgstr "従業員"
+
+msgid "Search Jobs"
+msgstr "求人案件を検索する"
+
+msgid "No result find out."
+msgstr ""
+
+msgid "Companies List"
+msgstr "企業一覧"
+
+msgid "Keyword"
+msgstr "キーワード"
+
+msgid "All majors"
+msgstr "すべてのメジャー"
+
+msgid "All countries"
+msgstr "すべての国"
+
+msgid "All locations"
+msgstr "すべての場所"
+
+msgid "Search now"
+msgstr "今検索"
+
+msgid "Login"
+msgstr "ログイン"
+
+msgid "You were login success."
+msgstr "あなたは成功を、ログインされた。"
+
+msgid "This account was not available!"
+msgstr "このアカウントは使用できませんでした！"
+
+msgid "Login now"
+msgstr "今ログイン"
+
+msgid "Create an account"
+msgstr "アカウントを作成する"
+
+msgid "Forgot password"
+msgstr "パスワードをお忘れですか"
+
+msgid "Account"
+msgstr "アカウント"
+
+msgid "Hello"
+msgstr "こんにちは"
+
+msgid "Logout"
+msgstr "ログアウト"
+
+msgid "Edit account"
+msgstr "編集アカウント"
+
+msgid "Edit Account"
+msgstr "編集アカウント"
+
+msgid "Manage your Account information and Contact information."
+msgstr "あなたのアカウント情報と連絡先情報を管理します。"
+
+msgid "Sponsor"
+msgstr "スポンサー"
+
+msgid "Subscribe"
+msgstr "サブスクライブ"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "最新の情報と新着ジョブが警告を得るを購読する。"
+
+msgid "Subscribe success."
+msgstr "成功を購読します。"
+
+msgid "Subscribe fail."
+msgstr "失敗購読します。"
+
+msgid "Subscribe now"
+msgstr "今すぐ登録"
+
+msgid "Contact us"
+msgstr "お問い合わせ"
+
+msgid "Contact us now to get more information."
+msgstr "より多くの情報を得るために、今すぐお問い合せください。"
+
+msgid "Contact now"
+msgstr "企業との接触"
+
+msgid "Registry to get more features"
+msgstr "レジストリは、より多くの機能を取得する"
+
+msgid "Contact us success."
+msgstr "私たちの成功にお問い合わせください。"
+
+msgid "Contact us fail!"
+msgstr "私たちは失敗問い合わせ！"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "私たちに関しては"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "FAQ"
+msgstr "よくある質問"
+
+msgid "Component"
+msgstr "コンポーネント"
+
+msgid "Resume Maker"
+msgstr "再開メーカー"
+
+msgid "Profile Creator"
+msgstr "プロフィールクリエーター"
+
+msgid "Promotion Center"
+msgstr "振興センター"
+
+msgid "Follow us"
+msgstr "ォローする"
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr "好む"
+
+msgid "or"
+msgstr "または"
+
+msgid "All right reserved."
+msgstr "すべての権利を保有。"
+
+msgid "Powered by"
+msgstr "搭載"
+
+# Top
+msgid "Top Job"
+msgstr "トップフェラ"
+
+msgid "Jobs Ofference"
+msgstr "仕事提案" 
+
+msgid "Latest post"
+msgstr "最新の投稿"
+
+msgid "Posted on"
+msgstr "ポストする"
+
+msgid "We proud to"
+msgstr "我々誇りに"
+
+msgid "More than 10 years of IT services"
+msgstr "10年以上のITサービス"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "我々は深くあなたの使命、あなたのビジョンを理解。私たちは、最新の技術を所有していた<BR/>ます。<br/>私たちは、熱意、情熱と信頼性を持っています。"
+
+msgid "Provide the best solution"
+msgstr "最適なソリューションを提供します"
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr "ViReruitmentは最良の1つを次のレベルにあなたのビジネスを作るために私たちのソリューションです。私たちは、人生をより簡単に、より幸福にします。"
+
+msgid "We offer to"
+msgstr "我々はに提供しています"
+
+msgid "Find candidate matched to your jobs"
+msgstr "候補者が自分のジョブにマッチして下さい"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "私たちはあなたの仕事は最高の候補者によって参加することを約束します。高速<BR/>と正確に適用される候補リストを取得します。"
+
+msgid "Make yours highlight"
+msgstr "あなたがハイライト表示にします"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "ジョブリストの一番上に常にあなたの仕事を。緊急の仕事より簡単にしてください。"
+
+# Sign in
+msgid "Sign in"
+msgstr "ログイン"
+
+msgid "Sign in to used full our feature and component."
+msgstr "完全な私達の機能およびコンポーネントを使用するにはログインしてください。"
+
+msgid "Contact"
+msgstr "コンタクト"
+
+msgid "Avatar"
+msgstr "アバター"
+
+msgid "Why choose our service?"
+msgstr "なぜ私たちのサービスを選ぶのか？"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 class="m0">私たちは、ITサービスを構築します。</h4>10以上の実験の年で。<br/>ビジネス·ソリューションについての知識と理解を持ちます。<br/><h4 class="m0">私たちは、ITソリューションの最高を提供しています。</h4>実験では、情熱と責任の豊富で、チームのデザイナーと開発者の仕事と。"
+
+msgid "Contact us to get more information"
+msgstr "より多くの情報を得るために私達に連絡"
+
+# Major
+msgid "Accounting"
+msgstr "会計"
+
+msgid "Administrative"
+msgstr "行政の"
+
+msgid "Advertising"
+msgstr "広告"
+
+msgid "Agriculture"
+msgstr "農業"
+
+msgid "Airline"
+msgstr "航空会社"
+
+msgid "Architecture"
+msgstr "建築"
+
+msgid "Art Design"
+msgstr "アートデザイン"
+
+msgid "Banking"
+msgstr "バンキング"
+
+msgid "Chemical"
+msgstr "化学物質"
+
+msgid "Construction"
+msgstr "建設"
+
+msgid "Consulting"
+msgstr "コンサルティング"
+
+msgid "Education"
+msgstr "教育"
+
+msgid "Electrical/Electronic"
+msgstr "電気/電子"
+
+msgid "Environment"
+msgstr "環境"
+
+msgid "Export/Import"
+msgstr "輸出入"
+
+msgid "Fashion"
+msgstr "ファッション"
+
+msgid "Finance"
+msgstr "ファイナンス"
+
+msgid "Food"
+msgstr "フード"
+
+msgid "Health Care"
+msgstr "健康管理"
+
+msgid "Human Resource"
+msgstr "人材"
+
+msgid "Insurance"
+msgstr "保険"
+
+msgid "Internet Media"
+msgstr "インターネットメディア"
+
+msgid "IT - Hardware/Networking"
+msgstr "IT - ハードウェア/ネットワーク"
+
+msgid "IT - Software"
+msgstr "IT - ソフトウェア"
+
+msgid "Interpreter/Translator"
+msgstr "通訳/翻訳"
+
+msgid "Marketing"
+msgstr "マーケティング"
+
+msgid "Mechanical"
+msgstr "メカニカル"
+
+msgid "Oil/Gas"
+msgstr "石油/ガス"
+
+msgid "Overseas Jobs"
+msgstr "海外ジョブズ"
+
+msgid "Pharmaceutical"
+msgstr "薬剤"
+
+msgid "QA/QC"
+msgstr "品質管理"
+
+msgid "Real Estate"
+msgstr "不動産"
+
+msgid "Sales"
+msgstr "セールス"
+
+msgid "Securities"
+msgstr "有価証券"
+
+msgid "Telecommunication"
+msgstr "テレコミュニケーション"
+
+msgid "TV/Media/Newspaper"
+msgstr "TV /メディア/新聞"
+
+msgid "Warehouse"
+msgstr "倉庫"
+
+msgid "Staff"
+msgstr "スタッフ"
+
+msgid "Marine"
+msgstr "マリン"
+
+msgid "Logistics"
+msgstr "ロジスティクス"
+
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "応用ジョブ"
+
+msgid "Applied list"
+msgstr "適用リスト"
+
+msgid "Applied date"
+msgstr "適用日"
+
+msgid "Applies was not available."
+msgstr "適用は利用できませんでした。"

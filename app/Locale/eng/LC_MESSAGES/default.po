@@ -1,0 +1,1085 @@
+﻿msgid "Real estate"
+msgstr ""
+
+msgid "Recruitment"
+msgstr ""
+
+msgid "Photo"
+msgstr ""
+
+msgid "Our services"
+msgstr ""
+
+msgid "About us"
+msgstr ""
+
+msgid "WRE briefly"
+msgstr "WRE - World real estate is a technology application solutions provider for the real estate broker and easy access to customers and upgrade business. It also allows management business, assets and employees..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment a solution of information technology applications in the field of recruitment for employers win, job seekers, recruitment broker. This solution also has another name "Recruitment Network of Vietnamese"."
+
+msgid "iphoto briefly"
+msgstr "Color4Life is home to store memories, happy and sad moments of life. Please share your thoughts, feelings and your passion ..."
+
+msgid "Movie"
+msgstr ""
+
+msgid "Music"
+msgstr ""
+
+# Menu
+
+msgid "Job seeker"
+msgstr ""
+
+msgid "Employer"
+msgstr ""
+
+msgid "Multimedia"
+msgstr ""
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr ""
+
+msgid "Create an enterprise account"
+msgstr ""
+
+msgid "One account for all application"
+msgstr ""
+
+msgid "One application for all devices"
+msgstr ""
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr ""
+
+msgid "All features security in all our application"
+msgstr ""
+
+msgid "We commit your account always place in highest level of security status"
+msgstr ""
+
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr ""
+
+msgid "From 250 to 500 USD"
+msgstr ""
+
+msgid "From 500 to 1000 USD"
+msgstr ""
+
+msgid "From 1000 to 2000 USD"
+msgstr ""
+
+msgid "From 2000 to 4000 USD"
+msgstr ""
+
+msgid "Over 4000 USD"
+msgstr ""
+
+msgid "Negotiable"
+msgstr ""
+
+# Rate
+msgid "Less than 20"
+msgstr ""
+
+msgid "From 20 to 50"
+msgstr ""
+
+msgid "From 50 to 100"
+msgstr ""
+
+msgid "From 100 to 200"
+msgstr ""
+
+msgid "From 200 to 500"
+msgstr ""
+
+msgid "From 500 to 1000"
+msgstr ""
+
+msgid "Greater than 1000"
+msgstr ""
+
+# Grade
+msgid "Student"
+msgstr ""
+
+msgid "Junior"
+msgstr ""
+
+msgid "Senior"
+msgstr ""
+
+msgid "Expert"
+msgstr ""
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr ""
+
+msgid "One year"
+msgstr ""
+
+msgid "Two years"
+msgstr ""
+
+msgid "Three years"
+msgstr ""
+
+msgid "Five years"
+msgstr ""
+
+msgid "Ten years"
+msgstr ""
+
+msgid "Over ten years"
+msgstr ""
+
+# Level
+msgid "Begin"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Good"
+msgstr ""
+
+msgid "Very Good"
+msgstr ""
+
+msgid "Expert"
+msgstr ""
+
+# Duration
+msgid "One week"
+msgstr ""
+
+msgid "Two weeks"
+msgstr ""
+
+msgid "Three weeks"
+msgstr ""
+
+msgid "One month"
+msgstr ""
+
+msgid "Two months"
+msgstr ""
+
+msgid "Three months"
+msgstr ""
+
+# General
+msgid "Currency"
+msgstr ""
+
+msgid "Amount"
+msgstr ""
+
+msgid "Expire year"
+msgstr ""
+
+msgid "Expire month"
+msgstr ""
+
+msgid "Please check your network connection!"
+msgstr ""
+
+msgid "Donation processing has been failed! Please try again."
+msgstr ""
+
+msgid "Payment servers are down! Please try again."
+msgstr ""
+
+msgid "Your card number is incorrect."
+msgstr ""
+
+msgid "The card was declined."
+msgstr ""
+
+msgid "Your card's expiration year is invalid."
+msgstr ""
+
+msgid "Your card's expiration month is invalid."
+msgstr ""
+
+msgid "Preview Account"
+msgstr ""
+
+msgid "Preview account"
+msgstr ""
+
+msgid "You signed in success. Please check your email."
+msgstr ""
+
+msgid "You signed in fail! Please try again."
+msgstr ""
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr ""
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr ""
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr ""
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr ""
+
+msgid "View all"
+msgstr ""
+
+msgid "Consultant"
+msgstr ""
+
+msgid "Consultant List"
+msgstr ""
+
+msgid "You can not modify duration or card after start or donate."
+msgstr ""
+
+msgid "Post to offer"
+msgstr ""
+
+msgid "Create now"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "No"
+msgstr ""
+
+msgid "Recruit"
+msgstr ""
+
+msgid "Recruit now"
+msgstr ""
+
+msgid "Recruit Master"
+msgstr ""
+
+msgid "Add Recruit"
+msgstr ""
+
+msgid "Edit Recruit"
+msgstr ""
+
+msgid "Recruit list"
+msgstr ""
+
+msgid "Recruiter was not available."
+msgstr ""
+
+msgid "Applicant"
+msgstr ""
+
+msgid "Applicant list"
+msgstr ""
+
+msgid "Apply letter"
+msgstr ""
+
+msgid "Apply date time"
+msgstr ""
+
+msgid "Match"
+msgstr ""
+
+msgid "Not set"
+msgstr ""
+
+msgid "Not match"
+msgstr ""
+
+msgid "Matched"
+msgstr ""
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr ""
+
+msgid "Account has edited success."
+msgstr ""
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr ""
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr ""
+
+msgid "Candidate"
+msgstr ""
+
+msgid "Candidate List"
+msgstr ""
+
+msgid "Preview Candidate"
+msgstr ""
+
+msgid "Candidate was not available."
+msgstr ""
+
+msgid "Square logo"
+msgstr ""
+
+msgid "Rectangle logo"
+msgstr ""
+
+msgid "Allowance No."
+msgstr ""
+
+msgid "of this candidate."
+msgstr ""
+
+msgid "Gender"
+msgstr ""
+
+msgid "Male"
+msgstr ""
+
+msgid "Female"
+msgstr ""
+
+msgid "Birthday"
+msgstr ""
+
+msgid "Please"
+msgstr ""
+
+msgid "to"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Application"
+msgstr ""
+
+msgid "Letter"
+msgstr ""
+
+msgid "Application has sent success."
+msgstr ""
+
+msgid "You applied this job already."
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Top Companies"
+msgstr ""
+
+msgid "Latest join"
+msgstr ""
+
+msgid "Joined on"
+msgstr ""
+
+msgid "Preview Company"
+msgstr ""
+
+msgid "Job was not available."
+msgstr ""
+
+msgid "First"
+msgstr ""
+
+msgid "Last"
+msgstr ""
+
+msgid "Job list"
+msgstr ""
+
+msgid "Share"
+msgstr ""
+
+msgid "Like"
+msgstr ""
+
+msgid "this job."
+msgstr ""
+
+msgid "Apply now"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Add skill"
+msgstr ""
+
+msgid "Add group"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Remove skill"
+msgstr ""
+
+msgid "Remove group"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Make it now"
+msgstr ""
+
+msgid "Create it now"
+msgstr ""
+
+msgid "Promotion now"
+msgstr ""
+
+msgid "Search Job"
+msgstr ""
+
+msgid "No result find out."
+msgstr ""
+
+msgid "Preview Job"
+msgstr ""
+
+msgid "Job"
+msgstr ""
+
+msgid "Result"
+msgstr ""
+
+msgid "Rate"
+msgstr ""
+
+msgid "Mission"
+msgstr ""
+
+msgid "Introduction"
+msgstr ""
+
+msgid "Quantity"
+msgstr ""
+
+msgid "Input your quantity"
+msgstr ""
+
+msgid "Grade"
+msgstr ""
+
+msgid "Salary"
+msgstr ""
+
+msgid "Requirement"
+msgstr ""
+
+msgid "Input your requirement"
+msgstr ""
+
+msgid "Please select"
+msgstr ""
+
+msgid "Sign in now"
+msgstr ""
+
+msgid "Edit now"
+msgstr ""
+
+msgid "If you have account already please login first."
+msgstr ""
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr ""
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr ""
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr ""
+
+msgid "Resume"
+msgstr ""
+
+msgid "Resume list"
+msgstr ""
+
+msgid "Add Resume"
+msgstr ""
+
+msgid "Edit Resume"
+msgstr ""
+
+msgid "Resume was not available."
+msgstr ""
+
+msgid "Profile"
+msgstr ""
+
+msgid "Profile list"
+msgstr ""
+
+msgid "Add Profile"
+msgstr ""
+
+msgid "Edit Profile"
+msgstr ""
+
+msgid "Profile was not available."
+msgstr ""
+
+msgid "Promotion was not available."
+msgstr ""
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr ""
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr ""
+
+msgid "Promotion list"
+msgstr ""
+
+msgid "Add Promotion"
+msgstr ""
+
+msgid "Edit Promotion"
+msgstr ""
+
+msgid "Input your skill group name"
+msgstr ""
+
+msgid "Level"
+msgstr ""
+
+msgid "Skill"
+msgstr ""
+
+msgid "Skill name"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Card"
+msgstr ""
+
+msgid "Card type"
+msgstr ""
+
+msgid "Other card"
+msgstr ""
+
+msgid "Input your other card name"
+msgstr ""
+
+msgid "Card No."
+msgstr ""
+
+msgid "Input your card number"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Input your title"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Input your description"
+msgstr ""
+
+msgid "Input your mission"
+msgstr ""
+
+msgid "Input your introduction"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Experiment"
+msgstr ""
+
+msgid "School"
+msgstr ""
+
+msgid "Input your school name"
+msgstr ""
+
+msgid "Start"
+msgstr ""
+
+msgid "End"
+msgstr ""
+
+msgid "Major"
+msgstr ""
+
+msgid "Company"
+msgstr ""
+
+msgid "Input your company name"
+msgstr ""
+
+msgid "Identify No."
+msgstr ""
+
+msgid "Input your identify number"
+msgstr ""
+
+msgid "Tax code"
+msgstr ""
+
+msgid "Input your tax code"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Input your name"
+msgstr ""
+
+msgid "Username"
+msgstr ""
+
+msgid "Input your username"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Input your password"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "Input your first name"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Input your last name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "account@domain"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Input your phone"
+msgstr ""
+
+msgid "Address"
+msgstr ""
+
+msgid "Input your address"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Input your title"
+msgstr ""
+
+msgid "Content"
+msgstr ""
+
+msgid "Input your content"
+msgstr ""
+
+msgid "Position"
+msgstr ""
+
+msgid "Input your position"
+msgstr ""
+
+msgid "Major/Field"
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Location"
+msgstr ""
+
+msgid "Expire date"
+msgstr ""
+
+msgid "Expire on"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "View detail"
+msgstr ""
+
+# Template
+msgid "EMPLOYER"
+msgstr ""
+
+msgid "EMPLOYEE"
+msgstr ""
+
+msgid "Search Jobs"
+msgstr ""
+
+msgid "Companies List"
+msgstr ""
+
+msgid "Keyword"
+msgstr ""
+
+msgid "All majors"
+msgstr ""
+
+msgid "All countries"
+msgstr ""
+
+msgid "All locations"
+msgstr ""
+
+msgid "Search now"
+msgstr ""
+
+msgid "Login"
+msgstr ""
+
+msgid "You were login success."
+msgstr ""
+
+msgid "This account was not available!"
+msgstr ""
+
+msgid "Login now"
+msgstr ""
+
+msgid "Create an account"
+msgstr ""
+
+msgid "Forgot password"
+msgstr ""
+
+msgid "Account"
+msgstr ""
+
+msgid "Hello"
+msgstr ""
+
+msgid "Logout"
+msgstr ""
+
+msgid "Edit account"
+msgstr ""
+
+msgid "Edit Account"
+msgstr ""
+
+msgid "Manage your Account information and Contact information."
+msgstr ""
+
+msgid "Sponsor"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr ""
+
+msgid "Subscribe success."
+msgstr ""
+
+msgid "Subscribe fail."
+msgstr ""
+
+msgid "Subscribe now"
+msgstr ""
+
+msgid "Contact us"
+msgstr ""
+
+msgid "Contact us now to get more information."
+msgstr ""
+
+msgid "Contact now"
+msgstr ""
+
+msgid "Registry to get more features"
+msgstr ""
+
+msgid "Contact us success."
+msgstr ""
+
+msgid "Contact us fail!"
+msgstr ""
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr ""
+
+msgid "Support"
+msgstr ""
+
+msgid "FAQ"
+msgstr ""
+
+msgid "Component"
+msgstr ""
+
+msgid "Resume Maker"
+msgstr ""
+
+msgid "Profile Creator"
+msgstr ""
+
+msgid "Promotion Center"
+msgstr ""
+
+msgid "Follow us"
+msgstr ""
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr ""
+
+msgid "or"
+msgstr ""
+
+msgid "All right reserved."
+msgstr ""
+
+msgid "Powered by"
+msgstr ""
+
+# Top
+msgid "Top Job"
+msgstr ""
+
+msgid "Jobs Ofference"
+msgstr "" 
+
+msgid "Latest post"
+msgstr ""
+
+msgid "Posted on"
+msgstr ""
+
+msgid "We proud to"
+msgstr ""
+
+msgid "More than 10 years of IT services"
+msgstr ""
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr ""
+
+msgid "Provide the best solution"
+msgstr ""
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr ""
+
+msgid "We offer to"
+msgstr ""
+
+msgid "Find candidate matched to your jobs"
+msgstr ""
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr ""
+
+msgid "Make yours highlight"
+msgstr ""
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr ""
+
+# Sign in
+msgid "Sign in"
+msgstr ""
+
+msgid "Sign in to used full our feature and component."
+msgstr ""
+
+msgid "Contact"
+msgstr ""
+
+msgid "Avatar"
+msgstr ""
+
+msgid "Why choose our service?"
+msgstr ""
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr ""
+
+msgid "Contact us to get more information"
+msgstr ""
+
+# Major
+msgid "Accounting"
+msgstr ""
+
+msgid "Administrative"
+msgstr ""
+
+msgid "Advertising"
+msgstr ""
+
+msgid "Agriculture"
+msgstr ""
+
+msgid "Airline"
+msgstr ""
+
+msgid "Architecture"
+msgstr ""
+
+msgid "Art Design"
+msgstr ""
+
+msgid "Banking"
+msgstr ""
+
+msgid "Chemical"
+msgstr ""
+
+msgid "Construction"
+msgstr ""
+
+msgid "Consulting"
+msgstr ""
+
+msgid "Education"
+msgstr ""
+
+msgid "Electrical/Electronic"
+msgstr ""
+
+msgid "Environment"
+msgstr ""
+
+msgid "Export/Import"
+msgstr ""
+
+msgid "Fashion"
+msgstr ""
+
+msgid "Finance"
+msgstr ""
+
+msgid "Food"
+msgstr ""
+
+msgid "Health Care"
+msgstr ""
+
+msgid "Human Resource"
+msgstr ""
+
+msgid "Insurance"
+msgstr ""
+
+msgid "Internet Media"
+msgstr ""
+
+msgid "IT - Hardware/Networking"
+msgstr ""
+
+msgid "IT - Software"
+msgstr ""
+
+msgid "Interpreter/Translator"
+msgstr ""
+
+msgid "Marketing"
+msgstr ""
+
+msgid "Mechanical"
+msgstr ""
+
+msgid "Oil/Gas"
+msgstr ""
+
+msgid "Overseas Jobs"
+msgstr ""
+
+msgid "Pharmaceutical"
+msgstr ""
+
+msgid "QA/QC"
+msgstr ""
+
+msgid "Real Estate"
+msgstr ""
+
+msgid "Sales"
+msgstr ""
+
+msgid "Securities"
+msgstr ""
+
+msgid "Telecommunication"
+msgstr ""
+
+msgid "TV/Media/Newspaper"
+msgstr ""
+
+msgid "Warehouse"
+msgstr ""
+
+msgid "Staff"
+msgstr ""
+
+msgid "Marine"
+msgstr ""
+
+msgid "Logistics"
+msgstr ""
+
+# Mypage
+
+msgid "Applied Job"
+msgstr ""
+
+msgid "Applied list"
+msgstr ""
+
+msgid "Applied date"
+msgstr ""
+
+msgid "Applies was not available."
+msgstr ""

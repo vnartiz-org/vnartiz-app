@@ -1,0 +1,1 @@
+[07-May-2016 16:49:08 Asia/Bangkok] PHP Fatal error:  Cannot access protected property Mysql::$_queriesLog in /home/nhvna4u6/public_html/recruit/app/Model/AppModel.php on line 41

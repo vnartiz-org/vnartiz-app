@@ -1,0 +1,1092 @@
+msgid "Real estate"
+msgstr "Bất động sản"
+
+msgid "Recruitment"
+msgstr "Tuyển dụng"
+
+msgid "Photo"
+msgstr "Tranh ảnh"
+
+msgid "Our services"
+msgstr "Dịch vụ"
+
+msgid "About us"
+msgstr "Giới thiệu"
+
+msgid "WRE briefly"
+msgstr "WRE - World real estate là một giải pháp ứng dụng công nghệ thông tin cho nhà cung cấp và môi giới bất động sản dễ dàng tiếp cận khách hàng và nâng cấp doanh nghiệp. Ứng dụng cũng cho phép quản lý doanh nghiệp, tài sản, nhân viên..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment là một giải pháp ứng dụng công nghệ thông tin trong lĩnh vực tuyển dụng nhân sự giành cho Nhà tuyển dụng, Người tìm việc, Người môi giới tuyển dụng. Giải pháp này còn có tên gọi khác "Mạng tuyển dụng của Người Việt"."
+
+msgid "iphoto briefly"
+msgstr "Color4Life là mái ấm để lưu trữ những kỷ niệm đẹp, khoảng khắc vui buồn của cuộc sống. Hãy chia sẻ những suy nghĩ, tâm tư và niềm đam mê của bạn..."
+
+msgid "Movie"
+msgstr "Điện ảnh"
+
+msgid "Music"
+msgstr "Âm nhạc"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "Người tìm việc"
+
+msgid "Employer"
+msgstr "Nhà tuyển dụng"
+
+msgid "Multimedia"
+msgstr "Đa phương tiện"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "Tạo tài khoản cá nhân"
+
+msgid "Create an enterprise account"
+msgstr "Tạo tài khoản doanh nghiệp"
+
+msgid "One account for all application"
+msgstr "Một tài khoản cho tất cả ứng dụng"
+
+msgid "One application for all devices"
+msgstr "Một ứng dụng cho tất cả thiết bị"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "Chúng tôi cam kết với bạn rằng chúng tôi có phương pháp tốt nhất để bạn sử dụng ứng dụng của chúng tôi"
+
+msgid "All features security in all our application"
+msgstr "Tất cả tính năng bảo mật trong tất cả ứng dụng"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "Chúng tôi cam kết tài khoản của bạn luôn đặt ở mức trạng thái bảo mật cao nhất"
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "Thấp hơn 5 triệu VND"
+
+msgid "From 250 to 500 USD"
+msgstr "Từ 5 triệu tới 10 triệu VND"
+
+msgid "From 500 to 1000 USD"
+msgstr "Từ 10 triệu tới 20 triệu VND"
+
+msgid "From 1000 to 2000 USD"
+msgstr "Từ 20 triệu tới 40 triệu VND"
+
+msgid "From 2000 to 4000 USD"
+msgstr "Từ 40 triệu tới 80 triệu VND"
+
+msgid "Over 4000 USD"
+msgstr "Trên 80 triệu VND"
+
+msgid "Negotiable"
+msgstr "Thương lượng"
+
+# Rate
+msgid "Less than 20"
+msgstr "ít hơn 20"
+
+msgid "From 20 to 50"
+msgstr "Từ 20 tới 50"
+
+msgid "From 50 to 100"
+msgstr "Từ 50 tới 100"
+
+msgid "From 100 to 200"
+msgstr "Từ 100 tới 200"
+
+msgid "From 200 to 500"
+msgstr "Từ 200 tới 500"
+
+msgid "From 500 to 1000"
+msgstr "Từ 500 tới 1000"
+
+msgid "Greater than 1000"
+msgstr "Nhiều hơn 1000"
+
+# Grade
+msgid "Student"
+msgstr "Sinh viên"
+
+msgid "Junior"
+msgstr "Chưa có kinh nghiệm"
+
+msgid "Senior"
+msgstr "Có kinh nghiệm"
+
+msgid "Expert"
+msgstr "Chuyên gia"
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "Chưa có kinh nghiệm"
+
+msgid "One year"
+msgstr "Một năm"
+
+msgid "Two years"
+msgstr "Hai năm"
+
+msgid "Three years"
+msgstr "Ba năm"
+
+msgid "Five years"
+msgstr "Năm năm"
+
+msgid "Ten years"
+msgstr "Mười năm"
+
+msgid "Over ten years"
+msgstr "Trên mười năm"
+
+# Level
+msgid "Begin"
+msgstr "Khởi đầu"
+
+msgid "Medium"
+msgstr "Khá"
+
+msgid "Good"
+msgstr "Giỏi"
+
+msgid "Very Good"
+msgstr "Cực giỏi"
+
+msgid "Expert"
+msgstr "Chuyên gia"
+
+# Duration
+msgid "One week"
+msgstr "Một tuần"
+
+msgid "Two weeks"
+msgstr "Hai tuần"
+
+msgid "Three weeks"
+msgstr "Ba tuần"
+
+msgid "One month"
+msgstr "Một tháng"
+
+msgid "Two months"
+msgstr "Hai tháng"
+
+msgid "Three months"
+msgstr "Ba tháng"
+
+# General
+msgid "Currency"
+msgstr "Tiền tệ"
+
+msgid "Amount"
+msgstr "Số lượng"
+
+msgid "Expire year"
+msgstr "Năm hết hạn"
+
+msgid "Expire month"
+msgstr "Tháng hết hạn"
+
+msgid "Please check your network connection!"
+msgstr "Vui lòng kiểm tra kết nối mạng!"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "Tiến trình xử lý xảy ra lỗi! Vui lòng thử lại."
+
+msgid "Payment servers are down! Please try again."
+msgstr "Lỗi máy chủ thanh toán! Vui lòng thử lại."
+
+msgid "Your card number is incorrect."
+msgstr "Số thẻ không hợp lệ."
+
+msgid "The card was declined."
+msgstr "Thẻ đã bị từ chối."
+
+msgid "Your card's expiration year is invalid."
+msgstr "Năm hết hạn không hợp lệ."
+
+msgid "Your card's expiration month is invalid."
+msgstr "Tháng hết hạn không hợp lệ."
+
+msgid "Preview Account"
+msgstr "Xem Tài Khoản"
+
+msgid "Preview account"
+msgstr "Xem tài khoản"
+
+msgid "You signed in success. Please check your email."
+msgstr "Đăng ký thành công. Vui lòng kiểm tra thư."
+
+msgid "You signed in fail! Please try again."
+msgstr "Đăng ký lỗi! Vui lòng thử lại."
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "Đăng ký và tạo lý lịch thành công. Vui lòng kiểm tra thư."
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "Đăng ký và tạo lý lịch lỗi! Vui lòng thử lại."
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "Đăng ký và tạo hồ sơ thành công. Vui lòng kiểm tra thư."
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "Đăng ký và tạo hồ sơ lỗi! Vui lòng thử lại."
+
+msgid "View all"
+msgstr "Xem tất cả"
+
+msgid "Consultant"
+msgstr "Tư vấn"
+
+msgid "Consultant List"
+msgstr "Danh sách tư vấn"
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "Bạn không thể chỉnh sửa thởi lượng hay thông tin thẻ sau ngày bắt đầu hay sau khi quyên góp."
+
+msgid "Post to offer"
+msgstr "Danh mục đề xuất"
+
+msgid "Create now"
+msgstr "Tạo ngay"
+
+msgid "Yes"
+msgstr "Có"
+
+msgid "No"
+msgstr "Không"
+
+msgid "Recruit"
+msgstr "Tuyển dụng"
+
+msgid "Recruit now"
+msgstr "Đăng tuyển ngay"
+
+msgid "Recruit Master"
+msgstr "Trình tuyển dụng"
+
+msgid "Add Recruit"
+msgstr "Thêm tuyển dụng"
+
+msgid "Edit Recruit"
+msgstr "Chỉnh sửa tuyển dụng"
+
+msgid "Recruit list"
+msgstr "Danh sách tuyển dụng"
+
+msgid "Recruiter was not available."
+msgstr "Tuyển dụng không tồn tại."
+
+msgid "Applican"
+msgstr "Người nộp đơn"
+
+msgid "Applican list"
+msgstr "Danh sách ứng viên"
+
+msgid "Apply letter"
+msgstr "Thư xin việc"
+
+msgid "Apply date time"
+msgstr "Ngày nộp đơn"
+
+msgid "Match"
+msgstr "Phù hợp"
+
+msgid "Not set"
+msgstr "Chưa biết"
+
+msgid "Not match"
+msgstr "Không phù hợp"
+
+msgid "Matched"
+msgstr "Phù hợp"
+
+msgid "Confirm"
+msgstr "Xác nhận"
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr "Quản lý tài khoản, thông tin liên hệ và thông tin công ty."
+
+msgid "Account has edited success."
+msgstr "Tài khoản đã chỉnh sữa thành công"
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "Trình tạo hồ sơ cho phép bạn giới thiệu công ty tới người tìm việc và các đối tác.<br/>Và công cụ cũng thể hiện công ty của bạn trên danh sách các công ty."
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "Quyên góp để quảng bá và thể hiện công ty bạn trên danh sách nhà tài trợ và được xem đầu tiên bởi các u71ngvie6n và đối tác."
+
+msgid "Candidate"
+msgstr "ứng viên"
+
+msgid "Candidate List"
+msgstr "Danh sách ứng viên"
+
+msgid "Preview Candidate"
+msgstr "Xem ứng viên"
+
+msgid "Candidate was not available."
+msgstr "Ứng viên không tồn tại."
+
+msgid "Square logo"
+msgstr "Biểu tượng vuông"
+
+msgid "Rectangle logo"
+msgstr "Biểu tượng chữ nhật"
+
+msgid "Allowance No."
+msgstr "Số giấy phép"
+
+msgid "of this candidate."
+msgstr "của ứng viên này."
+
+msgid "Gender"
+msgstr "Giới tính"
+
+msgid "Male"
+msgstr "Nam"
+
+msgid "Female"
+msgstr "Nữ"
+
+msgid "Birthday"
+msgstr "Ngày sinh"
+
+msgid "Please"
+msgstr "Vui lòng"
+
+msgid "to"
+msgstr "để"
+
+msgid "Apply"
+msgstr "Nộp đơn"
+
+msgid "Application"
+msgstr "Đơn xin việc"
+
+msgid "Letter"
+msgstr "Thư ngỏ"
+
+msgid "Application has sent success."
+msgstr "Đơn xin việc đã gửi thành công."
+
+msgid "You applied this job already."
+msgstr "Bạn đã nộp đơn cho việc làm này."
+
+msgid "Logo"
+msgstr "Biểu tượng"
+
+msgid "Top Companies"
+msgstr "Công ty hàng đầu"
+
+msgid "Companies List"
+msgstr "Danh sách công ty"
+
+msgid "Latest join"
+msgstr "Mới tham gia"
+
+msgid "Joined on"
+msgstr "Gia nhập vào"
+
+msgid "Preview Company"
+msgstr "Xem công ty"
+
+msgid "Job was not available."
+msgstr "Việc làm không tồn tại."
+
+msgid "First"
+msgstr "Đầu"
+
+msgid "Last"
+msgstr "Cuối"
+
+msgid "Job list"
+msgstr "Danh sách việc làm"
+
+msgid "Share"
+msgstr "Chia sẽ"
+
+msgid "Like"
+msgstr "Thích"
+
+msgid "this job."
+msgstr "việc làm này."
+
+msgid "Apply now"
+msgstr "Nộp đơn ngay"
+
+msgid "Add"
+msgstr "Thêm"
+
+msgid "Edit"
+msgstr "Chỉnh sửa"
+
+msgid "Delete"
+msgstr "Xóa"
+
+msgid "Add skill"
+msgstr "Thêm kỹ năng"
+
+msgid "Add group"
+msgstr "Thêm nhóm"
+
+msgid "Remove"
+msgstr "Xóa"
+
+msgid "Remove skill"
+msgstr "Xóa kỹ năng"
+
+msgid "Remove group"
+msgstr "Xóa nhóm"
+
+msgid "Back"
+msgstr "Quay lại"
+
+msgid "Make it now"
+msgstr "Tạo ngay"
+
+msgid "Create it now"
+msgstr "Tạo ngay"
+
+msgid "Promotion now"
+msgstr "Quảng bá ngay"
+
+msgid "Search Job"
+msgstr "Tìm việc"
+
+msgid "Preview Job"
+msgstr "Xem việc"
+
+msgid "Job"
+msgstr "Việc làm"
+
+msgid "Result"
+msgstr "Kết quả"
+
+msgid "Rate"
+msgstr "Qui mô"
+
+msgid "Mission"
+msgstr "Sứ mệnh"
+
+msgid "Introduction"
+msgstr "Giới thiệu"
+
+msgid "Quantity"
+msgstr "Số lượng"
+
+msgid "Input your quantity"
+msgstr "Nhập số nhân viên cần tuyển"
+
+msgid "Grade"
+msgstr "Cấp độ"
+
+msgid "Salary"
+msgstr "Lương"
+
+msgid "Requirement"
+msgstr "Yêu cầu"
+
+msgid "Input your requirement"
+msgstr "Nhập yêu cầu"
+
+msgid "Please select"
+msgstr "Tùy chọn"
+
+msgid "Sign in now"
+msgstr "Đăng ký ngay"
+
+msgid "Edit now"
+msgstr "Chỉnh sửa ngay"
+
+msgid "If you have account already please login first."
+msgstr "Nếu đã có tài khoản vui lòng đăng nhập trước."
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "Trình tạo lý lịch là công cụ cho phép bạn tạo sơ yếu lý lịch. <br/> Và công cụ cũng cho phép bạn hoặc nhà tuyền dụng in trên bất kì thiết bị in ấn với định dạng Excel hoặc CSV."
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "Trình tạo hồ sơ là công cụ cho phép bạn tạo mẫu giới thiệu bản thân tốt nhất với các kỹ năng chuyên môn.<br/>Và công cụ cũng cho phép bạn hoặc nhà tuyền dụng in trên bất kì thiết bị in ấn với định dạng Excel hoặc CSV."
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "Trung tâm quảng bá là công cụ cho phép bạn tạo mẫu giới thiệu bản thân tốt nhất đến với nhà tuyển dụng.<br/>Và công cụ cũng thể hiện bạn trên danh sách nhà tài trợ cùng với các kiến thức, kỹ năng và kinh nghiệm của bạn."
+
+msgid "Resume"
+msgstr "Lý lịch"
+
+msgid "Resume list"
+msgstr "Danh sách lý lịch"
+
+msgid "Add Resume"
+msgstr "Thêm lý lịch"
+
+msgid "Edit Resume"
+msgstr "Chỉnh sửa lý lịch"
+
+msgid "Resume was not available."
+msgstr "Lý lịch không tồn tại."
+
+msgid "Profile"
+msgstr "Hồ sơ"
+
+msgid "Profile list"
+msgstr "Danh sách hồ sơ"
+
+msgid "Add Profile"
+msgstr "Thêm hồ sơ"
+
+msgid "Edit Profile"
+msgstr "Chỉnh sửa hồ sơ"
+
+msgid "Profile was not available."
+msgstr "Hồ sơ không tồn tại."
+
+msgid "Promotion was not available."
+msgstr "Quảng bá không tồn tại."
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "Lý lịch không tồn tại. Vui lòng tạo ít nhất một để quảng bá."
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "Hồ sơ không tồn tại. Vui lòng tạo ít nhất một để quảng bá."
+
+msgid "Promotion list"
+msgstr "Danh sách quảng bá"
+
+msgid "Add Promotion"
+msgstr "Thêm quảng bá"
+
+msgid "Edit Promotion"
+msgstr "Chỉnh sửa quảng bá"
+
+msgid "Skill group"
+msgstr "Nhóm kỹ năng"
+
+msgid "Input your skill group name"
+msgstr "Nhập tên nhóm kỹ năng"
+
+msgid "Level"
+msgstr "Cấp độ"
+
+msgid "Skill"
+msgstr "Kỹ năng"
+
+msgid "Skill name"
+msgstr "Tên kỹ năng"
+
+msgid "Duration"
+msgstr "Thời lượng"
+
+msgid "Card"
+msgstr "Thẻ"
+
+msgid "Card type"
+msgstr "Loại thẻ"
+
+msgid "Other card"
+msgstr "Thẻ khác"
+
+msgid "Input your other card name"
+msgstr "Nhập tên thẻ khác"
+
+msgid "Card No."
+msgstr "Số tài khoản"
+
+msgid "Input your card number"
+msgstr "Nhập số tài khoản"
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Input your title"
+msgstr "Nhập tiêu đề"
+
+msgid "Description"
+msgstr "Mô tả"
+
+msgid "Input your description"
+msgstr "Nhập mô tả"
+
+msgid "Input your mission"
+msgstr "Nhập sứ mệnh"
+
+msgid "Input your introduction"
+msgstr "Nhập giới thiệu"
+
+msgid "Education"
+msgstr "Giáo dục"
+
+msgid "Experiment"
+msgstr "Kinh nghiệm"
+
+msgid "School"
+msgstr "Trường học"
+
+msgid "Input your school name"
+msgstr "Nhập tên trường học"
+
+msgid "Start"
+msgstr "Bắt đầu"
+
+msgid "End"
+msgstr "Kết thúc"
+
+msgid "Major"
+msgstr "Chuyên nghành"
+
+msgid "Company"
+msgstr "Công ty"
+
+msgid "Input your company name"
+msgstr "Nhập tên công ty"
+
+msgid "Identify No."
+msgstr "CMND"
+
+msgid "Input your identify number"
+msgstr "Nhập số chứng minh nhân dân"
+
+msgid "Tax code"
+msgstr "Mã số thuế"
+
+msgid "Input your tax code"
+msgstr "Nhập mã số thuế"
+
+msgid "Name"
+msgstr "Tên"
+
+msgid "Input your name"
+msgstr "Nhập tên của bạn"
+
+msgid "Username"
+msgstr "Tên người dùng"
+
+msgid "Input your username"
+msgstr "Nhập tên người dùng"
+
+msgid "Password"
+msgstr "Mật khẩu"
+
+msgid "Input your password"
+msgstr "Nhập mật khẩu"
+
+msgid "First name"
+msgstr "Tên"
+
+msgid "Input your first name"
+msgstr "Nhập tên"
+
+msgid "Last name"
+msgstr "Họ"
+
+msgid "Input your last name"
+msgstr "Nhập họ"
+
+msgid "Email"
+msgstr "Thư"
+
+msgid "account@domain"
+msgstr "taikhoan@tenmien"
+
+msgid "Phone"
+msgstr "Điện thoại"
+
+msgid "Input your phone number"
+msgstr "Nhập số điện thoại"
+
+msgid "Address"
+msgstr "Địa chỉ"
+
+msgid "Input your address"
+msgstr "Nhập địa chỉ"
+
+msgid "Title"
+msgstr "Tiêu đề"
+
+msgid "Input your title"
+msgstr "Nhập tiêu đề"
+
+msgid "Content"
+msgstr "Nội dung"
+
+msgid "Input your content"
+msgstr "Nhập nội dung"
+
+msgid "Position"
+msgstr "Vị trí"
+
+msgid "Input your position"
+msgstr "Nhập vị trí"
+
+msgid "Major/Field"
+msgstr "Chuyên nghành"
+
+msgid "Country"
+msgstr "Quốc gia"
+
+msgid "Location"
+msgstr "Địa phương"
+
+msgid "Expire date"
+msgstr "Ngày hết hạn"
+
+msgid "Expire on"
+msgstr "Hết hạn vào"
+
+msgid "Action"
+msgstr "Tác vụ"
+
+msgid "View detail"
+msgstr "Xem chi tiết"
+
+# Template
+msgid "EMPLOYER"
+msgstr "Nhà Tuyển Dụng"
+
+msgid "EMPLOYEE"
+msgstr "Người Tìm Việc"
+
+msgid "Search Jobs"
+msgstr "Tìm việc"
+
+msgid "No result find out."
+msgstr "Không kết quả được tìm thấy."
+
+msgid "Companies List"
+msgstr "Danh sách công ty"
+
+msgid "Keyword"
+msgstr "Từ khóa"
+
+msgid "All majors"
+msgstr "Tất cả lĩnh vực"
+
+msgid "All countries"
+msgstr "Tất cả quốc gia"
+
+msgid "All locations"
+msgstr "Tất cả địa phương"
+
+msgid "Search now"
+msgstr "Tìm ngay"
+
+msgid "Login"
+msgstr "Đăng nhập"
+
+msgid "You were login success."
+msgstr "Đăng nhập thành công."
+
+msgid "This account was not available!"
+msgstr "Tài khoản không tồn tại."
+
+msgid "Login now"
+msgstr "Đăng nhập ngay"
+
+msgid "Create an account"
+msgstr "Tạo tài khoản"
+
+msgid "Forgot password"
+msgstr "Quên mật khẩu"
+
+msgid "Account"
+msgstr "Tài khoản"
+
+msgid "Hello"
+msgstr "Chào"
+
+msgid "Logout"
+msgstr "Đăng xuất"
+
+msgid "Edit account"
+msgstr "Chỉnh sửa tài khoản"
+
+msgid "Edit Account"
+msgstr "Chỉnh sửa tài khoản"
+
+msgid "Manage your Account information and Contact information."
+msgstr "Quản lý tài khoản và thông tin liên hệ."
+
+msgid "Sponsor"
+msgstr "Nhà tài trợ"
+
+msgid "Subscribe"
+msgstr "Thông báo"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "Nhận thông báo việc làm mới nhất."
+
+msgid "Subscribe success."
+msgstr "Thông báo thành công."
+
+msgid "Subscribe fail!"
+msgstr "Thông báo xảy ra lỗi!"
+
+msgid "Subscribe now"
+msgstr "Thông báo ngay"
+
+msgid "Contact us"
+msgstr "Liên hệ"
+
+msgid "Contact us now to get more information."
+msgstr "Liên hệ chúng tôi để trao đổi thông tin."
+
+msgid "Contact now"
+msgstr "Liên hệ ngay"
+
+msgid "Registry to get more features"
+msgstr "Đăng ký để sử dụng các chức năng."
+
+msgid "Contact us success."
+msgstr "Liên hệ thành công."
+
+msgid "Contact us fail!"
+msgstr "Liên hệ xảy ra lỗi!"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "Giới thiệu"
+
+msgid "Support"
+msgstr "Hổ trợ"
+
+msgid "FAQ"
+msgstr "Hỏi đáp"
+
+msgid "Component"
+msgstr "Công cụ"
+
+msgid "Resume Maker"
+msgstr "Tạo lý lịch"
+
+msgid "Profile Creator"
+msgstr "Tạo hồ sơ"
+
+msgid "Promotion Center"
+msgstr "Trung tâm quảng bá"
+
+msgid "Follow us"
+msgstr "Theo chúng tôi"
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr "60 Võ Thị Sáu, Liên Hương, Tuy Phong, Bình Thuận, Việt Nam"
+
+
+msgid "prefer"
+msgstr "đề xuất"
+
+msgid "or"
+msgstr "hoặc"
+
+msgid "All right reserved."
+msgstr "Giữ toàn quyền."
+
+msgid "Powered by"
+msgstr "Dẫn nguồn bởi"
+
+# Top
+msgid "Top Job"
+msgstr "Việc làm hàng đầu"
+
+msgid "Jobs Ofference"
+msgstr "Việc làm đề xuất"
+
+msgid "Latest post"
+msgstr "Việc làm mới nhất"
+
+msgid "Posted on"
+msgstr "Đăng vào"
+
+msgid "We proud to"
+msgstr "Chúng tôi tự hào"
+
+msgid "More than 10 years of IT services"
+msgstr "Hơn 10 năm cung cấp dịch vụ IT"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "Chúng tôi thấu hiểu sứ mệnh và tầm nhìn của bạn sâu sắc.<br/>Chúng tôi sỡ hữu công nghệ tiên tiến nhất.<br/>Chúng tồi đầy nhiệt huyết, đam mê và đáng tin cậy."
+
+msgid "Provide the best solution"
+msgstr "Luôn cung cấp giải pháp tốt nhất"
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr "ViRecruitment là một trong những giải pháp tốt nhất giúp nâng tầm doanh nghiệp của bạn.<br/>Chúng tôi giúp cuộc đời dễ dàng hơn và hạnh phúc hơn."
+
+msgid "We offer to"
+msgstr "Chúng tôi đề xuất"
+
+msgid "Find candidate matched to your jobs"
+msgstr "Tìm ứng viên phù hợp nhất"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "Chúng tôi cam kết việc làm của bạn sẽ gây ấn tượng với ứng viên.<br/>Nhanh và chính xác để có danh sách ứnng viên ứng tuyển."
+
+msgid "Make yours highlight"
+msgstr "Giúp việc làm của bạn sáng giá nhất"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "Việc làm của bạn sẽ luôn trên đầu danh sách.<br/>Giúp công việc tuyển gấp dễ dàng hơn bao giờ hết."
+
+# Sign in
+msgid "Sign in"
+msgstr "Đăng ký"
+
+msgid "Sign in to used full our feature and component."
+msgstr "Đăng ký để sử dụng đầy đủ chức năng và công cụ."
+
+msgid "Contact"
+msgstr "Liên hệ"
+
+msgid "Avatar"
+msgstr "ảnh đại diện"
+
+msgid "Why choose our service?"
+msgstr "Tại sao chọn dịch vụ của chúng tôi?"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 class="m0">Chúng xây dựng dịch vụ CNTT:</h4>Với hơn 10 năm tham gia lĩnh vực.<br/>Với hiểu biết và thấu hiểu giải pháp cho các doanh nghiệp.<br/><h4 class="m0">Chúng tôi cung cấp giải pháp CNTT tốt nhất.</h4>Với đội ngủ thiết kế và lập trình viên giàu kinh nghiệm, đam mê và tin cậy."
+
+msgid "Contact us to get more information"
+msgstr "Liên hệ chúng tôi để có thông tin nhiều hơn"
+
+# Major
+msgid "Accounting"
+msgstr "Kế toán"
+
+msgid "Administrative"
+msgstr "Hành chính"
+
+msgid "Advertising"
+msgstr "Quảng cáo"
+
+msgid "Agriculture"
+msgstr "Nông nghiệp"
+
+msgid "Airline"
+msgstr "Hàng không"
+
+msgid "Architecture"
+msgstr "Kiến trúc"
+
+msgid "Art Design"
+msgstr "Thiết kế mỹ thuật"
+
+msgid "Banking"
+msgstr "Ngân hàng"
+
+msgid "Chemical"
+msgstr "Hóa chất"
+
+msgid "Construction"
+msgstr "Xây dựng"
+
+msgid "Consulting"
+msgstr "Tư vấn"
+
+msgid "Education"
+msgstr "Giáo dục"
+
+msgid "Electrical/Electronic"
+msgstr "điện/điện tử"
+
+msgid "Environment"
+msgstr "Môi trường"
+
+msgid "Export/Import"
+msgstr "Xuất nhập khẩu"
+
+msgid "Fashion"
+msgstr "Thời trang"
+
+msgid "Finance"
+msgstr "Tài chính"
+
+msgid "Food"
+msgstr "Thực phẩm"
+
+
+msgid "Health Care"
+msgstr "Chăm sóc sức khỏe"
+
+msgid "Human Resource"
+msgstr "Nhân sự"
+
+msgid "Insurance"
+msgstr "Bảo hiểm"
+
+msgid "Internet Media"
+msgstr "Truyền thông"
+
+msgid "IT - Hardware/Networking"
+msgstr "IT - Phần cứng/Mạng"
+
+msgid "IT - Software"
+msgstr "IT - Phần mềm"
+
+msgid "Interpreter/Translator"
+msgstr "Phiên dịch viên"
+
+msgid "Marketing"
+msgstr "Tiếp thị"
+
+msgid "Mechanical"
+msgstr "Cơ khí"
+
+msgid "Oil/Gas"
+msgstr "Dầu khí"
+
+msgid "Overseas Jobs"
+msgstr "Việc làm nước ngoài"
+
+msgid "Pharmaceutical"
+msgstr "Dược phẩm"
+
+msgid "QA/QC"
+msgstr "Quản lý chất lượng"
+
+msgid "Real Estate"
+msgstr "Bất động sản"
+
+msgid "Sales"
+msgstr "Bán hàng"
+
+msgid "Securities"
+msgstr "Chứng khoán"
+
+msgid "Telecommunication"
+msgstr "Viễn thông"
+
+msgid "TV/Media/Newspaper"
+msgstr "Truyền hình/Truyền thông/Báo chí"
+
+msgid "Warehouse"
+msgstr "Kho bãi"
+
+msgid "Staff"
+msgstr "Nhân viên"
+
+msgid "Marine"
+msgstr "Hàng hải"
+
+msgid "Logistics"
+msgstr "Hậu cần"
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "Việc làm đã ứng tuyển"
+
+msgid "Applied list"
+msgstr "Danh sách đã ứng tuyển"
+
+msgid "Applied date"
+msgstr "Ngày ứng tuyển"
+
+msgid "Applies was not available."
+msgstr "Danh sách ứng tuyển không tồn tại."

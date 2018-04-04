@@ -1,0 +1,1085 @@
+﻿msgid "Real estate"
+msgstr "العقارات"
+
+msgid "Recruitment"
+msgstr "تجنيد"
+
+msgid "Photo"
+msgstr "صورة فوتوغرافية"
+
+msgid "Our services"
+msgstr "خدماتنا"
+
+msgid "About us"
+msgstr "معلومات عنا"
+
+msgid "WRE briefly"
+msgstr "WRE عالم العقارات هو مزود حلول تطبيق التكنولوجيا للوسيط العقاري وسهولة الوصول إلى العملاء وترقية الأعمال. كما يسمح إدارة الأعمال والأصول والموظفين ..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment حل تطبيقات تكنولوجيا المعلومات في مجال التوظيف لأصحاب العمل الفوز، الباحثين عن عمل، وسيط التوظيف. يحتوي هذا الحل أيضا اسم آخر شبكة التوظيف من الفيتنامية."
+
+msgid "iphoto briefly"
+msgstr "Color4Life هو المنزل لتخزين الذكريات، لحظات سعيدة وحزينة من الحياة. يرجى مشاركة أفكارك ومشاعرك وشغفك ..."
+
+msgid "Movie"
+msgstr "فيلم"
+
+msgid "Music"
+msgstr "موسيقى"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "طالب عمل"
+
+msgid "Employer"
+msgstr "صاحب العمل"
+
+msgid "Multimedia"
+msgstr "الوسائط المتعددة"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "إنشاء حساب شخصي"
+
+msgid "Create an enterprise account"
+msgstr "إنشاء حساب مؤسسة"
+
+msgid "One account for all application"
+msgstr "حساب واحد لجميع التطبيقات"
+
+msgid "One application for all devices"
+msgstr "تطبيق واحد لجميع الأجهزة"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "نلزمك أن لدينا أفضل طريقة تسمح لك استخدام التطبيق لدين"
+
+msgid "All features security in all our application"
+msgstr "جميع ميزات الأمن في كل طلبنا"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "نلتزم حسابك دائما مكان في أعلى مستوى من الوضع الأمني"
+
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "أقل من 250 دولار أمريكي"
+
+msgid "From 250 to 500 USD"
+msgstr "من 250 إلى 500 دولار أمريكي"
+
+msgid "From 500 to 1000 USD"
+msgstr "من 500 إلى 1000 دولار أمريكي"
+
+msgid "From 1000 to 2000 USD"
+msgstr "من 1000 إلى 2000 دولار أمريكي"
+
+msgid "From 2000 to 4000 USD"
+msgstr "من 2000 إلى 4000 دولار أمريكي"
+
+msgid "Over 4000 USD"
+msgstr "أكثر من 4000 دولار أمريكي"
+
+msgid "Negotiable"
+msgstr "قابل للتفاوض"
+
+# Rate
+msgid "Less than 20"
+msgstr "أقل من 20"
+
+msgid "From 20 to 50"
+msgstr "من 20 إلى 50"
+
+msgid "From 50 to 100"
+msgstr "من 50 إلى 100"
+
+msgid "From 100 to 200"
+msgstr "من 100 إلى 200"
+
+msgid "From 200 to 500"
+msgstr "من 200 إلى 500"
+
+msgid "From 500 to 1000"
+msgstr "من 500 إلى 1000"
+
+msgid "Greater than 1000"
+msgstr "أكبر من 1000"
+
+# Grade
+msgid "Student"
+msgstr "طالب علم"
+
+msgid "Junior"
+msgstr "نجارة"
+
+msgid "Senior"
+msgstr "أول"
+
+msgid "Expert"
+msgstr "خبير"
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "ليست تجربة بعد"
+
+msgid "One year"
+msgstr "سنة واحدة"
+
+msgid "Two years"
+msgstr "سنتان"
+
+msgid "Three years"
+msgstr "ثلاث سنوات"
+
+msgid "Five years"
+msgstr "خمس سنوات"
+
+msgid "Ten years"
+msgstr "عشر سنوات"
+
+msgid "Over ten years"
+msgstr "أكثر من عشر سنوات"
+
+# Level
+msgid "Begin"
+msgstr "ابدأ"
+
+msgid "Medium"
+msgstr "متوسط"
+
+msgid "Good"
+msgstr "جيد"
+
+msgid "Very Good"
+msgstr "جيد جدا"
+
+msgid "Expert"
+msgstr "خبير"
+
+# Duration
+msgid "One week"
+msgstr "اسبوع واحد"
+
+msgid "Two weeks"
+msgstr "إسبوعين"
+
+msgid "Three weeks"
+msgstr "ثلاثة اسابيع"
+
+msgid "One month"
+msgstr "شهر واحد"
+
+msgid "Two months"
+msgstr "شهرين"
+
+msgid "Three months"
+msgstr "ثلاثة أشهر"
+
+# General
+msgid "Currency"
+msgstr "دقة"
+
+msgid "Amount"
+msgstr "كمية"
+
+msgid "Expire year"
+msgstr "سنة انتهاء الصلاحية"
+
+msgid "Expire month"
+msgstr "انتهاء الشهر"
+
+msgid "Please check your network connection!"
+msgstr "يرجى التحقق من اتصال الشبكة!"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "وقد أخفقت معالجة التبرع! حاول مرة اخرى."
+
+msgid "Payment servers are down! Please try again."
+msgstr "خوادم الدفع أسفل! حاول مرة اخرى."
+
+msgid "Your card number is incorrect."
+msgstr "رقم بطاقتك غير صحيح."
+
+msgid "The card was declined."
+msgstr "تم رفض البطاقة."
+
+msgid "Your card's expiration year is invalid."
+msgstr "سنة انتهاء صلاحية بطاقتك غير صالحة."
+
+msgid "Your card's expiration month is invalid."
+msgstr "شهر انتهاء صلاحية بطاقتك غير صالح."
+
+msgid "Preview Account"
+msgstr "معاينة الحساب"
+
+msgid "Preview account"
+msgstr "معاينة الحساب"
+
+msgid "You signed in success. Please check your email."
+msgstr "لقد سجلت دخولك بنجاح. تفقد بريدك الالكتروني من فضلك."
+
+msgid "You signed in fail! Please try again."
+msgstr "لقد سجلت دخولك! حاول مرة اخرى."
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "لقد قمت بتسجيل الدخول وجعل نجاح السيرة الذاتية. تفقد بريدك الالكتروني من فضلك."
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "تسجيل الدخول وجعل السيرة الذاتية تفشل! حاول مرة اخرى."
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "لقد سجلت الدخول ونجحت في إنشاء الملف الشخصي. تفقد بريدك الالكتروني من فضلك."
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "تسجيل الدخول وإنشاء ملف تعريف فشل! حاول مرة اخرى."
+
+msgid "View all"
+msgstr "عرض الكل"
+
+msgid "Consultant"
+msgstr "مستشار"
+
+msgid "Consultant List"
+msgstr "قائمة الاستشاريين"
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "لا يمكنك تعديل المدة أو البطاقة بعد البدء أو التبرع."
+
+msgid "Post to offer"
+msgstr "المشاركة في العرض"
+
+msgid "Create now"
+msgstr "اصنع الان"
+
+msgid "Yes"
+msgstr "نعم فعلا"
+
+msgid "No"
+msgstr "لا"
+
+msgid "Recruit"
+msgstr "تجنيد"
+
+msgid "Recruit now"
+msgstr "تجنيد الآن"
+
+msgid "Recruit Master"
+msgstr "تجنيد الماجستير"
+
+msgid "Add Recruit"
+msgstr "إضافة تجنيد"
+
+msgid "Edit Recruit"
+msgstr "تحرير تجنيد"
+
+msgid "Recruit list"
+msgstr "قائمة تجنيد"
+
+msgid "Recruiter was not available."
+msgstr "لم يكن المجند متوفرا."
+
+msgid "Applicant"
+msgstr "طالب وظيفة"
+
+msgid "Applicant list"
+msgstr "قائمة مقدم الطلب"
+
+msgid "Apply letter"
+msgstr "تطبيق الرسالة"
+
+msgid "Apply date time"
+msgstr "تطبيق تاريخ التاريخ"
+
+msgid "Match"
+msgstr "مباراة"
+
+msgid "Not set"
+msgstr "غير مضبوط"
+
+msgid "Not match"
+msgstr "لا يتطابق"
+
+msgid "Matched"
+msgstr "يقابل"
+
+msgid "Confirm"
+msgstr "تؤكد"
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr "إدارة حسابك، معلومات الاتصال ومعلومات الشركة."
+
+msgid "Account has edited success."
+msgstr "لقد عدل الحساب النجاح."
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "منشئ الملف الشخصي هو المكون الذي يتيح لك تقديم أفضل مقدمة عن شركتك إلى الموظف والشريك. <br/> كما تظهر شركتك في قائمة الشركات."
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "تبرع لتعزيز عرض شركتك على قائمة الراعي وعرض من قبل الموظف والشريك في البداية."
+
+msgid "Candidate"
+msgstr "مرشح"
+
+msgid "Candidate List"
+msgstr "قائمة المرشحين"
+
+msgid "Preview Candidate"
+msgstr "معاينة المرشح"
+
+msgid "Candidate was not available."
+msgstr "لم يكن المرشح متاحا."
+
+msgid "Square logo"
+msgstr "شعار مربع"
+
+msgid "Rectangle logo"
+msgstr "مستطيل الشعار"
+
+msgid "Allowance No."
+msgstr "رقم الرخصة."
+
+msgid "of this candidate."
+msgstr "من هذا المرشح."
+
+msgid "Gender"
+msgstr "جنس"
+
+msgid "Male"
+msgstr "الذكر"
+
+msgid "Female"
+msgstr "إناثا"
+
+msgid "Birthday"
+msgstr "عيد الميلاد"
+
+msgid "Please"
+msgstr "رجاء"
+
+msgid "to"
+msgstr "إلى"
+
+msgid "Apply"
+msgstr "تطبيق"
+
+msgid "Application"
+msgstr "الوضعية"
+
+msgid "Letter"
+msgstr "رسالة"
+
+msgid "Application has sent success."
+msgstr "وقد أرسل التطبيق النجاح."
+
+msgid "You applied this job already."
+msgstr "لقد طبقت هذه المهمة بالفعل."
+
+msgid "Logo"
+msgstr "شعار"
+
+msgid "Top Companies"
+msgstr "أهم الشركات"
+
+msgid "Latest join"
+msgstr "آخر الانضمام"
+
+msgid "Joined on"
+msgstr "انضم إلينا"
+
+msgid "Preview Company"
+msgstr "انضم إلينا"
+
+msgid "Job was not available."
+msgstr "لم تكن الوظيفة متاحة."
+
+msgid "First"
+msgstr "الأول"
+
+msgid "Last"
+msgstr "الاخير"
+
+msgid "Job list"
+msgstr "قائمة الوظائف"
+
+msgid "Share"
+msgstr "شارك"
+
+msgid "Like"
+msgstr "مثل"
+
+msgid "this job."
+msgstr "هذا العمل."
+
+msgid "Apply now"
+msgstr "قدم الآن"
+
+msgid "Add"
+msgstr "إضافة"
+
+msgid "Edit"
+msgstr "تصحيح"
+
+msgid "Delete"
+msgstr "حذف"
+
+msgid "Add skill"
+msgstr "إضافة مهارة"
+
+msgid "Add group"
+msgstr "إضافة مجموعة"
+
+msgid "Remove"
+msgstr "إزالة"
+
+msgid "Remove skill"
+msgstr "إزالة المهارة"
+
+msgid "Remove group"
+msgstr "إزالة المجموعة"
+
+msgid "Back"
+msgstr "الى الخلف"
+
+msgid "Make it now"
+msgstr "جعله الآن"
+
+msgid "Create it now"
+msgstr "إنشاءه الآن"
+
+msgid "Promotion now"
+msgstr "الترويج الآن"
+
+msgid "Search Job"
+msgstr "البحث عن وظيفة"
+
+msgid "No result find out."
+msgstr "لا توجد نتيجة معرفة."
+
+msgid "Preview Job"
+msgstr "معاينة الوظيفة"
+
+msgid "Job"
+msgstr "وظيفة"
+
+msgid "Result"
+msgstr "نتيجة"
+
+msgid "Rate"
+msgstr "معدل"
+
+msgid "Mission"
+msgstr "مهمة"
+
+msgid "Introduction"
+msgstr "المقدمة"
+
+msgid "Quantity"
+msgstr "كمية"
+
+msgid "Input your quantity"
+msgstr "إدخال الكمية الخاصة بك"
+
+msgid "Grade"
+msgstr "درجة"
+
+msgid "Salary"
+msgstr "راتب"
+
+msgid "Requirement"
+msgstr "المتطلبات"
+
+msgid "Input your requirement"
+msgstr "إدخال الاحتياجات الخاصة بك"
+
+msgid "Please select"
+msgstr "الرجاء التحديد"
+
+msgid "Sign in now"
+msgstr "قم بتسجيل دخولك الآن"
+
+msgid "Edit now"
+msgstr "التعديل الآن"
+
+msgid "If you have account already please login first."
+msgstr "إذا كان لديك حساب بالفعل يرجى تسجيل الدخول أولا."
+
+msgid "Resume Maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "صانع استئناف هو المكون تسمح لك جعل السيرة الذاتية الخاصة بك. <br/> كما تسمح لك الطباعة مع أي طابعة وتنسيقه في إكسيل أو ملف كسف."
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "منشئ الملف الشخصي هو المكون الذي يسمح لك بتقديم أفضل مقدمة من المهارات الخاصة بك. <br/> كما تسمح لك الطباعة مع أي طابعة وتنسيقه في إكسيل أو ملف كسف."
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "مركز الترويج هو المكون تسمح لك تقديم أفضل مقدمة من قبل نفسك لصاحب العمل والتجنيد. <br/> كما يبدو أنك على قائمة الراعي وتظهر معرفتك ومهارتك والتجربة."
+
+msgid "Resume"
+msgstr "استئنف"
+
+msgid "Resume list"
+msgstr "قائمة استئناف"
+
+msgid "Add Resume"
+msgstr "إضافة استئناف"
+
+msgid "Edit Resume"
+msgstr "تحرير السيرة الذاتية"
+
+msgid "Resume was not available."
+msgstr "لم تكن السيرة الذاتية متاحة."
+
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+msgid "Profile list"
+msgstr "قائمة الملف الشخصي"
+
+msgid "Add Profile"
+msgstr "إضافة ملف شخصي"
+
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+msgid "Profile was not available."
+msgstr "الملف الشخصي غير متاح."
+
+msgid "Promotion was not available."
+msgstr "لم يكن العرض الترويجي متاحا."
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "لم تكن السيرة الذاتية متاحة. يرجى إنشاء واحد على الأقل للترويج."
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "الملف الشخصي غير متاح. يرجى إنشاء واحد على الأقل للترويج."
+
+msgid "Promotion list"
+msgstr "قائمة الترويج"
+
+msgid "Add Promotion"
+msgstr "إضافة ترويج"
+
+msgid "Edit Promotion"
+msgstr "تعديل العرض"
+
+msgid "Input your skill group name"
+msgstr "إدخال اسم مجموعة المهارات الخاصة بك"
+
+msgid "Level"
+msgstr "مستوى"
+
+msgid "Skill"
+msgstr "مهارة"
+
+msgid "Skill name"
+msgstr "اسم المهارة"
+
+msgid "Duration"
+msgstr "المدة الزمنية"
+
+msgid "Card"
+msgstr "بطاقة"
+
+msgid "Card type"
+msgstr "نوع البطاقة"
+
+msgid "Other card"
+msgstr "بطاقة أخرى"
+
+msgid "Input your other card name"
+msgstr "أدخل اسم البطاقة الأخرى"
+
+msgid "Card No."
+msgstr "لا بطاقة."
+
+msgid "Input your card number"
+msgstr "أدخل رقم بطاقتك"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Input your title"
+msgstr "أدخل عنوانك"
+
+msgid "Description"
+msgstr "وصف"
+
+msgid "Input your description"
+msgstr "أدخل الوصف"
+
+msgid "Input your mission"
+msgstr "إدخال مهمتكم"
+
+msgid "Input your introduction"
+msgstr "إدخال المقدمة الخاصة بك"
+
+msgid "Education"
+msgstr "التعليم"
+
+msgid "Experiment"
+msgstr "تجربة"
+
+msgid "School"
+msgstr "مدرسة"
+
+msgid "Input your school name"
+msgstr "أدخل اسم مدرستك"
+
+msgid "Start"
+msgstr "بداية"
+
+msgid "End"
+msgstr "النهاية"
+
+msgid "Major"
+msgstr "رائد"
+
+msgid "Company"
+msgstr "شركة"
+
+msgid "Input your company name"
+msgstr "أدخل اسم شركتك"
+
+msgid "Identify No."
+msgstr "تحديد رقم"
+
+msgid "Input your identify number"
+msgstr "أدخل رقم هويتك"
+
+msgid "Tax code"
+msgstr "قانون الضرائب"
+
+msgid "Input your tax code"
+msgstr "أدخل الرمز الضريبي"
+
+msgid "Name"
+msgstr "اسم"
+
+msgid "Input your name"
+msgstr "أدخل اسمك"
+
+msgid "Username"
+msgstr "اسم المستخدم"
+
+msgid "Input your username"
+msgstr "أدخل اسم المستخدم"
+
+msgid "Password"
+msgstr "كلمه السر"
+
+msgid "Input your password"
+msgstr "أدخل كلمة المرور"
+
+msgid "First name"
+msgstr "الاسم الاول"
+
+msgid "Input your first name"
+msgstr "أدخل اسمك الأول"
+
+msgid "Last name"
+msgstr "الكنية"
+
+msgid "Input your last name"
+msgstr "أدخل اسم العائلة"
+
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+msgid "account@domain"
+msgstr "الحساب@نطاق"
+
+msgid "Phone"
+msgstr "هاتف"
+
+msgid "Input your phone"
+msgstr "إدخال هاتفك"
+
+msgid "Address"
+msgstr "عنوان"
+
+msgid "Input your address"
+msgstr "أدخل عنوانك"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "Input your title"
+msgstr "أدخل عنوانك"
+
+msgid "Content"
+msgstr "يحتوى"
+
+msgid "Input your content"
+msgstr "إدخال المحتوى الخاص بك"
+
+msgid "Position"
+msgstr "موضع"
+
+msgid "Input your position"
+msgstr "إدخال موقفكم"
+
+msgid "Major/Field"
+msgstr "الرائد / الميدان"
+
+msgid "Country"
+msgstr "بلد"
+
+msgid "Location"
+msgstr "موقعك"
+
+msgid "Expire date"
+msgstr "تاريخ انتهاء الصلاحية"
+
+msgid "Expire on"
+msgstr "تنتهي الصلاحية"
+
+msgid "Action"
+msgstr "عمل"
+
+msgid "View detail"
+msgstr "عرض التفاصيل"
+
+# Template
+msgid "EMPLOYER"
+msgstr "صاحب العمل"
+
+msgid "EMPLOYEE"
+msgstr "موظف"
+
+msgid "Search Jobs"
+msgstr "بحث وظائف"
+
+msgid "Companies List"
+msgstr "قائمة الشركات"
+
+msgid "Keyword"
+msgstr "الكلمة"
+
+msgid "All majors"
+msgstr "جميع التخصصات"
+
+msgid "All countries"
+msgstr "كل البلدان"
+
+msgid "All locations"
+msgstr "جميع المواقع"
+
+msgid "Search now"
+msgstr "ابحث الآن"
+
+msgid "Login"
+msgstr "تسجيل الدخول"
+
+msgid "You were login success."
+msgstr "كنت تسجيل الدخول النجاح."
+
+msgid "This account was not available!"
+msgstr "هذا الحساب غير متاح!"
+
+msgid "Login now"
+msgstr "تسجيل الدخول الآن"
+
+msgid "Create an account"
+msgstr "انشئ حساب"
+
+msgid "Forgot password"
+msgstr "هل نسيت كلمة المرور"
+
+msgid "Account"
+msgstr "الحساب"
+
+msgid "Hello"
+msgstr "مرحبا"
+
+msgid "Logout"
+msgstr "الخروج"
+
+msgid "Edit account"
+msgstr "تعديل الحساب"
+
+msgid "Edit Account"
+msgstr "تعديل الحساب"
+
+msgid "Manage your Account information and Contact information."
+msgstr "إدارة معلومات الحساب ومعلومات الاتصال."
+
+msgid "Sponsor"
+msgstr "كفيل"
+
+msgid "Subscribe"
+msgstr "الاشتراك"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "اشترك للحصول على أحدث المعلومات والوظائف الجديدة وصول تنبيه."
+
+msgid "Subscribe success."
+msgstr "الاشتراك النجاح."
+
+msgid "Subscribe fail."
+msgstr "فشل الاشتراك."
+
+msgid "Subscribe now"
+msgstr "إشترك الآن"
+
+msgid "Contact us"
+msgstr "اتصل بنا"
+
+msgid "Contact us now to get more information."
+msgstr "اتصل بنا الآن للحصول على مزيد من المعلومات."
+
+msgid "Contact now"
+msgstr "اتصل الآن"
+
+msgid "Registry to get more features"
+msgstr "التسجيل للحصول على المزيد من الميزات"
+
+msgid "Contact us success."
+msgstr "الاتصال بنا النجاح."
+
+msgid "Contact us fail!"
+msgstr "الاتصال بنا تفشل!"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "معلومات عنا"
+
+msgid "Support"
+msgstr "الدعم"
+
+msgid "FAQ"
+msgstr "التعليمات"
+
+msgid "Component"
+msgstr "مكون"
+
+msgid "Resume Maker"
+msgstr "صانع استئناف"
+
+msgid "Profile Creator"
+msgstr "الملف الشخصي الخالق"
+
+msgid "Promotion Center"
+msgstr "مركز الترويج"
+
+msgid "Follow us"
+msgstr "تابعنا"
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr "تفضل"
+
+msgid "or"
+msgstr "أو"
+
+msgid "All right reserved."
+msgstr "جميع الحقوق محفوظة."
+
+msgid "Powered by"
+msgstr "مشغل بواسطة"
+
+# Top
+msgid "Top Job"
+msgstr "أعلى وظيفة"
+
+msgid "Jobs Ofference"
+msgstr "وظائف شاغرة" 
+
+msgid "Latest post"
+msgstr "آخر آخر"
+
+msgid "Posted on"
+msgstr "نشر على"
+
+msgid "We proud to"
+msgstr "نحن فخورون ل"
+
+msgid "More than 10 years of IT services"
+msgstr "أكثر من 10 عاما من خدمات تكنولوجيا المعلومات"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "نحن نفهم مهمتك ورؤيتكم بعمق. <br/> لقد امتلكنا أحدث التقنيات. <br/> لدينا الحماس والعاطفة والموثوقية."
+
+msgid "Provide the best solution"
+msgstr "تقديم أفضل الحلول"
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr "ViRecruitment احد من أفضل حل لدينا لجعل عملك إلى المستوى التالي. <br/> نحن جعل الحياة أكثر سهولة وأكثر السعادة."
+
+msgid "We offer to"
+msgstr "نحن نقدم ل"
+
+msgid "Find candidate matched to your jobs"
+msgstr "البحث عن مرشح المتطابقة مع وظائفك"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "نحن نعد وظائفك سوف يحضر من قبل أفضل مرشح. <br/> بسرعة وبالضبط للحصول على قائمة المرشحين تطبيقها."
+
+msgid "Make yours highlight"
+msgstr "جعل لك تسليط الضوء"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "وظائفك دائما على رأس قائمة الوظائف. <br/> جعل المهام العاجلة إلى أكثر سهولة."
+
+# Sign in
+msgid "Sign in"
+msgstr "تسجيل الدخول"
+
+msgid "Sign in to used full our feature and component."
+msgstr "سجل الدخول لاستخدام الميزة الكاملة والمكون."
+
+msgid "Contact"
+msgstr "اتصل"
+
+msgid "Avatar"
+msgstr "الصورة الرمزية"
+
+msgid "Why choose our service?"
+msgstr "لماذا اخترت خدمتنا؟"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 كلاس = "m0"> نبني خدمات تقنية المعلومات: </ h4> مع مرور أكثر من 10 سنوات من التجربة. <br/> مع المعرفة والفهم حول حل الأعمال. <br/> <h4 كلاس = "m0"> نحن نقدم أفضل من حلول تكنولوجيا المعلومات. </ h4> مع مصمم الفريق والعمل المطور في غنية من التجربة، والعاطفة والمسؤولة."
+
+msgid "Contact us to get more information"
+msgstr "اتصل بنا للحصول على مزيد من المعلومات"
+
+# Major
+msgid "Accounting"
+msgstr "محاسبة"
+
+msgid "Administrative"
+msgstr "إداري"
+
+msgid "Advertising"
+msgstr "إعلان"
+
+msgid "Agriculture"
+msgstr "الزراعة"
+
+msgid "Airline"
+msgstr "شركة طيران"
+
+msgid "Architecture"
+msgstr "هندسة معمارية"
+
+msgid "Art Design"
+msgstr "تصميم فني"
+
+msgid "Banking"
+msgstr "الخدمات المصرفية"
+
+msgid "Chemical"
+msgstr "المواد الكيميائية"
+
+msgid "Construction"
+msgstr "اعمال بناء"
+
+msgid "Consulting"
+msgstr "الاستشارات"
+
+msgid "Education"
+msgstr "التعليم"
+
+msgid "Electrical/Electronic"
+msgstr "الكهربائية / الإلكترونية"
+
+msgid "Environment"
+msgstr "بيئة"
+
+msgid "Export/Import"
+msgstr "الاستيراد والتصدير"
+
+msgid "Fashion"
+msgstr "موضه"
+
+msgid "Finance"
+msgstr "المالية"
+
+msgid "Food"
+msgstr "طعام"
+
+msgid "Health Care"
+msgstr "الرعاىة الصحية"
+
+msgid "Human Resource"
+msgstr "الموارد البشرية"
+
+msgid "Insurance"
+msgstr "تأمين"
+
+msgid "Internet Media"
+msgstr "وسائل الإعلام الإنترنت"
+
+msgid "IT - Hardware/Networking"
+msgstr "تكنولوجيا المعلومات - الأجهزة / الشبكات"
+
+msgid "IT - Software"
+msgstr "تكنولوجيا المعلومات - البرمجيات"
+
+msgid "Interpreter/Translator"
+msgstr "مترجم"
+
+msgid "Marketing"
+msgstr "تسويق"
+
+msgid "Mechanical"
+msgstr "ميكانيكي"
+
+msgid "Oil/Gas"
+msgstr "نفط / غاز"
+
+msgid "Overseas Jobs"
+msgstr "وظائف في الخارج"
+
+msgid "Pharmaceutical"
+msgstr "الأدوية"
+
+msgid "QA/QC"
+msgstr ""
+
+msgid "Real Estate"
+msgstr "العقارات"
+
+msgid "Sales"
+msgstr "مبيعات"
+
+msgid "Securities"
+msgstr "ضمانات"
+
+msgid "Telecommunication"
+msgstr "اتصالات"
+
+msgid "TV/Media/Newspaper"
+msgstr "TV / الإعلام / صحيفة"
+
+msgid "Warehouse"
+msgstr "مستودع"
+
+msgid "Staff"
+msgstr "العاملين"
+
+msgid "Marine"
+msgstr "بحري"
+
+msgid "Logistics"
+msgstr "الخدمات اللوجستية"
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "تطبيق الوظيفة"
+
+msgid "Applied list"
+msgstr "القائمة التطبيقية"
+
+msgid "Applied date"
+msgstr "تاريخ التطبيق"
+
+msgid "Applies was not available."
+msgstr "لم يكن التطبيق متاحا."

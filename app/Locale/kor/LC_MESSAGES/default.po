@@ -1,0 +1,1085 @@
+﻿msgid "Real estate"
+msgstr "부동산"
+
+msgid "Recruitment"
+msgstr "신병 모집"
+
+msgid "Photo"
+msgstr "사진"
+
+msgid "Our services"
+msgstr "우리의 서비스"
+
+msgid "About us"
+msgstr "회사 소개"
+
+msgid "WRE briefly"
+msgstr "WRE - 세계 부동산은 부동산 중개인을위한 기술 응용 솔루션 제공 업체이며 고객 및 업그레이드 비즈니스에 쉽게 액세스 할 수 있습니다. 또한 관리 비즈니스, 자산 및 직원을 허용합니다 ..."
+
+msgid "Vi briefly"
+msgstr "ViRecruitment 고용주를위한 모집 분야의 정보 기술 응용 프로그램 솔루션, 구직자, 채용 브로커. 이 솔루션에는 베트남어 모집 네트워크라는 또 다른 이름이 있습니다."
+
+msgid "iphoto briefly"
+msgstr "iPhoto 기억, 행복하고 슬픈 순간을 저장하는 곳입니다. 생각, 감정, 열정을 나누십시오."
+
+msgid "Movie"
+msgstr "영화"
+
+msgid "Music"
+msgstr "음악"
+
+# Menu
+
+msgid "Job seeker"
+msgstr "구직자"
+
+msgid "Employer"
+msgstr "고용주"
+
+msgid "Multimedia"
+msgstr "멀티미디어"
+
+# Signin introduction
+
+msgid "Create a personal account"
+msgstr "개인 계정 만들기"
+
+msgid "Create an enterprise account"
+msgstr "엔터프라이즈 계정 만들기"
+
+msgid "One account for all application"
+msgstr "모든 신청에 대해 하나의 계정"
+
+msgid "One application for all devices"
+msgstr "모든 장치에 대해 하나의 응용 프로그램"
+
+msgid "We commit you that we have the best way allow you use our application"
+msgstr "우리가 당신에게 우리의 응용 프로그램을 사용할 수있는 가장 좋은 방법이 있다고 당신에게 약속합니다."
+
+msgid "All features security in all our application"
+msgstr "모든 응용 프로그램에서 모든 기능 보안"
+
+msgid "We commit your account always place in highest level of security status"
+msgstr "우리는 귀하의 계정이 항상 최고 수준의 보안 상태에 있음을 확인합니다."
+
+
+# Copy from recruit
+
+# CONFIG
+# Salary
+msgid "Less than 250 USD"
+msgstr "250 USD 미만"
+
+msgid "From 250 to 500 USD"
+msgstr "250 ~ 500 USD"
+
+msgid "From 500 to 1000 USD"
+msgstr "500 ~ 1000 USD"
+
+msgid "From 1000 to 2000 USD"
+msgstr "1000 ~ 2000 USD"
+
+msgid "From 2000 to 4000 USD"
+msgstr "2000 ~ 4000 USD"
+
+msgid "Over 4000 USD"
+msgstr "4000 USD 이상"
+
+msgid "Negotiable"
+msgstr "협상 가능한"
+
+# Rate
+msgid "Less than 20"
+msgstr "20 명 미만"
+
+msgid "From 20 to 50"
+msgstr "20 ~ 50 세"
+
+msgid "From 50 to 100"
+msgstr "50 ~ 100 세"
+
+msgid "From 100 to 200"
+msgstr "100 ~ 200 세"
+
+msgid "From 200 to 500"
+msgstr "200 ~ 500 세"
+
+msgid "From 500 to 1000"
+msgstr "500 ~ 1000 세"
+
+msgid "Greater than 1000"
+msgstr "1000보다 큼"
+
+# Grade
+msgid "Student"
+msgstr "학생"
+
+msgid "Junior"
+msgstr "후진"
+
+msgid "Senior"
+msgstr "연장자"
+
+msgid "Expert"
+msgstr "전문가"
+
+# Experiment year
+msgid "Not experiment yet"
+msgstr "아직 실험하지 않음"
+
+msgid "One year"
+msgstr "1 년"
+
+msgid "Two years"
+msgstr "2 년"
+
+msgid "Three years"
+msgstr "3 년"
+
+msgid "Five years"
+msgstr "5 년"
+
+msgid "Ten years"
+msgstr "10 년"
+
+msgid "Over ten years"
+msgstr "10 년 이상"
+
+# Level
+msgid "Begin"
+msgstr "시작하다"
+
+msgid "Medium"
+msgstr "매질"
+
+msgid "Good"
+msgstr "좋은"
+
+msgid "Very Good"
+msgstr "매우 좋음"
+
+msgid "Expert"
+msgstr "전문가"
+
+# Duration
+msgid "One week"
+msgstr " 주일"
+
+msgid "Two weeks"
+msgstr "2 주"
+
+msgid "Three weeks"
+msgstr "3 주"
+
+msgid "One month"
+msgstr "한달"
+
+msgid "Two months"
+msgstr "이 개월"
+
+msgid "Three months"
+msgstr "삼 개월"
+
+# General
+msgid "Currency"
+msgstr "통화"
+
+msgid "Amount"
+msgstr "양"
+
+msgid "Expire year"
+msgstr "만료 년도"
+
+msgid "Expire month"
+msgstr "만료 월"
+
+msgid "Please check your network connection!"
+msgstr "네트워크 연결을 확인하십시오!"
+
+msgid "Donation processing has been failed! Please try again."
+msgstr "기부 처리가 실패했습니다! 다시 시도하십시오."
+
+msgid "Payment servers are down! Please try again."
+msgstr "지불 서버가 다운되었습니다! 다시 시도하십시오."
+
+msgid "Your card number is incorrect."
+msgstr "카드 번호가 잘못되었습니다."
+
+msgid "The card was declined."
+msgstr "카드가 거부되었습니다."
+
+msgid "Your card's expiration year is invalid."
+msgstr "카드의 만료 연도가 잘못되었습니다."
+
+msgid "Your card's expiration month is invalid."
+msgstr "카드의 만료일이 잘못되었습니다."
+
+msgid "Preview Account"
+msgstr "계정 미리보기"
+
+msgid "Preview account"
+msgstr "계정 미리보기"
+
+msgid "You signed in success. Please check your email."
+msgstr "당신은 성공에 서명했습니다. 이메일을 확인하십시오."
+
+msgid "You signed in fail! Please try again."
+msgstr "로그인하지 못했습니다! 다시 시도하십시오."
+
+msgid "You signed in and make resume success. Please check your email."
+msgstr "로그인하고 성공을 재개했습니다. 이메일을 확인하십시오."
+
+msgid "You sign in and make resume fail! Please try again."
+msgstr "로그인하여 이력서 작성에 실패했습니다. 다시 시도하십시오."
+
+msgid "You signed in and created profile success. Please check your email."
+msgstr "로그인하여 프로필 성공을 만들었습니다. 이메일을 확인하십시오."
+
+msgid "You sign in and create profile fail! Please try again."
+msgstr "로그인하여 프로필을 만들지 못했습니다! 다시 시도하십시오."
+
+msgid "View all"
+msgstr "모두보기"
+
+msgid "Consultant"
+msgstr "컨설턴트"
+
+msgid "Consultant List"
+msgstr "컨설턴트 목록"
+
+msgid "You can not modify duration or card after start or donate."
+msgstr "시작 또는 기부 후 기간이나 카드를 수정할 수 없습니다."
+
+msgid "Post to offer"
+msgstr "제공 할 게시"
+
+msgid "Create now"
+msgstr "지금 만들기"
+
+msgid "Yes"
+msgstr "예"
+
+msgid "No"
+msgstr "아니"
+
+msgid "Recruit"
+msgstr "모집"
+
+msgid "Recruit now"
+msgstr "지금 모집하십시오"
+
+msgid "Recruit Master"
+msgstr "리크루트 마스터"
+
+msgid "Add Recruit"
+msgstr "채용 정보 추가"
+
+msgid "Edit Recruit"
+msgstr "채용 정보 편집"
+
+msgid "Recruit list"
+msgstr "모집리스트"
+
+msgid "Recruiter was not available."
+msgstr "채용 담당자가 없습니다."
+
+msgid "Applicant"
+msgstr "응모자"
+
+msgid "Applicant list"
+msgstr "신청자리스트"
+
+msgid "Apply letter"
+msgstr "신청서"
+
+msgid "Apply date time"
+msgstr "날짜 시간 적용"
+
+msgid "Match"
+msgstr "시합"
+
+msgid "Not set"
+msgstr "설정되지 않음"
+
+msgid "Not match"
+msgstr "일치하지 않음"
+
+msgid "Matched"
+msgstr "일치"
+
+msgid "Confirm"
+msgstr "확인"
+
+msgid "Manage your Account, Contact information and Company information."
+msgstr "귀하의 계정, 연락처 정보 및 회사 정보를 관리하십시오."
+
+msgid "Account has edited success."
+msgstr "계정이 성공적으로 수정되었습니다."
+
+msgid "Profile Creator is the component allow you make the best introduction about your company to employee and partner.<br/>It also appear your company on companies list."
+msgstr "프로필 작성자는 직원 및 파트너에게 귀사에 대해 가장 잘 소개 할 수있게 해주는 구성 요소입니다. <br/> 또한 귀사는 회사 목록에 귀사를 나타냅니다."
+
+msgid "Donate to promote your company presentation on sponsor list and view by employee and partner in first."
+msgstr "스폰서 목록에 회사 프리젠 테이션을 홍보하고 직원과 파트너가 먼저 확인하십시오."
+
+msgid "Candidate"
+msgstr "후보자"
+
+msgid "Candidate List"
+msgstr "후보 목록"
+
+msgid "Preview Candidate"
+msgstr "후보자 미리보기"
+
+msgid "Candidate was not available."
+msgstr "후보자가 없습니다."
+
+msgid "Square logo"
+msgstr "정사각형 로고"
+
+msgid "Rectangle logo"
+msgstr "직사각형 로고"
+
+msgid "Allowance No."
+msgstr "면허 번호"
+
+msgid "of this candidate."
+msgstr "이 후보자의"
+
+msgid "Gender"
+msgstr "성별"
+
+msgid "Male"
+msgstr "남성"
+
+msgid "Female"
+msgstr "여자"
+
+msgid "Birthday"
+msgstr "생일"
+
+msgid "Please"
+msgstr "부디"
+
+msgid "to"
+msgstr "에"
+
+msgid "Apply"
+msgstr "대다"
+
+msgid "Application"
+msgstr "신청"
+
+msgid "Letter"
+msgstr "편지"
+
+msgid "Application has sent success."
+msgstr "신청서가 성공을 보냈습니다."
+
+msgid "You applied this job already."
+msgstr "이 작업을 이미 적용했습니다."
+
+msgid "Logo"
+msgstr "심벌 마크"
+
+msgid "Top Companies"
+msgstr "상위 기업"
+
+msgid "Latest join"
+msgstr "최근 가입"
+
+msgid "Joined on"
+msgstr "에 가입"
+
+msgid "Preview Company"
+msgstr "회사 미리보기"
+
+msgid "Job was not available."
+msgstr "작업을 사용할 수 없습니다."
+
+msgid "First"
+msgstr "먼저"
+
+msgid "Last"
+msgstr "마지막"
+
+msgid "Job list"
+msgstr "직업 목록"
+
+msgid "Share"
+msgstr "몫"
+
+msgid "Like"
+msgstr "처럼"
+
+msgid "this job."
+msgstr "이 직업."
+
+msgid "Apply now"
+msgstr "지금 신청하십시오"
+
+msgid "Add"
+msgstr "더하다"
+
+msgid "Edit"
+msgstr "편집하다"
+
+msgid "Delete"
+msgstr "지우다"
+
+msgid "Add skill"
+msgstr "스킬 추가"
+
+msgid "Add group"
+msgstr "그룹 추가"
+
+msgid "Remove"
+msgstr "풀다"
+
+msgid "Remove skill"
+msgstr "스킬 제거"
+
+msgid "Remove group"
+msgstr "그룹 삭제"
+
+msgid "Back"
+msgstr "뒤로"
+
+msgid "Make it now"
+msgstr "지금 확인하십시오."
+
+msgid "Create it now"
+msgstr "지금 만들어라."
+
+msgid "Promotion now"
+msgstr "프로모션"
+
+msgid "Search Job"
+msgstr "검색 작업"
+
+msgid "No result find out."
+msgstr "결과가 없습니다."
+
+msgid "Preview Job"
+msgstr "미리보기 작업"
+
+msgid "Job"
+msgstr "일"
+
+msgid "Result"
+msgstr "결과"
+
+msgid "Rate"
+msgstr "율"
+
+msgid "Mission"
+msgstr "사명"
+
+msgid "Introduction"
+msgstr "소개"
+
+msgid "Quantity"
+msgstr "수량"
+
+msgid "Input your quantity"
+msgstr "수량 입력"
+
+msgid "Grade"
+msgstr "학년"
+
+msgid "Salary"
+msgstr "봉급"
+
+msgid "Requirement"
+msgstr "요구 사항"
+
+msgid "Input your requirement"
+msgstr "요구 사항 입력"
+
+msgid "Please select"
+msgstr "선택 해주세요"
+
+msgid "Sign in now"
+msgstr "지금 로그인"
+
+msgid "Edit now"
+msgstr "지금 편집"
+
+msgid "If you have account already please login first."
+msgstr "이미 계정이 있다면 먼저 로그인하십시오."
+
+msgid "Resume maker is the component allow you make your CV.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "이력서 작성기는 귀하의 이력서를 작성할 수있게 해주는 구성 요소입니다. <br/> 또한 모든 프린터로 인쇄하여 Excel 또는 CSV 파일로 서식을 지정할 수 있습니다."
+
+msgid "Profile Creator is the component allow you make the best introduction by your skill.<br/>It also allow you print with any printer and format it in Excel or CSV file."
+msgstr "프로필 작성기는 기술로 가장 잘 소개 할 수 있도록 해주는 구성 요소입니다. <br/> 또한 모든 프린터로 인쇄하여 Excel 또는 CSV 파일로 서식을 지정할 수 있습니다."
+
+msgid "Promotion Center is the component allow you make the best introduction by your self to employer and recruiter.<br/>It also appear you are on the sponsor list and appear your knowledge, skill and experiment."
+msgstr "프로모션 센터는 고용주와 신병 모집 자에게 자신이 가장 잘 소개 할 수 있도록 해주는 구성 요소입니다. <br/> 또한 귀하는 스폰서 목록에 올라 있으며 지식, 기술 및 실험을 표시합니다."
+
+msgid "Resume"
+msgstr "이력서"
+
+msgid "Resume list"
+msgstr "이력서리스트"
+
+msgid "Add Resume"
+msgstr "이력서 추가"
+
+msgid "Edit Resume"
+msgstr "이력서 편집"
+
+msgid "Resume was not available."
+msgstr "이력서를 사용할 수 없습니다."
+
+msgid "Profile"
+msgstr "윤곽"
+
+msgid "Profile list"
+msgstr "프로필 목록"
+
+msgid "Add Profile"
+msgstr "프로필 추가"
+
+msgid "Edit Profile"
+msgstr "프로필 수정"
+
+msgid "Profile was not available."
+msgstr "프로필을 사용할 수 없습니다."
+
+msgid "Promotion was not available."
+msgstr "프로모션을 사용할 수 없습니다."
+
+msgid "Resume was not available. Please create least one to promote."
+msgstr "이력서를 사용할 수 없습니다. 홍보 할 광고를 하나 이상 만드십시오."
+
+msgid "Profile was not available. Please create least one to promote."
+msgstr "프로필을 사용할 수 없습니다. 홍보 할 광고를 하나 이상 만드십시오."
+
+msgid "Promotion list"
+msgstr "프로모션 목록"
+
+msgid "Add Promotion"
+msgstr "프로모션 추가"
+
+msgid "Edit Promotion"
+msgstr "프로모션 수정"
+
+msgid "Input your skill group name"
+msgstr "스킬 그룹 이름 입력"
+
+msgid "Level"
+msgstr "수평"
+
+msgid "Skill"
+msgstr "기술"
+
+msgid "Skill name"
+msgstr "기술 이름"
+
+msgid "Duration"
+msgstr "지속"
+
+msgid "Card"
+msgstr "카드"
+
+msgid "Card type"
+msgstr "카드 종류"
+
+msgid "Other card"
+msgstr "다른 카드"
+
+msgid "Input your other card name"
+msgstr "다른 카드 이름을 입력하십시오."
+
+msgid "Card No."
+msgstr "카드 번호."
+
+msgid "Input your card number"
+msgstr "카드 번호 입력"
+
+msgid "Title"
+msgstr "표제"
+
+msgid "Input your title"
+msgstr "제목 입력"
+
+msgid "Description"
+msgstr "기술"
+
+msgid "Input your description"
+msgstr "설명 입력"
+
+msgid "Input your mission"
+msgstr "당신의 임무 입력"
+
+msgid "Input your introduction"
+msgstr "소개 입력"
+
+msgid "Education"
+msgstr "교육"
+
+msgid "Experiment"
+msgstr "실험"
+
+msgid "School"
+msgstr "학교"
+
+msgid "Input your school name"
+msgstr "학교 이름 입력"
+
+msgid "Start"
+msgstr "스타트"
+
+msgid "End"
+msgstr "종료"
+
+msgid "Major"
+msgstr "주요한"
+
+msgid "Company"
+msgstr "회사"
+
+msgid "Input your company name"
+msgstr "회사 이름 입력"
+
+msgid "Identify No."
+msgstr "식별 번호"
+
+msgid "Input your identify number"
+msgstr "신원 번호를 입력하십시오."
+
+msgid "Tax code"
+msgstr "세금 코드"
+
+msgid "Input your tax code"
+msgstr "세금 코드 입력"
+
+msgid "Name"
+msgstr "이름"
+
+msgid "Input your name"
+msgstr "이름 입력"
+
+msgid "Username"
+msgstr "사용자 이름"
+
+msgid "Input your username"
+msgstr "사용자 이름 입력"
+
+msgid "Password"
+msgstr "암호"
+
+msgid "Input your password"
+msgstr "비밀번호를 입력하십시오."
+
+msgid "First name"
+msgstr "이름"
+
+msgid "Input your first name"
+msgstr "이름 입력"
+
+msgid "Last name"
+msgstr "성"
+
+msgid "Input your last name"
+msgstr "성을 입력하십시오."
+
+msgid "Email"
+msgstr "이메일"
+
+msgid "account@domain"
+msgstr "계정@도메인"
+
+msgid "Phone"
+msgstr "전화"
+
+msgid "Input your phone"
+msgstr "휴대 전화 입력"
+
+msgid "Address"
+msgstr "주소"
+
+msgid "Input your address"
+msgstr "주소 입력"
+
+msgid "Title"
+msgstr "표제"
+
+msgid "Input your title"
+msgstr "제목 입력"
+
+msgid "Content"
+msgstr "함유량"
+
+msgid "Input your content"
+msgstr "콘텐츠 입력"
+
+msgid "Position"
+msgstr "위치"
+
+msgid "Input your position"
+msgstr "위치 입력"
+
+msgid "Major/Field"
+msgstr "전공 / 분야"
+
+msgid "Country"
+msgstr "국가"
+
+msgid "Location"
+msgstr "위치"
+
+msgid "Expire date"
+msgstr "만료일"
+
+msgid "Expire on"
+msgstr "만료일"
+
+msgid "Action"
+msgstr "동작"
+
+msgid "View detail"
+msgstr "자세히보기"
+
+# Template
+msgid "EMPLOYER"
+msgstr "고용주"
+
+msgid "EMPLOYEE"
+msgstr "종업원"
+
+msgid "Search Jobs"
+msgstr "채용 정보 검색"
+
+msgid "Companies List"
+msgstr "회사 명단"
+
+msgid "Keyword"
+msgstr "예어"
+
+msgid "All majors"
+msgstr "모든 전공"
+
+msgid "All countries"
+msgstr "모든 나라들"
+
+msgid "All locations"
+msgstr "모든 위치"
+
+msgid "Search now"
+msgstr "지금 검색"
+
+msgid "Login"
+msgstr "로그인"
+
+msgid "You were login success."
+msgstr "당신은 로그인 성공했습니다."
+
+msgid "This account was not available!"
+msgstr "이 계정을 사용할 수 없습니다."
+
+msgid "Login now"
+msgstr "지금 로그인"
+
+msgid "Create an account"
+msgstr "계정 만들기"
+
+msgid "Forgot password"
+msgstr "비밀번호를 잊으 셨나요"
+
+msgid "Account"
+msgstr "계정"
+
+msgid "Hello"
+msgstr "안녕하세요"
+
+msgid "Logout"
+msgstr "로그 아웃"
+
+msgid "Edit account"
+msgstr "계정 수정"
+
+msgid "Edit Account"
+msgstr "계정 수정"
+
+msgid "Manage your Account information and Contact information."
+msgstr "계정 정보 및 연락처 정보를 관리하십시오."
+
+msgid "Sponsor"
+msgstr "스폰서"
+
+msgid "Subscribe"
+msgstr "구독하기"
+
+msgid "Subscribe to get latest information and new arrival jobs alert."
+msgstr "구독 최신 정보 및 새로운 도착 작업 경고."
+
+msgid "Subscribe success."
+msgstr "구독 성공."
+
+msgid "Subscribe fail."
+msgstr "구독에 실패했습니다."
+
+msgid "Subscribe now"
+msgstr "지금 구독하십시오."
+
+msgid "Contact us"
+msgstr "문의하기"
+
+msgid "Contact us now to get more information."
+msgstr "자세한 정보를 얻으려면 지금 문의하십시오."
+
+msgid "Contact now"
+msgstr "기업에게 연락 해주기"
+
+msgid "Registry to get more features"
+msgstr "더 많은 기능을 얻으려는 레지스트리"
+
+msgid "Contact us success."
+msgstr "성공에 문의하십시오."
+
+msgid "Contact us fail!"
+msgstr "저희에게 연락주세요!"
+
+msgid "ViRecruitment"
+msgstr ""
+
+msgid "About us"
+msgstr "회사 소개"
+
+msgid "Support"
+msgstr "지원하다"
+
+msgid "FAQ"
+msgstr "자주하는 질문"
+
+msgid "Component"
+msgstr "구성 요소"
+
+msgid "Resume Maker"
+msgstr "이력서 작성기"
+
+msgid "Profile Creator"
+msgstr "프로필 작성자"
+
+msgid "Promotion Center"
+msgstr "프로모션 센터"
+
+msgid "Follow us"
+msgstr "우리를 따르라."
+
+msgid "60 Vo Thi Sau, Lien Huong, Tuy Phong, Binh Thuan, Vietnam"
+msgstr ""
+
+msgid "prefer"
+msgstr "취하다"
+
+msgid "or"
+msgstr "또는"
+
+msgid "All right reserved."
+msgstr "알았어."
+
+msgid "Powered by"
+msgstr "에 의해 제공"
+
+# Top
+msgid "Top Job"
+msgstr "최고 직업"
+
+msgid "Jobs Ofference"
+msgstr "취업 알선" 
+
+msgid "Latest post"
+msgstr "최신 게시물"
+
+msgid "Posted on"
+msgstr "에 게시 됨"
+
+msgid "We proud to"
+msgstr "우리는 자랑 스럽다."
+
+msgid "More than 10 years of IT services"
+msgstr "10 년 이상의 IT 서비스"
+
+msgid "We comprehension your mission, your vision deeply.<br/>We owned the latest technology.<br/>We have enthusiasm, passion and reliable."
+msgstr "우리는 당신의 사명과 당신의 비전을 깊이 이해합니다. <br/> 우리는 최신 기술을 소유했습니다. <br/> 우리는 열정과 열정과 신뢰를 가지고 있습니다."
+
+msgid "Provide the best solution"
+msgstr "최상의 솔루션 제공"
+
+msgid "ViReruitment is the one of the best our solution to make your business to next level.<br/>We make the life more easy and more happiness."
+msgstr "ViReruitment 귀하의 사업을 다음 단계로 나아갈 수있는 최상의 솔루션 중 하나입니다. <br/> 우리는 삶을 더 쉽고 행복하게 만듭니다."
+
+msgid "We offer to"
+msgstr "우리는에 제공"
+
+msgid "Find candidate matched to your jobs"
+msgstr "귀하의 직업과 일치하는 후보자 찾기"
+
+msgid "We promise your jobs will attend by the best candidate.<br/>Fast and exactly to get the applied candidate list."
+msgstr "우리는 귀하의 직업이 최고의 후보자가 참석할 것을 약속드립니다. <br/> 신속하고 정확하게 후보자리스트를 얻으십시오."
+
+msgid "Make yours highlight"
+msgstr "너의 강조하기"
+
+msgid "Your jobs always on the top of jobs list.<br/>Make the urgent jobs to more easy."
+msgstr "귀하의 직업은 항상 직업 목록의 상단에 있습니다. <br/> • 긴급한 직업을보다 쉽게 만듭니다."
+
+# Sign in
+msgid "Sign in"
+msgstr "로그인"
+
+msgid "Sign in to used full our feature and component."
+msgstr "로그인하여 Google의 모든 기능과 구성 요소를 사용했습니다."
+
+msgid "Contact"
+msgstr "접촉"
+
+msgid "Avatar"
+msgstr "화신"
+
+msgid "Why choose our service?"
+msgstr "왜 우리의 서비스를 선택합니까?"
+
+msgid "<h4 class="m0">We build the IT services:</h4>With more than 10 experiment years.<br/>With the knowledge and comprehension about business solution.<br/><h4 class="m0">We provide the best of IT solutions.</h4>With the team designer and developer work in rich of experiment, passion and responsible."
+msgstr "<h4 class = "m0"> 우리는 10 년 이상의 실험 기간을 가진 </ h4> IT 서비스를 구축합니다. <br/> 비즈니스 솔루션에 대한 지식과 이해력이 있습니다. <br/> <h4 class = "m0"> 우리는 최고의 IT 솔루션을 제공합니다. </ h4> 팀 디자이너와 개발자가 풍부한 실험, 열정 및 책임감으로 일합니다."
+
+msgid "Contact us to get more information"
+msgstr "자세한 정보를 얻으려면 당사에 문의하십시오."
+
+# Major
+msgid "Accounting"
+msgstr "회계"
+
+msgid "Administrative"
+msgstr "관리"
+
+msgid "Advertising"
+msgstr "광고하는"
+
+msgid "Agriculture"
+msgstr "농업"
+
+msgid "Airline"
+msgstr "공기 호스"
+
+msgid "Architecture"
+msgstr "건축물"
+
+msgid "Art Design"
+msgstr "예술 디자인"
+
+msgid "Banking"
+msgstr "은행업"
+
+msgid "Chemical"
+msgstr "화학"
+
+msgid "Construction"
+msgstr "구성"
+
+msgid "Consulting"
+msgstr "컨설팅"
+
+msgid "Education"
+msgstr "교육"
+
+msgid "Electrical/Electronic"
+msgstr "전기 / 전자"
+
+msgid "Environment"
+msgstr "환경"
+
+msgid "Export/Import"
+msgstr "내보내기 / 가져 오기"
+
+msgid "Fashion"
+msgstr "유행"
+
+msgid "Finance"
+msgstr "재원"
+
+msgid "Food"
+msgstr "식품"
+
+msgid "Health Care"
+msgstr "건강 관리"
+
+msgid "Human Resource"
+msgstr "인적 자원"
+
+msgid "Insurance"
+msgstr "보험"
+
+msgid "Internet Media"
+msgstr "인터넷 미디어"
+
+msgid "IT - Hardware/Networking"
+msgstr "IT - 하드웨어 / 네트워킹"
+
+msgid "IT - Software"
+msgstr "IT - 소프트웨어"
+
+msgid "Interpreter/Translator"
+msgstr "통역 / 번역사"
+
+msgid "Marketing"
+msgstr "마케팅"
+
+msgid "Mechanical"
+msgstr "기계"
+
+msgid "Oil/Gas"
+msgstr "석유 / 가스"
+
+msgid "Overseas Jobs"
+msgstr "해외 채용 정보"
+
+msgid "Pharmaceutical"
+msgstr "제약"
+
+msgid "QA/QC"
+msgstr ""
+
+msgid "Real Estate"
+msgstr "부동산"
+
+msgid "Sales"
+msgstr "매상"
+
+msgid "Securities"
+msgstr "증권"
+
+msgid "Telecommunication"
+msgstr "증권"
+
+msgid "TV/Media/Newspaper"
+msgstr "TV / 미디어 / 신문"
+
+msgid "Warehouse"
+msgstr "창고"
+
+msgid "Staff"
+msgstr "직원"
+
+msgid "Marine"
+msgstr "선박"
+
+msgid "Logistics"
+msgstr "기호 논리학"
+
+# Mypage
+
+msgid "Applied Job"
+msgstr "적용된 작업"
+
+msgid "Applied list"
+msgstr "적용된 목록"
+
+msgid "Applied date"
+msgstr "적용 일자"
+
+msgid "Applies was not available."
+msgstr "적용 할 수 없습니다."
